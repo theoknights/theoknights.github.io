@@ -11,7 +11,7 @@ description: I am a PhD student in the Department of Near Eastern Languages and 
 <img alt="an image of Theo" src="{{ site.url }}/images/theoheadshot.jpg" 
         width="250" id="imgClickAndChange"   />
 </div>
-<div class="mobileonly" id="container">
+<div style="text-align: center" class="mobileonly" id="container">
 	<img src="{{ site.url }}/images/theoheadshot.jpg"  style="max-width:100%;height:auto" />
 
 </div>
