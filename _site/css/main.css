@@ -9,7 +9,7 @@
 body {
   margin: 0;
   color: #303030;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   font-weight: 300;
   font-size: 1.1em;
   line-height: 1.6;
@@ -22,7 +22,7 @@ h2,
 h3 {
   font-weight: 600;
   color: #005430;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   line-height: 2;
 }
 
@@ -179,7 +179,7 @@ aside nav ul li a {
   text-decoration: none;
   display: block;
   padding: 15px;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: "Noto Sans", sans-serif;
   line-height: 20px;
   margin-bottom: -1px;
   box-shadow: 0;
@@ -409,3 +409,5 @@ footer {
 .highlight .il {
   color: #099;
 }
+
+/*# sourceMappingURL=main.css.map */
