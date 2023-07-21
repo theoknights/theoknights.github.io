@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+description: I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago where I study early modern Ottoman history.
 ---
 
 <div style="float: right" class="desktoponly" id="container">
@@ -17,7 +18,7 @@ layout: default
 
 <div class="parent-selector" style="padding-top: 20px">  
   <div id="container"> 
-	I am a PhD student in Ottoman History focused on the early modern period. My research interests include examining Ottoman reading practices through multi-text miscellanies (<i>mecmûa</i>) and employing microhistorical approaches to explore Ottoman involvement in the global trade and scholarly networks of early modernity. Prior to joining NELC, I was a Nizami Ganjavi Centre Scholar at the University of Oxford where I received an MSt in Oriental Studies. I also hold an MA from the University of Chicago’s Center for Middle Eastern Studies. 
+	I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago where I study early modern Ottoman history. My research interests include examining Ottoman reading practices through multi-text miscellanies (<i>mecmûa</i>) and employing microhistorical approaches to explore Ottoman involvement in the global trade and scholarly networks of early modernity. Prior to joining NELC, I was a Nizami Ganjavi Centre Scholar at the University of Oxford where I received an MSt in Oriental Studies. I also hold an MA from the University of Chicago’s Center for Middle Eastern Studies. 
   <br><br>
 	My graduate thesis at Oxford titled “The Origins of an Ottoman Bourgeois Social Reformer: Recontextualizing Mustafa Suphi’s Early Thought” advances a new understanding of the early writings of the late Ottoman intellectual Mustafa Suphi based on a careful re-reading of his pamphlet <i>Vazîfe-i Temdîn</i> (<i>The Civilizing Mission</i>) and previously unstudied documents from Suphi’s time as a student in Paris. 
   <br><br>
