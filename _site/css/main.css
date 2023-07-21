@@ -9,7 +9,7 @@
 body {
   margin: 0;
   color: #303030;
-  font-family: "Mulish", sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-size: 1.1em;
   line-height: 1.6;
   -webkit-font-smoothing: auto;
@@ -21,7 +21,7 @@ h2,
 h3 {
   font-weight: 600;
   color: #005430;
-  font-family: "Merriweather", sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   line-height: 2;
 }
 
@@ -178,7 +178,7 @@ aside nav ul li a {
   text-decoration: none;
   display: block;
   padding: 15px;
-  font-family: "Muli", sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   line-height: 20px;
   margin-bottom: -1px;
   box-shadow: 0;
