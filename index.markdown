@@ -12,7 +12,7 @@ description: I am a PhD student in the Department of Near Eastern Languages and 
         width="250" id="imgClickAndChange"   />
 </div>
 <div style="text-align: center" class="mobileonly" id="container">
-	<img src="{{ site.url }}/images/theoheadshot.jpg"  style="max-width:50%;height:auto" />
+	<img src="{{ site.url }}/images/theoheadshot.jpg"  style="max-width:100%;height:auto" />
 
 </div>
 
