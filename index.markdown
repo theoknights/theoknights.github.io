@@ -22,7 +22,7 @@ layout: default
 	My graduate thesis at Oxford titled “The Origins of an Ottoman Bourgeois Social Reformer: Recontextualizing Mustafa Suphi’s Early Thought” advances a new understanding of the early writings of the late Ottoman intellectual Mustafa Suphi based on a careful re-reading of his pamphlet <i>Vazîfe-i Temdîn</i> (<i>The Civilizing Mission</i>) and previously unstudied documents from Suphi’s time as a student in Paris. 
   <br><br>
 	
-	I am also the student coordinator for the University of Chicago's Middle East History and Theory Workshop and graduate student conference. Interested presenters and participants can find out more on the MEHAT tab.
+	I am also the student coordinator for the University of Chicago's Middle East History and Theory Workshop and graduate student conference. Interested presenters and participants can find out more on the <a href="{{ site.url }}/blog/">MEHAT tab</a>.
 
   <br><br>
 	
