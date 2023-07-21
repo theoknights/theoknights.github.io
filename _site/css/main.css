@@ -1,0 +1,410 @@
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: #303030;
+  font-family: "Mulish", sans-serif;
+  font-size: 1.1em;
+  line-height: 1.6;
+  -webkit-font-smoothing: auto;
+  background-color: #FFFFFF;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  color: #005430;
+  font-family: "Merriweather", sans-serif;
+  line-height: 2;
+}
+
+h1 {
+  color: #005430;
+  font-size: 2.5em;
+}
+h1 a,
+h1 a:visited {
+  text-decoration: none;
+  color: #005430;
+}
+
+h2 {
+  font-size: 2em;
+  margin: 10;
+}
+
+h4 {
+  text-decoration: none;
+}
+
+a,
+a:visited {
+  color: #005430;
+  text-decoration: underline;
+  /*font-weight: bold;*/
+}
+
+a:hover {
+  color: #F7A278;
+  text-decoration: underline;
+}
+
+header {
+  background: rgba(0, 84, 48, 0.1);
+  padding: 15px 10px;
+  text-align: center;
+  margin: 0 0 0;
+  height: 0vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  padding: 0 15px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+time {
+  color: #898989;
+  margin: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Jordan Mods */
+blockquote {
+  background: #F1F7ED;
+  margin-left: 1em 10px;
+  padding: 0.2em 10px;
+}
+
+.boxed {
+  border: 2px solid #F0F0F0;
+  padding: 5px 5px;
+}
+
+.left {
+  float: left;
+  padding: 0 20px 20px 0;
+}
+
+/* research page collapsibles*/
+.collapsible {
+  display: block;
+}
+.collapsible input {
+  position: absolute;
+  left: -9999px;
+}
+.collapsible input:focus ~ .collapser {
+  border-color: #F0F0F0;
+}
+.collapsible .collapser {
+  cursor: pointer;
+  border: 1px transparent dotted;
+}
+.collapsible .arrow {
+  float: right;
+  display: inline-block;
+  transform: rotate(90deg);
+}
+.collapsible .collapsed {
+  font-size: 0;
+  margin: 0;
+  opacity: 0;
+  padding: 0;
+}
+
+input:checked ~ .arrow {
+  transform: rotate(270deg);
+}
+
+input:checked ~ .collapsed {
+  font-size: 16px;
+  opacity: 1;
+  height: auto;
+  padding: 2px 0;
+}
+
+.arrow {
+  transition: transform 0.25s ease-out;
+}
+
+.collapsed {
+  /* fade out, then shrink */
+  transition: opacity 0.25s, margin 0.5s 0.25s, font-size 0.5s 0.25s, padding 0.5s 0.25s;
+}
+
+input:checked ~ .collapsed {
+  /* grow, then fade in */
+  transition: margin 0.25s, padding 0.25s, font-size 0.25s, opacity 0.5s 0.25s;
+}
+
+/* Aside */
+aside {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #fff;
+  width: 100%;
+  z-index: 2;
+  border-bottom: 1px solid white;
+  box-shadow: 0px 1px 1px rgba(4, 25, 54, 0.1);
+}
+aside nav {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+aside nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex; /* Use Flexbox */
+}
+aside nav ul li a {
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+  font-family: "Muli", sans-serif;
+  line-height: 20px;
+  margin-bottom: -1px;
+  box-shadow: 0;
+}
+aside nav ul li a:hover, aside nav ul li a:active {
+  background: rgba(0, 84, 48, 0.1);
+  text-decoration: none;
+  color: #005430;
+}
+aside nav ul .float-left {
+  margin-right: auto; /* Pushes the first li to the left */
+}
+aside nav:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  padding: 200px;
+}
+
+/**
+ * Syntax highlighting styles
+ */
+.highlight {
+  background: #F8F8F8;
+}
+.highlight .c {
+  color: #998;
+  font-style: italic;
+}
+.highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+}
+.highlight .k {
+  font-weight: bold;
+}
+.highlight .o {
+  font-weight: bold;
+}
+.highlight .cm {
+  color: #998;
+  font-style: italic;
+}
+.highlight .cp {
+  color: #999;
+  font-weight: bold;
+}
+.highlight .c1 {
+  color: #998;
+  font-style: italic;
+}
+.highlight .cs {
+  color: #999;
+  font-weight: bold;
+  font-style: italic;
+}
+.highlight .gd {
+  color: #000;
+  background-color: #fdd;
+}
+.highlight .gd .x {
+  color: #000;
+  background-color: #faa;
+}
+.highlight .ge {
+  font-style: italic;
+}
+.highlight .gr {
+  color: #a00;
+}
+.highlight .gh {
+  color: #999;
+}
+.highlight .gi {
+  color: #000;
+  background-color: #dfd;
+}
+.highlight .gi .x {
+  color: #000;
+  background-color: #afa;
+}
+.highlight .go {
+  color: #888;
+}
+.highlight .gp {
+  color: #555;
+}
+.highlight .gs {
+  font-weight: bold;
+}
+.highlight .gu {
+  color: #aaa;
+}
+.highlight .gt {
+  color: #a00;
+}
+.highlight .kc {
+  font-weight: bold;
+}
+.highlight .kd {
+  font-weight: bold;
+}
+.highlight .kp {
+  font-weight: bold;
+}
+.highlight .kr {
+  font-weight: bold;
+}
+.highlight .kt {
+  color: #458;
+  font-weight: bold;
+}
+.highlight .m {
+  color: #099;
+}
+.highlight .s {
+  color: #d14;
+}
+.highlight .na {
+  color: #008080;
+}
+.highlight .nb {
+  color: #0086B3;
+}
+.highlight .nc {
+  color: #458;
+  font-weight: bold;
+}
+.highlight .no {
+  color: #008080;
+}
+.highlight .ni {
+  color: #800080;
+}
+.highlight .ne {
+  color: #900;
+  font-weight: bold;
+}
+.highlight .nf {
+  color: #900;
+  font-weight: bold;
+}
+.highlight .nn {
+  color: #555;
+}
+.highlight .nt {
+  color: #000080;
+}
+.highlight .nv {
+  color: #008080;
+}
+.highlight .ow {
+  font-weight: bold;
+}
+.highlight .w {
+  color: #bbb;
+}
+.highlight .mf {
+  color: #099;
+}
+.highlight .mh {
+  color: #099;
+}
+.highlight .mi {
+  color: #099;
+}
+.highlight .mo {
+  color: #099;
+}
+.highlight .sb {
+  color: #d14;
+}
+.highlight .sc {
+  color: #d14;
+}
+.highlight .sd {
+  color: #d14;
+}
+.highlight .s2 {
+  color: #d14;
+}
+.highlight .se {
+  color: #d14;
+}
+.highlight .sh {
+  color: #d14;
+}
+.highlight .si {
+  color: #d14;
+}
+.highlight .sx {
+  color: #d14;
+}
+.highlight .sr {
+  color: #009926;
+}
+.highlight .s1 {
+  color: #d14;
+}
+.highlight .ss {
+  color: #990073;
+}
+.highlight .bp {
+  color: #999;
+}
+.highlight .vc {
+  color: #008080;
+}
+.highlight .vg {
+  color: #008080;
+}
+.highlight .vi {
+  color: #008080;
+}
+.highlight .il {
+  color: #099;
+}

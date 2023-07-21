@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Theo Knights</title>
+
+	<link rel="stylesheet" href="/css/main.css">
+	<link rel="canonical" href="http://localhost:4000/">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet" type='text/css'>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Merriweather:wght@300&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap" rel="stylesheet">
+	<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:4000/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:4000/images/favicon-16x16.png">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+
+	<style>
+		div.desktoponly {
+		  padding: 20px;
+		}
+	
+		
+		div.mobileonly {
+		  padding: 20px;
+		}
+	
+		@media screen and (min-width:900px) {
+		  div.mobileonly {
+			display: none;
+		  }
+		}
+	
+		@media screen and (max-width: 900px) {
+		  div.desktoponly {
+			display: none;
+		  }
+		}
+		
+	</style>
+	
+
+</head> 
+
+ <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+<body>
+	<div class="desktoponly">
+	<aside>
+	<nav>
+	  <ul>
+		<li class="float-left"><a href="http://localhost:4000">Theo Knights</a></li>
+		<!--  
+		<li><a href="/research/">Research</a></li>
+		            -->
+		<li class="float-right"><a href="http://localhost:4000/blog/">MEHAT</a></li>
+		<li class="float-right"><a href="http://localhost:4000/research/">Research</a></li>
+		<li class="float-right"><a href="http://localhost:4000/pdfs/CV  July 2023 — Knights.pdf">CV</a></li>
+	  </ul>
+	</nav>
+  </aside>
+
+<br><br>
+<!-- <header>
+	<h1><a href="">Theo Knights</a></h1>
+</header>  -->
+	</div>
+	<div class="mobileonly">
+	<aside>
+	<nav>
+		<ul>
+			<li class="float-left"><a href="http://localhost:4000">Theo Knights</a></li>
+			<!--  
+			<li><a href="/research/">Research</a></li>
+			            -->
+			<li class="float-right"><a href="http://localhost:4000/blog/">MEHAT</a></li>
+			<li class="float-right"><a href="http://localhost:4000/research/">Research</a>
+			<li class="float-right"><a href="http://localhost:4000/pdfs/CV  July 2023 — Knights.pdf">CV</a>	
+		</ul>
+	</nav>
+</aside>
+<!-- <header>
+	<h1><a href="">Theo Knights</a></h1>
+</header>  -->
+	</div>
+	<main>
+		<article>
+			<div style="float: right" class="desktoponly" id="container">
+	<!--<img src=http://localhost:4000/images/theoheadshot.jpg width="250" />-->
+<img alt="an image of Theo" src="http://localhost:4000/images/theoheadshot.jpg" width="250" id="imgClickAndChange" />
+</div>
+<div class="mobileonly" id="container">
+	<img src="http://localhost:4000/images/theoheadshot.jpg" style="max-width:100%;height:auto" />
+
+</div>
+
+<div class="parent-selector" style="padding-top: 20px">  
+  <div id="container"> 
+	I am a PhD student in Ottoman History focused on the early modern period. My research interests include examining Ottoman reading practices through multi-text miscellanies (<i>mecmûa</i>) and employing microhistorical approaches to explore Ottoman involvement in the global trade and scholarly networks of early modernity. Prior to joining NELC, I was a Nizami Ganjavi Centre Scholar at the University of Oxford where I received an MSt in Oriental Studies. I also hold an MA from the University of Chicago’s Center for Middle Eastern Studies. 
+  <br /><br />
+	My graduate thesis at Oxford titled “The Origins of an Ottoman Bourgeois Social Reformer: Recontextualizing Mustafa Suphi’s Early Thought” advances a new understanding of the early writings of the late Ottoman intellectual Mustafa Suphi based on a careful re-reading of his pamphlet <i>Vazîfe-i Temdîn</i> (<i>The Civilizing Mission</i>) and previously unstudied documents from Suphi’s time as a student in Paris. 
+  <br /><br />
+	
+	I am also the student coordinator for the University of Chicago's Middle East History and Theory Workshop and graduate student conference. Interested presenters and participants should reach out to me via email to join the listhost.      
+
+  <br /><br />
+	
+	<a href="https://twitter.com/TheoKnights?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TheoKnights</a><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+
+<script language="javascript">
+
+        var images = ["http://localhost:4000/images/theoheadshot.jpg"]
+
+var imgState = 0;
+
+var imgTag = document.getElementById("imgClickAndChange");
+
+imgTag.addEventListener("click", function (event) {
+  imgState = (++imgState % 1);
+	event.target.src = images[imgState];
+});
+</script>
+
+
+		</article>
+		<br><br>
+<!--<footer>
+	<p style="color:#f0f0f0"> 
+	Site built from <a style="color:#f0f0f0" href="https://github.com/taniarascia/startjekyll">Tania Rascia's code</a> (<a style="color:#f0f0f0" href=https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages>with help</a>)  and hacked by me.
+	</p>
+</footer>
+-->
+	</main>
+</body>
+
+</html>

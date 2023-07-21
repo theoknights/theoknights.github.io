@@ -1,0 +1,54 @@
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet" type='text/css'>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Merriweather:wght@300&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap" rel="stylesheet">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ "/images/favicon-32x32.png" | prepend: site.url }}">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ "/images/favicon-16x16.png" | prepend: site.url }}">
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+
+	<style>
+		div.desktoponly {
+		  padding: 20px;
+		}
+	
+		
+		div.mobileonly {
+		  padding: 20px;
+		}
+	
+		@media screen and (min-width:900px) {
+		  div.mobileonly {
+			display: none;
+		  }
+		}
+	
+		@media screen and (max-width: 900px) {
+		  div.desktoponly {
+			display: none;
+		  }
+		}
+		
+	</style>
+	
+
+</head> 
+
+ <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
