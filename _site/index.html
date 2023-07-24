@@ -17,10 +17,32 @@
 	
 
 	<style>
+		.center-text {
+		text-align: center;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin: 10px 0; /* Adjust the margin as needed */
+		}
+
 		div.desktoponly {
 		  padding: 20px;
 		}
-	
+		#imgClickAndChange {
+		/* Add any styling you want for the image here */
+		-webkit-transition: all .3s ease-in;
+		-moz-transition: all .3s ease-in;
+		-ms-transition: all .3s ease-in;
+		-o-transition: all .3s ease-in;
+		transition: all .3s ease-in;
+		}
+
+		.enlarged {
+		/* Additional styles to apply when the image is enlarged */
+		transform: scale(1.75);
+		-ms-transform: scale(1.75); /* IE 9 */
+		-webkit-transform: scale(1.75); /* Safari and Chrome */
+		}
 		
 		div.mobileonly {
 		  padding: 20px;
@@ -66,6 +88,11 @@
         inlineMath: [['$','$']]
       }
     });
+    const imgClickAndChange = document.getElementById('imgClickAndChange');
+
+    imgClickAndChange.addEventListener('click', function() {
+      imgClickAndChange.classList.toggle('enlarged');
+    });
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
@@ -83,7 +110,7 @@
 		    
 		<li><a href="/blog/">MEHAT</a></li>
 		            -->
-		<li class="float-right"><a href="http://localhost:4000/graph/">Academic Geneology Tree</a></li>
+		<li class="float-right"><a href="http://localhost:4000/graph/">A NELC Genealogy</a></li>
 		<li class="float-right"><a href="http://localhost:4000/blog/">MEHAT</a></li>
 		<li class="float-right"><a href="http://localhost:4000/research/">Research</a></li>
 		<li class="float-right"><a href="http://localhost:4000/pdfs/CV July 2023 — Knights.pdf">CV</a></li>
