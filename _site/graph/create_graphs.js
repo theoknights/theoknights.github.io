@@ -140,22 +140,12 @@ function layout() {
   }
 
   var layerSpacingInput = document.getElementById("layerSpacing");
-  var layerSpacing = parseFloat(layerSpacingInput.value, 10);
-  if (!isNaN(layerSpacing)) {
-    lay.layerSpacing = layerSpacing;
-  } else {
-    // If the layer spacing is not a valid number, set it to the default value (50)
-    lay.layerSpacing = 50;
-  }
+  var layerSpacing = parseFloat(layerSpacingInput ? layerSpacingInput.value : "50", 10);
+  lay.layerSpacing = !isNaN(layerSpacing) ? layerSpacing : 50;
 
   var columnSpacingInput = document.getElementById("columnSpacing");
-  var columnSpacing = parseFloat(columnSpacingInput.value, 10);
-  if (!isNaN(columnSpacing)) {
-    lay.columnSpacing = columnSpacing;
-  } else {
-    // If the column spacing is not a valid number, set it to the default value (50)
-    lay.columnSpacing = 50;
-  }
+  var columnSpacing = parseFloat(columnSpacingInput ? columnSpacingInput.value : "50", 10);
+  lay.columnSpacing = !isNaN(columnSpacing) ? columnSpacing : 50;
 
   var cycleRemove = getRadioValue("cycleRemove");
   if (cycleRemove === "CycleDepthFirst") lay.cycleRemoveOption = go.LayeredDigraphLayout.CycleDepthFirst;
@@ -202,6 +192,7 @@ function layout() {
 
   myDiagram.commitTransaction("change Layout");
 }
+
 function getRadioValue(name) {
   var radio = document.getElementsByName(name);
   for (var i = 0; i < radio.length; i++)
