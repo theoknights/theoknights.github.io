@@ -139,13 +139,23 @@ function layout() {
     lay.direction = 0;
   }
 
-  var layerSpacing = document.getElementById("layerSpacing").value;
-  layerSpacing = parseFloat(layerSpacing, 10);
-  lay.layerSpacing = layerSpacing;
+  var layerSpacingInput = document.getElementById("layerSpacing");
+  var layerSpacing = parseFloat(layerSpacingInput.value, 10);
+  if (!isNaN(layerSpacing)) {
+    lay.layerSpacing = layerSpacing;
+  } else {
+    // If the layer spacing is not a valid number, set it to the default value (50)
+    lay.layerSpacing = 50;
+  }
 
-  var columnSpacing = document.getElementById("columnSpacing").value;
-  columnSpacing = parseFloat(columnSpacing, 10);
-  lay.columnSpacing = columnSpacing;
+  var columnSpacingInput = document.getElementById("columnSpacing");
+  var columnSpacing = parseFloat(columnSpacingInput.value, 10);
+  if (!isNaN(columnSpacing)) {
+    lay.columnSpacing = columnSpacing;
+  } else {
+    // If the column spacing is not a valid number, set it to the default value (50)
+    lay.columnSpacing = 50;
+  }
 
   var cycleRemove = getRadioValue("cycleRemove");
   if (cycleRemove === "CycleDepthFirst") lay.cycleRemoveOption = go.LayeredDigraphLayout.CycleDepthFirst;
