@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Academic Geneology Tree</title>
+	<title>A NELC genealogy</title>
 	<link rel="stylesheet" href="/css/main.css">
 	<link rel="shortcut icon" type="image/png" href="/favicon.png">
 	<link rel="canonical" href="http://localhost:4000/graph/">
@@ -16,56 +16,59 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:4000/images/favicon-16x16.png" | prepend: site.url }}">
 	
 
+
 	<style>
-		.center-text {
-		text-align: center;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		margin: 10px 0; /* Adjust the margin as needed */
-		}
-
-		div.desktoponly {
-		  padding: 20px;
-		}
-		#imgClickAndChange {
-		/* Add any styling you want for the image here */
-		-webkit-transition: all .3s ease-in;
-		-moz-transition: all .3s ease-in;
-		-ms-transition: all .3s ease-in;
-		-o-transition: all .3s ease-in;
-		transition: all .3s ease-in;
-		}
-
-		.enlarged {
-		/* Additional styles to apply when the image is enlarged */
-		transform: scale(1.75);
-		-ms-transform: scale(1.75); /* IE 9 */
-		-webkit-transform: scale(1.75); /* Safari and Chrome */
-		}
-		
-		div.mobileonly {
-		  padding: 20px;
-		}
-	
-		@media screen and (min-width:900px) {
-		  div.mobileonly {
-			display: none;
+		  .center-text {
+			text-align: center;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin: 10px 0; /* Adjust the margin as needed */
 		  }
-		}
-	
-		@media screen and (max-width: 900px) {
+
 		  div.desktoponly {
-			display: none;
+			padding: 20px;
+		  } 
+		  /* Add your existing styles here */
+		  #imgClickAndChange {
+			/* Add any styling you want for the image here */
+			-webkit-transition: all .3s ease-in;
+			-moz-transition: all .3s ease-in;
+			-ms-transition: all .3s ease-in;
+			-o-transition: all .3s ease-in;
+			transition: all .3s ease-in;
 		  }
-		}
-		
+	  
+		  .enlarged {
+			/* Additional styles to apply when the image is enlarged */
+			transform: scale(1.75);
+			-ms-transform: scale(1.75); /* IE 9 */
+			-webkit-transform: scale(1.75); /* Safari and Chrome */
+		  }
+		  div.mobileonly {
+			padding: 20px;
+		  }
+	  
+		  div.mobileonly {
+			padding: 20px;
+		  }
+	  
+		  @media screen and (min-width:900px) {
+			div.mobileonly {
+			  display: none;
+			}
+		  }
+	  
+		  @media screen and (max-width: 900px) {
+			div.desktoponly {
+			  display: none;
+			}
+		  }
 	</style>
-	
 	<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Academic Geneology Tree | Theo Knights</title>
+<title>A NELC genealogy | Theo Knights</title>
 <meta name="generator" content="Jekyll v4.3.2" />
-<meta property="og:title" content="Academic Geneology Tree" />
+<meta property="og:title" content="A NELC genealogy" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago, where I study the early modern Ottoman Empire." />
 <meta property="og:description" content="I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago, where I study the early modern Ottoman Empire." />
@@ -74,26 +77,44 @@
 <meta property="og:site_name" content="Theo Knights" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Academic Geneology Tree" />
+<meta property="twitter:title" content="A NELC genealogy" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago, where I study the early modern Ottoman Empire.","headline":"Academic Geneology Tree","url":"http://localhost:4000/graph/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago, where I study the early modern Ottoman Empire.","headline":"A NELC genealogy","url":"http://localhost:4000/graph/"}</script>
 <!-- End Jekyll SEO tag -->
 
-</head> 
+</head>
 
- <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
-      }
-    });
-    const imgClickAndChange = document.getElementById('imgClickAndChange');
 
-    imgClickAndChange.addEventListener('click', function() {
-      imgClickAndChange.classList.toggle('enlarged');
-    });
+<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({
+	  tex2jax: {
+		skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+		inlineMath: [['$','$']]
+	  }
+	});
+  
+	const imgClickAndChangeLongest = document.getElementById('imgClickAndChangeLongest');
+	const imgClickAndChangeFleischer = document.getElementById('imgClickAndChangeFleischer');
+	const imgClickAndChangeShissler = document.getElementById('imgClickAndChangeShissler');
+	const imgClickAndChangeUChicago = document.getElementById('imgClickAndChangeUChicago');
+  
+	imgClickAndChangeLongest.addEventListener('click', function() {
+	  imgClickAndChangeLongest.classList.toggle('enlarged');
+	});
+  
+	imgClickAndChangeFleischer.addEventListener('click', function() {
+	  imgClickAndChangeFleischer.classList.toggle('enlarged');
+	});
+
+	imgClickAndChangeShissler.addEventListener('click', function() {
+	  imgClickAndChangeShissler.classList.toggle('enlarged');
+	});
+
+	imgClickAndChangeUChicago.addEventListener('click', function() {
+	  imgClickAndChangeUChicago.classList.toggle('enlarged');
+	});
   </script>
+  
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 
@@ -106,7 +127,7 @@
 		<!--  
 		<li><a href="/research/">Research</a></li>
 		  
-		<li><a href="/graph/">Academic Geneology Tree</a></li>
+		<li><a href="/graph/">A NELC genealogy</a></li>
 		    
 		<li><a href="/blog/">MEHAT</a></li>
 		            -->
@@ -131,10 +152,11 @@
 			<!--  
 			<li><a href="/research/">Research</a></li>
 			  
-			<li><a href="/graph/">Academic Geneology Tree</a></li>
+			<li><a href="/graph/">A NELC genealogy</a></li>
 			    
 			<li><a href="/blog/">MEHAT</a></li>
 			            -->
+			<li class="float-right"><a href="http://localhost:4000/graph/">A NELC Genealogy</a></li>
 			<li class="float-right"><a href="http://localhost:4000/blog/">MEHAT</a></li>
 			<li class="float-right"><a href="http://localhost:4000/research/">Research</a>
 			<li class="float-right"><a href="http://localhost:4000/pdfs/CV July 2023 — Knights.pdf">CV</a>	
@@ -147,7 +169,7 @@
 	</div>
 	<main>
 		<article>
-			    <h3>A NELC Genealogy</h3>
+			    <h3>A NELC genealogy</h3>
 This page was inspired by the now defunct <a href='https://web.archive.org/web/20160309103012/https://modern-tabaqat.wikia.com/wiki/Modern_Tabaqat_Wikia'>Modern Tabaqat Wikia</a> and the Academic Family Tree project, to create a visual representation of academic lineages in Middle Eastern and particularly Ottoman studies.   
 <br>
 <h4>A Note on Methodology</h4>
@@ -157,12 +179,12 @@ The basis of the data presented here was scraped from the Modern Tabaqat Wikia a
 For the sake of visual clarity, for students graduating in the last five (or so) decades, where a good deal of information is available online or via ProQuest, links are mostly shown between an advisee and those individuals identified as their primary PhD advisor(s). For earlier advisees I have taken a laxer approach to intellectual genealogy including any individuals identified as important educators in their lives whether by festschrifts or biographical articles.
 <br>
 <br>
-All this said, I think a lot of interesting and surprising connections <code>&#8212;</code> and perhaps even intellectual debts or affinities <code>&#8212;</code> are revealed by looking at a visual representation of these relationships. The full visualization of the data is a bit unwieldy, so I focus below on a few of the more interesting academic lineages related to UChicago. However, the full genealogical tree is available in a word searchable <a href="http://localhost:4000/pdfs/tabaqatbest.pdf">pdf</a> and also as an interactive display at the bottom of the page (NB: You will likely need to refresh the page at least once to get it to appear). 
+All this said, I think a lot of interesting and surprising connections <code>&#8212;</code> and perhaps even intellectual debts or affinities <code>&#8212;</code> are revealed by looking at a visual representation of these relationships. The full visualization of the data is a bit unwieldy, so I focus below on a few of the more interesting academic lineages related to UChicago. However, the full genealogy is available in a word searchable <a href="http://localhost:4000/pdfs/tabaqat.pdf">pdf</a> and also as an interactive display at the bottom of the page (NB: You will likely need to refresh the page at least once to get it to appear). 
 <br>
 <h4>Results</h4>
 <div style="float: top;" class="desktoponly" id="container">
   <img alt="longest tree" src="http://localhost:4000/images/longesttree.png" 
-          width="100%" id="imgClickAndChange"   />
+          width="100%" id="imgClickAndChangeLongest"   />
 </div>
 <div class="mobileonly" id="container">
     <img src="http://localhost:4000/images/longesttree.png" style="max-width:100%;height:auto" />
@@ -170,13 +192,43 @@ All this said, I think a lot of interesting and surprising connections <code>&#8
 <div class="center-text">
 <i>The longest genealogy (Image expands when clicked)</i>
 </div>
-The longest continual lineage currently found in the data stretches from a number of contemporary scholars of Ottoman history and literature back to two 18th century individuals. The first is Johann David Michaelis (1717-1791) a biblical scholar and teacher of Semitic philology who completed his doctorate in 1739 at the University of Halle before becoming a professor at the University of Göttingen. While Michaelis appears to have studied Arabic, there is little to link him to an enduring tradition of scholarship on the Ottoman Empire. 
+The longest continual lineage currently found in the data stretches from a number of contemporary scholars of Ottoman history and literature, including UChicago Profs. Hakan Karateke and Robert Dankoff, back to two 18th century individuals. The first is Johann David Michaelis (1717-1791) a biblical scholar and teacher of Semitic philology who completed his doctorate in 1739 at the University of Halle before becoming a professor at the University of Göttingen. While Michaelis appears to have studied Arabic, there is little to link him to an enduring tradition of scholarship on the Ottoman Empire. 
 <br><br>
 The other parent of this particular lineage, Denis Dominique Cardonne (1721-1783), is far more promising in this regard. Although he lacked formal academic training, he was one of the "jeunes de langue," taken to Istanbul at the age of nine to train in Turkish and Persian in order to act as a dragoman for the French embassy. He eventually returned to Paris where he became a chair of Ottoman Turkish and Persian at the Collège royal. Whether it was Cardonne himself or his one-time assistant Étienne Le Grand who trained the famous Orientalist Silvestre de Sacy in Turkish is unclear to me, but from this point on the intellectual lineage, through a web of Germanic scholarly institutions, is clearer and an interest in the texts and histories of the Islamic world a consistent theme. While the dominance of German philologists and historians in this lineage is fairly unsurprising given that at least one current professor received their training in Germany, that they should share common "academic ancestors" with a number of prominent Ottomanists in the UK is more remarkable. 
-<br>
-
-
-<br>
+<div style="float: top;" class="desktoponly" id="container">
+  <img alt="tree for Cornell Fleischer and John Woods" src="http://localhost:4000/images/fleischerwoodsfocus.png" 
+          width="100%" id="imgClickAndChangeFleischer"/>
+</div>
+<div class="mobileonly" id="container">
+    <img src="http://localhost:4000images/fleischerwoodsfocus.png" style="max-width:100%;height:auto" />
+</div>  
+<div class="center-text">
+<i>Lineage for Profs. Cornell Fleischer and John Woods</i>
+</div>
+Some academic lineages are more well known. In a recent piece for the journal <a href='https://dergipark.org.tr/tr/download/article-file/3140365'><i>Kadim</i></a> in the wake of the untimely passing of Prof. Cornell Fleischer, Emeritus Professor John Woods recalled the connection between their shared advisor Martin Dickson and the famed historian, Turkologist, and Bashkir revolutionary Zeki Velidi Togan who came to hold the important Chair of Turkish History at Istanbul University. More research is obviously needed to flesh out the academic lineages of Togan and Dickson. 
+<div style="float: top;" class="desktoponly" id="container">
+  <img alt="late Ottoman tree" src="http://localhost:4000/images/shisslerfocus.png" 
+          width="100%" id="imgClickAndChangeShissler"/>
+</div>
+<div class="mobileonly" id="container">
+  <img src="http://localhost:4000/images/shisslerfocus.png" style="max-width:100%;height:auto" />
+</div> 
+<div class="center-text">
+  <i>A Late Ottoman Lineage</i>
+</div>
+Another lineage, which began by focusing on a set of late Ottoman historians trained by Prof. Holly Shissler, quickly expands to include a number of prominent names working not only in Ottoman studies, but Iranian history, early Islam, and the intellectual history of Islam. Again, Thomas Walker Andrew's lack of formal training and a dearth of readily avaliable information about Lewis Victor Thomas makes it difficult to uncover earlier nodes in this tree. 
+<div style="float: top;" class="desktoponly" id="container">
+  <img alt="UChicago tree" src="http://localhost:4000/images/uchicagotree.png" 
+          width="100%" id="imgClickAndChangeUChicago"/>
+</div>
+<div class="mobileonly" id="container">
+  <img src="http://localhost:4000/images/uchicagotree.png" style="max-width:100%;height:auto" />
+</div> 
+<div class="center-text">
+  <i>The UChicago NELC Tree</i>
+</div>
+This final tree attempts to incorporate modern track NELC faculty, past and present, working in a wider range of fields who have graduated students. As can be seen at scale the genealogies become more unweildy but with additional information on more distant ancestors they offer a useful way to trace the discipline of Middle Eastern studies. Below that you can find an interactive visualization of the complete data set (NB: You will likely need to refresh the page at least once to get it to appear), the full genealogy is also available in a word searchable <a href="http://localhost:4000/pdfs/tabaqat.pdf">pdf</a>.     
+<br><br>
 <br>
 <div id="myDiagramDiv" style="width: 100%; height: 500px;"></div>
 
