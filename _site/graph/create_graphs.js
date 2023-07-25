@@ -36,16 +36,20 @@ function init() {
   function loadDataFromJSON(json_file_path, callback) {
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function () {
-      if (xhr.readyState === 4 && xhr.status === 200) {
-        var data = JSON.parse(xhr.responseText);
-        myDiagram.model = go.GraphObject.make(go.GraphLinksModel, {
-          nodeDataArray: data.nodeDataArray,
-          linkDataArray: data.linkDataArray
-        });
+      if (xhr.readyState === 4) {
+        if (xhr.status === 200) {
+          var data = JSON.parse(xhr.responseText);
+          myDiagram.model = go.GraphObject.make(go.GraphLinksModel, {
+            nodeDataArray: data.nodeDataArray,
+            linkDataArray: data.linkDataArray
+          });
   
-        // Call the callback function after the data is loaded
-        if (typeof callback === 'function') {
-          callback();
+          // Call the callback function after the data is loaded
+          if (typeof callback === 'function') {
+            callback();
+          }
+        } else {
+          console.error('Failed to load data from JSON file:', xhr.status, xhr.statusText);
         }
       }
     };
