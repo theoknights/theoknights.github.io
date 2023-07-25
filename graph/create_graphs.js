@@ -26,8 +26,12 @@ function init() {
           { strokeWidth: 3, stroke: "#333" }));
   
     // Load the data from the JSON file
-    loadDataFromJSON('output_data.json', rebuildGraph);
+    loadDataFromJSON('output_data.json', function() {
+      // Call rebuildGraph inside the callback to ensure that the diagram is updated with the loaded data
+      rebuildGraph();
+    });
   }
+  
   
   function loadDataFromJSON(json_file_path, callback) {
     var xhr = new XMLHttpRequest();
@@ -38,6 +42,8 @@ function init() {
           nodeDataArray: data.nodeDataArray,
           linkDataArray: data.linkDataArray
         });
+  
+        // Call the callback function after the data is loaded
         if (typeof callback === 'function') {
           callback();
         }
