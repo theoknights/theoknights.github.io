@@ -118,62 +118,70 @@ function init() {
     myDiagram.startTransaction("change Layout");
     var lay = myDiagram.layout;
   
-    var direction = parseInt(getRadioValue("direction"), 10);
-    lay.direction = direction;  
-
+    var direction = getRadioValue("direction");
+    direction = parseFloat(direction, 10);
+  
+    // Check if the direction is one of the valid options: 0, 90, 180, or 270
+    if ([0, 90, 180, 270].includes(direction)) {
+      lay.direction = direction;
+    } else {
+      // If the direction is not valid, set it to the default value (0)
+      lay.direction = 0;
+    }
+  
     var layerSpacing = document.getElementById("layerSpacing").value;
     layerSpacing = parseFloat(layerSpacing, 10);
     lay.layerSpacing = layerSpacing;
-
+  
     var columnSpacing = document.getElementById("columnSpacing").value;
     columnSpacing = parseFloat(columnSpacing, 10);
     lay.columnSpacing = columnSpacing;
-
+  
     var cycleRemove = getRadioValue("cycleRemove");
     if (cycleRemove === "CycleDepthFirst") lay.cycleRemoveOption = go.LayeredDigraphLayout.CycleDepthFirst;
     else if (cycleRemove === "CycleGreedy") lay.cycleRemoveOption = go.LayeredDigraphLayout.CycleGreedy;
-
+  
     var layering = getRadioValue("layering");
     if (layering === "LayerOptimalLinkLength") lay.layeringOption = go.LayeredDigraphLayout.LayerOptimalLinkLength;
     else if (layering === "LayerLongestPathSource") lay.layeringOption = go.LayeredDigraphLayout.LayerLongestPathSource;
     else if (layering === "LayerLongestPathSink") lay.layeringOption = go.LayeredDigraphLayout.LayerLongestPathSink;
-
+  
     var initialize = getRadioValue("initialize");
     if (initialize === "InitDepthFirstOut") lay.initializeOption = go.LayeredDigraphLayout.InitDepthFirstOut;
     else if (initialize === "InitDepthFirstIn") lay.initializeOption = go.LayeredDigraphLayout.InitDepthFirstIn;
     else if (initialize === "InitNaive") lay.initializeOption = go.LayeredDigraphLayout.InitNaive;
-
+  
     var aggressive = getRadioValue("aggressive");
     if (aggressive === "AggressiveLess") lay.aggressiveOption = go.LayeredDigraphLayout.AggressiveLess;
     else if (aggressive === "AggressiveNone") lay.aggressiveOption = go.LayeredDigraphLayout.AggressiveNone;
     else if (aggressive === "AggressiveMore") lay.aggressiveOption = go.LayeredDigraphLayout.AggressiveMore;
-
-    //TODO implement pack option
-    var i;
-    var pack = document.getElementsByName("pack");
-    var packing = 0;
-    for (i = 0; i < pack.length; i++) {
-      if (pack[i].checked) packing = packing | parseInt(pack[i].value, 10);
-    }
-    lay.packOption = packing;
-
-    var setsPortSpots = document.getElementById("setsPortSpots");
-    lay.setsPortSpots = setsPortSpots.checked;
-
+  
+    // Get the align radio buttons
     var align = document.getElementsByName("align");
-    var alignOption = 0;
-    for (i = 0; i < align.length; i++) {
-      if (align[i].checked) alignOption = alignOption | parseInt(align[i].value, 10);
+    var alignOption = go.LayeredDigraphLayout.AlignCenter;
+    if (align.length > 0) {
+      for (var i = 0; i < align.length; i++) {
+        if (align[i].checked) {
+          alignOption = parseInt(align[i].value, 10);
+          break;
+        }
+      }
     }
-    for (i = 0; i < pack.length; i++) {
+    
+    // Disable or enable checkboxes based on the align option
+    var pack = document.getElementsByName("pack");
+    for (var i = 0; i < pack.length; i++) {
       var cb = pack[i];
-      cb.disabled = alignOption !== 0;
+      if (alignOption !== go.LayeredDigraphLayout.AlignNone) {
+        cb.disabled = true;
+      } else {
+        cb.disabled = false;
+      }
     }
     lay.alignOption = alignOption;
-
+  
     myDiagram.commitTransaction("change Layout");
   }
-
   function getRadioValue(name) {
     var radio = document.getElementsByName(name);
     for (var i = 0; i < radio.length; i++)
