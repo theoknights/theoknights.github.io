@@ -117,10 +117,9 @@ function init() {
   function layout() {
     myDiagram.startTransaction("change Layout");
     var lay = myDiagram.layout;
-
-    var direction = getRadioValue("direction");
-    direction = parseFloat(direction, 10);
-    lay.direction = direction;
+  
+    var direction = parseInt(getRadioValue("direction"), 10);
+    lay.direction = direction;  
 
     var layerSpacing = document.getElementById("layerSpacing").value;
     layerSpacing = parseFloat(layerSpacing, 10);
