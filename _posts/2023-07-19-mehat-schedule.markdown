@@ -23,7 +23,7 @@ Thank you to all participants and presenters for an excellent year of MEHAT gath
 <li>4/06 – The Role of Word-Level Stress in the Khutbas of Ali Ibn Abi Talib w/ Darragh Winkelman (UChicago Linguistics)</li>
 <li>4/13 – The Origins of an Ottoman Bourgeois Social Reformer: Recontextualizing Mustafa Suphi’s Early Thought w/ Theo Knights (UChicago NELC)</li>
 <li>4/20 – Reconstructing Early Islamic Texts Through Excavating Later Texts w/ Prof. Ahmed El Shamsy (UChicago NELC)</li>
-<li>5/04 – Developing the Hafsa Archive: Evaluating the History and Continuity of Palestinian Oral Tradition w Marah Abdel Jaber (UChicago CMES MA)</li>
+<li>5/04 – Developing the Hafsa Archive: Evaluating the History and Continuity of Palestinian Oral Tradition w/ Marah Abdel Jaber (UChicago CMES MA)</li>
 <li>5/11 – The Banū Hilāl Myth and Statecraft in the Maghrib w/ Sabrina Amrane (UChicago CMES MA)</li>
 <li>5/18 – Teaching the Ottoman ‘Middle Period(s)’: Historiographic, Methodological, and Pedagogical Challenges w/ Arlen Wiesenthal (UChicago NELC)</li>
 <li>5/25 – The Lives and Journeys of a Sufi in Ottoman and Mamluk Lands w/ Dr. Mustafa Kaya (UChicago CMES Preceptor)</li>
