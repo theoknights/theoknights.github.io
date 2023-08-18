@@ -64,8 +64,49 @@
 			  display: none;
 			}
 		  }
+		  body.mehat {
+			margin: 0;
+			padding: 0;
+			position: relative;
+			overflow: auto; /* Prevent content overflow */
+		  }
+
+			/* Create an overlay with the desired background color and opacity */
+		.white-overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: rgba(255, 255, 255, 0.9); /* White background with opacity */
+			z-index: -1; /* Place the overlay behind the content */
+		  }
+
+		/* Create an image overlay with the same opacity as .page-container */
+		  .image-overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-image: url('http://localhost:4000/images/mehatbackground.jpg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			opacity: 1; /* Adjust the image overlay opacity */
+			z-index: -2; /* Place the overlay behind the white overlay */
+		  }
+
+			/* Style the content container */
+		  body.mehat .page-container {
+			padding: 20px;
+			background-color: rgba(255, 255, 255, .1); /* Set the background color without opacity */
+ 			opacity: 1; /* Adjust the opacity value (0.0 to 1.0) for the content */
+			position: relative;
+			z-index: 1;
+
+		  }
 	</style>
-	<!-- Begin Jekyll SEO tag v2.8.0 -->
+				<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>MEHAT | Theo Knights</title>
 <meta name="generator" content="Jekyll v4.3.2" />
 <meta property="og:title" content="MEHAT" />
@@ -169,23 +210,31 @@
 	</div>
 	<main>
 		<article>
-			<div style="float: top;" class="desktoponly" id="container">
-<img alt="MEHAT logo" src="http://localhost:4000/images/mehat logo.jpg" 
-        width="100%" id="imgClickAndChange"   />
-</div>
-<div class="mobileonly" id="container">
-	<img src="http://localhost:4000/images/mehat logo.jpg"  style="max-width:100%;height:auto" />
+			<body class="mehat">
+	<div class="white-overlay"></div>
+	<div class="image-overlay"></div>
+	<div class="page-container">
+				<div style="float: top;" class="desktoponly" id="container">
+				<img alt="MEHAT logo" src="http://localhost:4000/images/mehat logo.jpg" 
+						width="100%" id="imgClickAndChange"   />
+				</div>
+				<div class="mobileonly" id="container">
+					<img src="http://localhost:4000/images/mehat logo.jpg"  style="max-width:100%;height:auto" />
 
-</div>
-<div> <p>I am one of the conveners of the Department of Near Eastern Languages and Civilizations' weekly Middle East History and Theory Workshop, funded in part by the Council on Advanced Studies. We envision the workshop as a forum for graduate students and faculty to present their research and to encourage interdisciplinary discussions about new approaches to the study of the Islamicate world <code>&mdash;</code> that is regions of the globe where Islamic culture is influential.</p> <p>Participation in the workshop is open to all members of the campus community and We are eager to hear from historians, linguists, anthropologists, literary scholars, sociologists, musicologists, scholars of religion, and political scientists whose work engages with a broad geography including, but not limited to, the Mediterranean, North and West Africa, and South and Central Asia, over a span of time extending from Late Antiquity and the advent of Islam to the present. Within this context MEHAT is also particularly eager to promote more wide-ranging discussions on general points of historical inquiry, theory, and method.</p> <p>If you are a graduate student or faculty member interested in presenting, please shoot me an email at knightst(at)uchicago(dot)edu. Below you will find the announcements of our meetings throughout the term. If you would like to receive email updates for our events join our mailing list by going to <a href="https://lists.uchicago.edu/">lists.uchicago.edu</a> and searching "Islamicate."</p></div>
+				</div>
+				<div> <p>I am one of the conveners of the Department of Near Eastern Languages and Civilizations' weekly Middle East History and Theory Workshop, funded in part by the Council on Advanced Studies. We envision the workshop as a forum for graduate students and faculty to present their research and to encourage interdisciplinary discussions about new approaches to the study of the Islamicate world <code>&mdash;</code> that is regions of the globe where Islamic culture is influential.</p> <p>Participation in the workshop is open to all members of the campus community and We are eager to hear from historians, linguists, anthropologists, literary scholars, sociologists, musicologists, scholars of religion, and political scientists whose work engages with a broad geography including, but not limited to, the Mediterranean, North and West Africa, and South and Central Asia, over a span of time extending from Late Antiquity and the advent of Islam to the present. Within this context MEHAT is also particularly eager to promote more wide-ranging discussions on general points of historical inquiry, theory, and method.</p> <p>If you are a graduate student or faculty member interested in presenting, please shoot me an email at knightst(at)uchicago(dot)edu. Below you will find the announcements of our meetings throughout the term. If you would like to receive email updates for our events join our mailing list by going to <a href="https://lists.uchicago.edu/">lists.uchicago.edu</a> and searching "Islamicate."</p></div>
+				
+				
+				<h3>MEHAT Graduate Student Conference</h3> 
+				<div> <p>I am also the organizer of the annual MEHAT Graduate Student Conference, which will return this year <code>&mdash;</code> lamb roast and all <code>&mdash;</code> after a COVID hiatus. It is currently scheduled for May 3-4, 2024. More about the conference's theme and a call for papers will be announced in late fall.</p>
+				<div class="boxed">
+						<time>Jul 21, 2023</time>
+						<h4><a href="/mehat/2023/07/21/mehat-schedule.html">MEHAT 2022-23 Schedule</a></h4>
+				</div>
+	</div>
 
 
-<h3>MEHAT Graduate Student Conference</h3> 
-<div> <p>I am also the organizer of the annual MEHAT Graduate Student Conference, which will return this year <code>&mdash;</code> lamb roast and all <code>&mdash;</code> after a COVID hiatus. It is currently scheduled for May 3-4, 2024. More about the conference's theme and a call for papers will be announced in late fall.</p>
-<div class="boxed">
-		<time>Jul 20, 2023</time>
-		<h4><a href="/mehat/2023/07/20/mehat-schedule.html">MEHAT 2022-23 Schedule</a></h4>
-</div>
+</body>
 
 
 

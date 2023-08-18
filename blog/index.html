@@ -3,25 +3,33 @@ layout: default
 title: MEHAT
 description: Middle East History and Theory Workshop and Graduate Student Conference 
 ---
-<div style="float: top;" class="desktoponly" id="container">
-<img alt="MEHAT logo" src="{{ site.url }}/images/mehat logo.jpg" 
-        width="100%" id="imgClickAndChange"   />
-</div>
-<div class="mobileonly" id="container">
-	<img src="{{ site.url }}/images/mehat logo.jpg"  style="max-width:100%;height:auto" />
+<body class="mehat">
+	<div class="white-overlay"></div>
+	<div class="image-overlay"></div>
+	<div class="page-container">
+				<div style="float: top;" class="desktoponly" id="container">
+				<img alt="MEHAT logo" src="{{ site.url }}/images/mehat logo.jpg" 
+						width="100%" id="imgClickAndChange"   />
+				</div>
+				<div class="mobileonly" id="container">
+					<img src="{{ site.url }}/images/mehat logo.jpg"  style="max-width:100%;height:auto" />
 
-</div>
-<div> <p>I am one of the conveners of the Department of Near Eastern Languages and Civilizations' weekly Middle East History and Theory Workshop, funded in part by the Council on Advanced Studies. We envision the workshop as a forum for graduate students and faculty to present their research and to encourage interdisciplinary discussions about new approaches to the study of the Islamicate world <code>&mdash;</code> that is regions of the globe where Islamic culture is influential.</p> <p>Participation in the workshop is open to all members of the campus community and We are eager to hear from historians, linguists, anthropologists, literary scholars, sociologists, musicologists, scholars of religion, and political scientists whose work engages with a broad geography including, but not limited to, the Mediterranean, North and West Africa, and South and Central Asia, over a span of time extending from Late Antiquity and the advent of Islam to the present. Within this context MEHAT is also particularly eager to promote more wide-ranging discussions on general points of historical inquiry, theory, and method.</p> <p>If you are a graduate student or faculty member interested in presenting, please shoot me an email at knightst(at)uchicago(dot)edu. Below you will find the announcements of our meetings throughout the term. If you would like to receive email updates for our events join our mailing list by going to <a href="https://lists.uchicago.edu/">lists.uchicago.edu</a> and searching "Islamicate."</p></div>
-{% for post in site.posts %}
-{% if post.visible != 0  %}
-<h3>MEHAT Graduate Student Conference</h3> 
-<div> <p>I am also the organizer of the annual MEHAT Graduate Student Conference, which will return this year <code>&mdash;</code> lamb roast and all <code>&mdash;</code> after a COVID hiatus. It is currently scheduled for May 3-4, 2024. More about the conference's theme and a call for papers will be announced in late fall.</p>
-<div class="boxed">
-		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
-		<h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-</div>
+				</div>
+				<div> <p>I am one of the conveners of the Department of Near Eastern Languages and Civilizations' weekly Middle East History and Theory Workshop, funded in part by the Council on Advanced Studies. We envision the workshop as a forum for graduate students and faculty to present their research and to encourage interdisciplinary discussions about new approaches to the study of the Islamicate world <code>&mdash;</code> that is regions of the globe where Islamic culture is influential.</p> <p>Participation in the workshop is open to all members of the campus community and We are eager to hear from historians, linguists, anthropologists, literary scholars, sociologists, musicologists, scholars of religion, and political scientists whose work engages with a broad geography including, but not limited to, the Mediterranean, North and West Africa, and South and Central Asia, over a span of time extending from Late Antiquity and the advent of Islam to the present. Within this context MEHAT is also particularly eager to promote more wide-ranging discussions on general points of historical inquiry, theory, and method.</p> <p>If you are a graduate student or faculty member interested in presenting, please shoot me an email at knightst(at)uchicago(dot)edu. Below you will find the announcements of our meetings throughout the term. If you would like to receive email updates for our events join our mailing list by going to <a href="https://lists.uchicago.edu/">lists.uchicago.edu</a> and searching "Islamicate."</p></div>
+				{% for post in site.posts %}
+				{% if post.visible != 0  %}
+				<h3>MEHAT Graduate Student Conference</h3> 
+				<div> <p>I am also the organizer of the annual MEHAT Graduate Student Conference, which will return this year <code>&mdash;</code> lamb roast and all <code>&mdash;</code> after a COVID hiatus. It is currently scheduled for May 3-4, 2024. More about the conference's theme and a call for papers will be announced in late fall.</p>
+				<div class="boxed">
+						<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+						<h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+				</div>
+	</div>
 {% endif %}
 {% endfor %}
+</body>
+
+
 
 <!--<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
 

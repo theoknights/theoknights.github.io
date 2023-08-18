@@ -64,8 +64,49 @@
 			  display: none;
 			}
 		  }
+		  body.mehat {
+			margin: 0;
+			padding: 0;
+			position: relative;
+			overflow: auto; /* Prevent content overflow */
+		  }
+
+			/* Create an overlay with the desired background color and opacity */
+		.white-overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: rgba(255, 255, 255, 0.9); /* White background with opacity */
+			z-index: -1; /* Place the overlay behind the content */
+		  }
+
+		/* Create an image overlay with the same opacity as .page-container */
+		  .image-overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-image: url('http://localhost:4000/images/mehatbackground.jpg');
+			background-size: cover;
+			background-repeat: no-repeat;
+			opacity: 1; /* Adjust the image overlay opacity */
+			z-index: -2; /* Place the overlay behind the white overlay */
+		  }
+
+			/* Style the content container */
+		  body.mehat .page-container {
+			padding: 20px;
+			background-color: rgba(255, 255, 255, .1); /* Set the background color without opacity */
+ 			opacity: 1; /* Adjust the opacity value (0.0 to 1.0) for the content */
+			position: relative;
+			z-index: 1;
+
+		  }
 	</style>
-	<!-- Begin Jekyll SEO tag v2.8.0 -->
+				<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Theo Knights | I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago, where I study the early modern Ottoman Empire.</title>
 <meta name="generator" content="Jekyll v4.3.2" />
 <meta property="og:title" content="Theo Knights" />
