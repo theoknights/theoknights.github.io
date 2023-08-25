@@ -13,3 +13,6 @@ MEHAT typically meets weekly on Thursdays during the term. More details on meeti
 
 We encourage proposals from both regular attendees and from those new to the workshop. If you would like to present your work or a guided reading for discussion and feedback this fall, please submit a brief proposal and provisional title to Theo (knightst[at]uchicago[dot]edu) by September 23rd. 
 
+Best wishes,
+<br>Theo Knights & Darragh Winkelman
+

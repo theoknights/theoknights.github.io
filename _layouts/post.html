@@ -5,8 +5,16 @@ layout: default
 	<div class="white-overlay"></div>
 	<div class="image-overlay"></div>
 	<div class="page-container">
-
-    <h2>{{ page.title }}</h2>
+	<div class="logo-container">
+		<div style="float: top;" class="desktoponly no-padding" id="container">
+		<img alt="MEHAT logo" src="{{ site.url }}/images/mehat logo.png" 
+				width="100%" id="imgClickAndChange"   />
+		</div>
+		<div class="mobileonly no-padding" id="container">
+			<img src="{{ site.url }}/images/mehat logo.png"  style="max-width:100%;height:auto" />
+		</div>
+	</div>
+    <h3>{{ page.title }}</h3>
     <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
 </body>
 {{ content }}
