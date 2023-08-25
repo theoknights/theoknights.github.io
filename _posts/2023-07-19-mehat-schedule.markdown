@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MEHAT 2022-23 Schedule"
+title:  "MEHAT Schedule — 2022-23"
 date:   2023-07-20 16:10:23 -0500
 categories: MEHAT
 ---
