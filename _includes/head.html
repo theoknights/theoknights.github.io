@@ -219,6 +219,18 @@
 		}
 
 	</style>
+	<style>
+        /* Style for the unbulleted list with the class "custom-list" */
+        .custom-list {
+            list-style: none;
+            padding-left: 0; /* Remove default left padding */
+        }
+
+        /* Style for list items in the "custom-list" */
+        .custom-list li {
+            margin-bottom: 0px; /* Add some spacing between items */
+        }
+    </style>
 				{% seo %}
 </head>
 
@@ -263,5 +275,27 @@
 		});
 	});
   </script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var box1 = document.getElementById("clickableBox1");
+        var box2 = document.getElementById("clickableBox2");
+        // Add more variables for each box
+
+        if (box1) {
+            box1.addEventListener("click", function() {
+                window.location.href = "{{ site.url }}/graph/";
+            });
+        }
+
+        if (box2) {
+            box2.addEventListener("click", function() {
+                window.location.href = "{{ site.url }}/keyboard/";
+            });
+        }
+
+        // Add more event listeners for other boxes
+    });
+</script>
   
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

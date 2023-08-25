@@ -221,6 +221,18 @@
 		}
 
 	</style>
+	<style>
+        /* Style for the unbulleted list with the class "custom-list" */
+        .custom-list {
+            list-style: none;
+            padding-left: 0; /* Remove default left padding */
+        }
+
+        /* Style for list items in the "custom-list" */
+        .custom-list li {
+            margin-bottom: 0px; /* Add some spacing between items */
+        }
+    </style>
 				<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>MEHAT | Theo Knights</title>
 <meta name="generator" content="Jekyll v4.3.2" />
@@ -281,6 +293,28 @@
 		});
 	});
   </script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var box1 = document.getElementById("clickableBox1");
+        var box2 = document.getElementById("clickableBox2");
+        // Add more variables for each box
+
+        if (box1) {
+            box1.addEventListener("click", function() {
+                window.location.href = "http://localhost:4000/graph/";
+            });
+        }
+
+        if (box2) {
+            box2.addEventListener("click", function() {
+                window.location.href = "http://localhost:4000/keyboard/";
+            });
+        }
+
+        // Add more event listeners for other boxes
+    });
+</script>
   
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
@@ -295,10 +329,14 @@
 		<li><a href="/research/">Research</a></li>
 		  
 		<li><a href="/graph/">A NELC genealogy</a></li>
+		  
+		<li><a href="/projects/">Projects</a></li>
+		  
+		<li><a href="/keyboard/">Keyboard</a></li>
 		    
 		<li><a href="/blog/">MEHAT</a></li>
 		            -->
-		<li class="float-right"><a href="http://localhost:4000/graph/">A NELC Genealogy</a></li>
+		<li class="float-right"><a href="http://localhost:4000/projects/">Projects</a></li>
 		<li class="float-right"><a href="http://localhost:4000/blog/">MEHAT</a></li>
 		<li class="float-right"><a href="http://localhost:4000/research/">Research</a></li>
 		<li class="float-right"><a href="http://localhost:4000/pdfs/CV July 2023 — Knights.pdf">CV</a></li>
@@ -320,6 +358,10 @@
 			<li><a href="/research/">Research</a></li>
 			  
 			<li><a href="/graph/">A NELC genealogy</a></li>
+			  
+			<li><a href="/projects/">Projects</a></li>
+			  
+			<li><a href="/keyboard/">Keyboard</a></li>
 			    
 			<li><a href="/blog/">MEHAT</a></li>
 			            -->
@@ -343,7 +385,7 @@
 	<nav class="mobile-nav">
 		<ul class="mobile-menu-list"> <!-- Add the class here -->
 			<li class="mobile-menu-list"><a href="http://localhost:4000">Theo Knights</a></li>
-			<li class="mobile-menu-list"><a href="http://localhost:4000/graph/">A NELC Genealogy</a></li>
+			<li class="mobile-menu-list"><a href="http://localhost:4000/projects/">Projects</a></li>
 			<li class="mobile-menu-list"><a href="http://localhost:4000/blog/">MEHAT</a></li>
 			<li class="mobile-menu-list"><a href="http://localhost:4000/research/">Research</a></li>
 			<li class="mobile-menu-list"><a href="http://localhost:4000/pdfs/CV July 2023 — Knights.pdf">CV</a></li>

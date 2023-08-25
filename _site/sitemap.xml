@@ -11,6 +11,12 @@
 <loc>http://localhost:4000/graph/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/keyboard/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/blog/</loc>
 </url>
 <url>
@@ -23,6 +29,10 @@
 <url>
 <loc>http://localhost:4000/pdfs/CV%20July%202023%20%E2%80%94%20Knights.pdf</loc>
 <lastmod>2023-08-05T09:28:09+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/Ottoman%20keyboard%20layout.pdf</loc>
+<lastmod>2023-08-25T13:30:34+03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pdfs/tabaqat.pdf</loc>
