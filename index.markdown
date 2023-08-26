@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-description: I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago where I study early modern Ottoman history.
+description: I am a PhD student in the Department of Near Eastern Languages and Civilizations (NELC) at UChicago where I study early modern Ottoman history.
 ---
 
 <div style="float: right" class="desktoponly" id="container">
