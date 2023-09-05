@@ -5,138 +5,158 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Projects</title>
-	<link rel="stylesheet" href="/css/main.css" | prepend: site.baseurl >
+	<link rel="stylesheet" href=" /css/main.css" | prepend: site.baseurl>
 	<link rel="shortcut icon" type="image/png" href="/favicon.png">
 	<link rel="canonical" href="http://localhost:4000/projects/">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
-	<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:4000/images/favicon-32x32.png" | prepend: site.url >
-	<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:4000/images/favicon-16x16.png" | prepend: site.url >
-	
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap"
+		rel="stylesheet">
+	<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:4000/images/favicon-32x32.png" | prepend: site.url>
+	<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:4000/images/favicon-16x16.png" | prepend: site.url>
+
 
 
 	<style>
-		  .center-text {
+		.center-text {
 			text-align: center;
 			display: flex;
 			align-items: center;
 			justify-content: center;
-			margin: 10px 0; /* Adjust the margin as needed */
-		  }
+			margin: 10px 0;
+			/* Adjust the margin as needed */
+		}
 
-		  div.desktoponly {
+		div.desktoponly {
 			padding: 20px;
-		  } 
-		  /* Add your existing styles here */
-		  #imgClickAndChange {
+		}
+
+		/* Add your existing styles here */
+		#imgClickAndChange {
 			/* Add any styling you want for the image here */
 			-webkit-transition: all .3s ease-in;
 			-moz-transition: all .3s ease-in;
 			-ms-transition: all .3s ease-in;
 			-o-transition: all .3s ease-in;
 			transition: all .3s ease-in;
-		  }
-	  
-		  .enlarged {
+		}
+
+		.enlarged {
 			/* Additional styles to apply when the image is enlarged */
 			transform: scale(1.75);
-			-ms-transform: scale(1.75); /* IE 9 */
-			-webkit-transform: scale(1.75); /* Safari and Chrome */
-		  }
-		  div.mobileonly {
+			-ms-transform: scale(1.75);
+			/* IE 9 */
+			-webkit-transform: scale(1.75);
+			/* Safari and Chrome */
+		}
+
+		div.mobileonly {
 			padding: 20px;
-		  }
-	  
-		  div.mobileonly {
+		}
+
+		div.mobileonly {
 			padding: 20px;
-		  }
-	  
-		  @media screen and (min-width:900px) {
+		}
+
+		@media screen and (min-width:900px) {
 			div.mobileonly {
-			  display: none;
+				display: none;
 			}
-		  }
-	  
-		  @media screen and (max-width: 900px) {
+		}
+
+		@media screen and (max-width: 900px) {
 			div.desktoponly {
-			  display: none;
+				display: none;
 			}
-		  }
-		  body.mehat {
+		}
+
+		body.mehat {
 			margin: 0;
 			padding: 0;
 			position: relative;
-			overflow: auto; /* Prevent content overflow */
-		  }
+			overflow: auto;
+			/* Prevent content overflow */
+		}
 
-			/* Create an overlay with the desired background color and opacity */
-		  .white-overlay {
+		/* Create an overlay with the desired background color and opacity */
+		.white-overlay {
 			position: absolute;
 			top: 0;
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: rgba(255, 255, 255, 0.9); /* White background with opacity */
-			z-index: -1; /* Place the overlay behind the content */
-		  }
+			background-color: rgba(255, 255, 255, 0.9);
+			/* White background with opacity */
+			z-index: -1;
+			/* Place the overlay behind the content */
+		}
 
 		/* Create an image overlay with the same opacity as .page-container */
-		  .image-overlay {
+		.image-overlay {
 			position: absolute;
 			top: 0;
 			left: 0;
 			width: 100%;
 			height: 100%;
 			background-image: url('http://localhost:4000/images/mehatbackground.jpg');
-			background-size: cover; /* Change the value to "contain" */
+			background-size: cover;
+			/* Change the value to "contain" */
 			background-repeat: no-repeat;
-			opacity: 1; /* Adjust the image overlay opacity */
-			z-index: -2; /* Place the overlay behind the white overlay */
-		  }
+			opacity: 1;
+			/* Adjust the image overlay opacity */
+			z-index: -2;
+			/* Place the overlay behind the white overlay */
+		}
 
-			/* Style the content container */
-		  body.mehat .page-container {
+		/* Style the content container */
+		body.mehat .page-container {
 			padding: 20px;
-			background-color: rgba(255, 255, 255, .1); /* Set the background color without opacity */
- 			opacity: 1; /* Adjust the opacity value (0.0 to 1.0) for the content */
+			background-color: rgba(255, 255, 255, .1);
+			/* Set the background color without opacity */
+			opacity: 1;
+			/* Adjust the opacity value (0.0 to 1.0) for the content */
 			position: relative;
 			z-index: 1;
 
-		  }
-		  @media screen and (max-width: 900px) {
- 		    .image-overlay {
-   		      background-size: contain;
-			  background-repeat: repeat;
-  		    }
-		  }
+		}
+
+		@media screen and (max-width: 900px) {
+			.image-overlay {
+				background-size: contain;
+				background-repeat: repeat;
+			}
+		}
 
 		/* Style the MEHAT logo container */
-		  .page-container .logo-container {
+		.page-container .logo-container {
 			position: relative;
 			display: inline-block;
-			margin: 0 auto ;
-			background-color: rgba(255, 255, 255, 0.8); /* Solid white background with opacity */
-		  }
+			margin: 0 auto;
+			background-color: rgba(255, 255, 255, 0.8);
+			/* Solid white background with opacity */
+		}
 
 		/* Style the MEHAT logo image */
-		  .page-container img {
+		.page-container img {
 			max-width: 100%;
 			height: auto;
 			display: block;
 			margin: 0 auto;
 			position: relative;
-			z-index: 1; /* Place the image above the white background */
-		  }
-		
-		  /* Style a special class for desktoponly without padding */
-		  .no-padding.desktoponly {
-  			padding: 0; /* No padding for desktoponly with this class */
-		  }
-		  .no-padding.mobileonly {
-  			padding: 0; 
-		  }
+			z-index: 1;
+			/* Place the image above the white background */
+		}
+
+		/* Style a special class for desktoponly without padding */
+		.no-padding.desktoponly {
+			padding: 0;
+			/* No padding for desktoponly with this class */
+		}
+
+		.no-padding.mobileonly {
+			padding: 0;
+		}
 
 		/* Simplified styles for the hamburger menu */
 		.hamburger-menu {
@@ -165,12 +185,15 @@
 
 		.mobile-nav {
 			position: absolute;
-			top: 100%; /* Position below the hamburger icon */
+			top: 100%;
+			/* Position below the hamburger icon */
 			left: 0;
 			width: 100%;
 			background: #fff;
-			display: none; /* Initially hide the mobile navigation */
+			display: none;
+			/* Initially hide the mobile navigation */
 		}
+
 		.mobile-nav ul.mobile-menu-list {
 			list-style: none !important;
 			padding: 20px 0 !important;
@@ -207,33 +230,34 @@
 				/* Add your styles here */
 			}
 
-		.mobile-nav.active {
-			display: block;
-		}
+			.mobile-nav.active {
+				display: block;
+			}
 
-		.mobile-nav ul {
-			/* Add your styles here */
-		}
+			.mobile-nav ul {
+				/* Add your styles here */
+			}
 
-		.mobile-nav li {
-			/* Add your styles here */
+			.mobile-nav li {
+				/* Add your styles here */
+			}
 		}
-		}
-
 	</style>
 	<style>
-        /* Style for the unbulleted list with the class "custom-list" */
-        .custom-list {
-            list-style: none;
-            padding-left: 0; /* Remove default left padding */
-        }
+		/* Style for the unbulleted list with the class "custom-list" */
+		.custom-list {
+			list-style: none;
+			padding-left: 0;
+			/* Remove default left padding */
+		}
 
-        /* Style for list items in the "custom-list" */
-        .custom-list li {
-            margin-bottom: 0px; /* Add some spacing between items */
-        }
-    </style>
-				<!-- Begin Jekyll SEO tag v2.8.0 -->
+		/* Style for list items in the "custom-list" */
+		.custom-list li {
+			margin-bottom: 0px;
+			/* Add some spacing between items */
+		}
+	</style>
+	<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Projects | Theo Knights</title>
 <meta name="generator" content="Jekyll v4.3.2" />
 <meta property="og:title" content="Projects" />
@@ -250,9 +274,13 @@
 {"@context":"https://schema.org","@type":"WebPage","description":"I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago, where I study the early modern Ottoman Empire.","headline":"Projects","url":"http://localhost:4000/projects/"}</script>
 <!-- End Jekyll SEO tag -->
 
+
+
 </head>
 
+<script>
 
+</script>
 <script type="text/x-mathjax-config">
 	MathJax.Hub.Config({
 	  tex2jax: {
@@ -283,41 +311,55 @@
 	});
   </script>
 
-  <script>
-	document.addEventListener('DOMContentLoaded', function() {
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
 		const hamburgerIcon = document.querySelector('.hamburger-icon');
 		const mobileNav = document.querySelector('.mobile-nav');
 
-		hamburgerIcon.addEventListener('click', function() {
+		hamburgerIcon.addEventListener('click', function () {
 			mobileNav.classList.toggle('active');
 		});
 	});
-  </script>
+</script>
 
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var box1 = document.getElementById("clickableBox1");
-        var box2 = document.getElementById("clickableBox2");
-        // Add more variables for each box
+	document.addEventListener("DOMContentLoaded", function () {
+		var box1 = document.getElementById("clickableBox1");
+		var box2 = document.getElementById("clickableBox2");
+		// Add more variables for each box
 
-        if (box1) {
-            box1.addEventListener("click", function() {
-                window.location.href = "http://localhost:4000/graph/";
-            });
-        }
+		if (box1) {
+			box1.addEventListener("click", function () {
+				window.location.href = "http://localhost:4000/graph/";
+			});
+		}
 
-        if (box2) {
-            box2.addEventListener("click", function() {
-                window.location.href = "http://localhost:4000/keyboard/";
-            });
-        }
+		if (box2) {
+			box2.addEventListener("click", function () {
+				window.location.href = "http://localhost:4000/keyboard/";
+			});
+		}
 
-        // Add more event listeners for other boxes
-    });
+		const collapsibles = document.querySelectorAll('.collapsible');
+
+		console.log('got here')
+
+		collapsibles.forEach((collapsible) => {
+			const content = collapsible.nextElementSibling;
+			const arrow = collapsible.lastElementChild;
+			collapsible.addEventListener('click', () => {
+				content.classList.toggle('collapsed');
+				arrow.classList.toggle('rotate');
+			});
+		});
+
+		// Add more event listeners for other boxes
+	});
 </script>
-  
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+	type="text/javascript"></script>
 
 <body>
 	<div class="desktoponly">
@@ -396,9 +438,7 @@
 	</div>
 	<main>
 		<article>
-			    <h3>Digital Projects</h3>
-
-<div class="boxed" id="clickableBox1" style="cursor: pointer;">
+			    <div class="boxed" id="clickableBox1" style="cursor: pointer;">
         <h3 style="margin: 0 10px;"><a href="/graph/">A NELC Silsile</a></h3>
         <div class="desktoponly" id="container" style="text-align: center;">
             <img alt="silsile tree" src="http://localhost:4000/images/projectviewtree.png" 
@@ -407,10 +447,8 @@
         <div class="mobileonly" id="container" style="text-align: center;">
             <img src="http://localhost:4000/images/projectviewtree.png" style="max-width:100%;height:auto" />
         </div>  
-        <p style="text-align: center; margin-bottom: 0;">This project offers a visual representation of academic lineages in Middle Eastern and particularly Ottoman studies, inspired by the spiritual geologies (<i>silsile</i>s) of Sufi <i>tarikat</i>s.</p>
+        <p style="text-align: left; margin-bottom: 0;">This project offers a visual representation of academic lineages in Middle Eastern and particularly Ottoman studies, inspired by the spiritual geologies (<i>silsile</i>s) of Sufi <i>tarikat</i>s.</p>
 </div>
-<br>
-<br>
 <div class="boxed" id="clickableBox2" style="cursor: pointer;">
     <h3 style="margin: 0 10px;"><a href="/keyboard/">Ottoman Transcription Keyboard</a></h3>
     <div class="desktoponly" id="container" style="text-align: center;">
@@ -420,7 +458,7 @@
     <div class="mobileonly" id="container" style="text-align: center;">
         <img src="http://localhost:4000/images/keyboard.png" style="max-width:100%;height:auto" />
     </div>  
-    <p style="text-align: center; margin-bottom: 0;">This is a keyboard layout package I designed specifically for transcribing Ottoman Turkish. It contains dedicated key combinations for a number of characters not frequently found in Latin diacritical keyboard layouts and is compatible with both Mac and Windows.</p>
+    <p style="text-align: left; margin-bottom: 0;">This is a keyboard layout package I designed specifically for transcribing Ottoman Turkish. It contains dedicated key combinations for a number of characters not frequently found in Latin diacritical keyboard layouts and is compatible with both Mac and Windows.</p>
 </div>
 <p>
 <p>

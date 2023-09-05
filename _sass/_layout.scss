@@ -75,8 +75,9 @@ blockquote {
 }
 
 .boxed {
-  border: 2px solid #F0F0F0 ;
-  padding: 5px 5px;
+  border-bottom: 1px solid #ccc ;
+  padding: 5px 5px 30px;
+  margin-bottom: 20px;
   background-color: rgba(255, 255, 255, 0.7);
 }
 .left {
@@ -87,65 +88,40 @@ blockquote {
 /* research page collapsibles*/
 
 .collapsible {
-  display: block;
-
-  input {
-    position: absolute;
-    left: -9999px;
-    &:focus ~ .collapser{
-      border-color: #F0F0F0;
-    }
-  }
-
-  .collapser {
-    cursor: pointer;
-    border: 1px transparent dotted;
-  }
-
-  .arrow {
-    float: right;
-    display: inline-block;
-    transform: rotate(90deg);
-  }
-
-  .collapsed {
-    font-size: 0;
-    margin: 0;
-    opacity: 0;
-    padding: 0;
-  }
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	// padding: 10px;
+	// border: 1px solid #ccc;
+	cursor: pointer;
 }
-  input:checked ~ .arrow{
-    transform: rotate(270deg);
-  }
 
-  input:checked ~ .collapsed {
-    font-size: 16px;
-    opacity: 1;
-    height: auto;
-    padding: 2px 0;
-  }
-  .arrow {
-    transition: transform .25s ease-out;
-  }
+.content {
+	font-size: 16px;
+	p {
+		margin: 0px;
+		margin-top: 5px;
+	}
+}
 
-  .collapsed {
-    /* fade out, then shrink */
-    transition:   
-      opacity .25s,
-      margin .5s 0.25s,
-      font-size .5s 0.25s,
-      padding .5s .25s;
-  }
+.collapsed {
+	display: none;
+}
 
-  input:checked ~ .collapsed {    
-    /* grow, then fade in */
-    transition:   
-      margin .25s,
-      padding .25s,
-      font-size .25s,
-      opacity .5s .25s;
-  }
+.svg-icon {
+	width: 16px;
+	height: 16px;
+	fill: #212529; /* You can change the fill color here */
+	transition: transform 0.3s ease;
+}
+
+.collapsible .svg-icon {
+	transform: rotate(-180deg);
+}
+
+.rotate {
+	transform: rotate(0deg) !important;
+}
 
 /* Aside */
 aside {
