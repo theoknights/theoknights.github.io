@@ -278,9 +278,6 @@
 
 </head>
 
-<script>
-
-</script>
 <script type="text/x-mathjax-config">
 	MathJax.Hub.Config({
 	  tex2jax: {
@@ -323,38 +320,21 @@
 </script>
 
 <script>
-	document.addEventListener("DOMContentLoaded", function () {
-		var box1 = document.getElementById("clickableBox1");
-		var box2 = document.getElementById("clickableBox2");
-		// Add more variables for each box
+ document.addEventListener("DOMContentLoaded", function () {
+     var box1 = document.getElementById("clickableBox1");
+     var box2 = document.getElementById("clickableBox2");
+     if (box1) {
+         box1.addEventListener("click", function () {
+             window.location.href = "http://localhost:4000/graph/";
+        });
+    }
 
-		if (box1) {
-			box1.addEventListener("click", function () {
-				window.location.href = "http://localhost:4000/graph/";
-			});
-		}
-
-		if (box2) {
-			box2.addEventListener("click", function () {
-				window.location.href = "http://localhost:4000/keyboard/";
-			});
-		}
-
-		const collapsibles = document.querySelectorAll('.collapsible');
-
-		console.log('got here')
-
-		collapsibles.forEach((collapsible) => {
-			const content = collapsible.nextElementSibling;
-			const arrow = collapsible.lastElementChild;
-			collapsible.addEventListener('click', () => {
-				content.classList.toggle('collapsed');
-				arrow.classList.toggle('rotate');
-			});
-		});
-
-		// Add more event listeners for other boxes
-	});
+     if (box2) {
+         box2.addEventListener("click", function () {
+             window.location.href = "http://localhost:4000/keyboard/";
+        });
+    }
+});
 </script>
 
 
@@ -446,22 +426,15 @@
   Robert Dankoff. Translated by Ferenc Csirkés, John Curry, and Gary Leiser. Leiden: Brill, 2021.</strong> <br> <a
     href="https://www.journals.uchicago.edu/toc/jnes/current">Journal of Near Eastern Studies</a>
   <br><br>
-  <div class="collapsible">
-    <div class="item-title">Extract</div>
-    <svg class="svg-icon rotate" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-      <path fill-rule="evenodd"
-        d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
-    </svg>
-  </div>
-  <div class="content collapsed">
-    <p>"This weighty volume, entitled <i>An Ottoman Cosmography</i>, represents the culmination of a decade long
-      collaborative effort to render Kātib Çelebi’s Ottoman Turkish <i>Cihānnümā</i> into English, one of the most
-      influential Ottoman geographic works by perhaps the Empire’s best-known scholar. It is, as Gottfried Hagen reminds
-      us in his introduction, the first full translation of this important text into a western language, as well as the
-      first English translation of any work by Kātib Çelebi since Geoffrey Lewis published his <i>Mīzānü’l-ḥaḳḳ fī
-        iḫtiyāri’l-aḥaḳḳ</i> as <i>The Balance of Truth</i> in 1957."</p>
-  </div>
+<button class="collapsible">Extract
+  <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
+  </svg>
+</button>
+<div class="content">
+  <p>"This weighty volume, entitled <i>An Ottoman Cosmography</i>, represents the culmination of a decade-long collaborative effort to render Kātib Çelebi’s Ottoman Turkish <i>Cihānnümā</i> into English, one of the most influential Ottoman geographic works by perhaps the Empire’s best-known scholar. It is, as Gottfried Hagen reminds us in his introduction, the first full translation of this important text into a western language, as well as the first English translation of any work by Kātib Çelebi since Geoffrey Lewis published his <i>Mīzānü’l-ḥaḳḳ fī iḫtiyāri’l-aḥaḳḳ</i> as <i>The Balance of Truth</i> in 1957."</p>
 </div>
+
 <p>
 
 
@@ -475,6 +448,23 @@
   </label>
   </div>
 <p>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+  var coll = document.querySelectorAll(".collapsible");
+  for (var i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.maxHeight) {
+        content.style.maxHeight = null;
+      } else {
+        content.style.maxHeight = content.scrollHeight + "px";
+      }
+    });
+  }
+});
+    </script>
 
 		</article>
 		<br><br>

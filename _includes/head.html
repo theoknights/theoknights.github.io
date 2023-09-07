@@ -260,9 +260,6 @@
 
 </head>
 
-<script>
-
-</script>
 <script type="text/x-mathjax-config">
 	MathJax.Hub.Config({
 	  tex2jax: {
@@ -305,38 +302,21 @@
 </script>
 
 <script>
-	document.addEventListener("DOMContentLoaded", function () {
-		var box1 = document.getElementById("clickableBox1");
-		var box2 = document.getElementById("clickableBox2");
-		// Add more variables for each box
+ document.addEventListener("DOMContentLoaded", function () {
+     var box1 = document.getElementById("clickableBox1");
+     var box2 = document.getElementById("clickableBox2");
+     if (box1) {
+         box1.addEventListener("click", function () {
+             window.location.href = "{{ site.url }}/graph/";
+        });
+    }
 
-		if (box1) {
-			box1.addEventListener("click", function () {
-				window.location.href = "{{ site.url }}/graph/";
-			});
-		}
-
-		if (box2) {
-			box2.addEventListener("click", function () {
-				window.location.href = "{{ site.url }}/keyboard/";
-			});
-		}
-
-		const collapsibles = document.querySelectorAll('.collapsible');
-
-		console.log('got here')
-
-		collapsibles.forEach((collapsible) => {
-			const content = collapsible.nextElementSibling;
-			const arrow = collapsible.lastElementChild;
-			collapsible.addEventListener('click', () => {
-				content.classList.toggle('collapsed');
-				arrow.classList.toggle('rotate');
-			});
-		});
-
-		// Add more event listeners for other boxes
-	});
+     if (box2) {
+         box2.addEventListener("click", function () {
+             window.location.href = "{{ site.url }}/keyboard/";
+        });
+    }
+});
 </script>
 
 
