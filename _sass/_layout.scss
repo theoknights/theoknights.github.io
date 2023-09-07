@@ -121,7 +121,7 @@ button {
   
   /* Rotate the SVG when the button is active */
   .collapsible.active .svg-icon {
-	transform: rotate(180deg);
+	transform: rotate(-180deg);
   }
   
   .content {
