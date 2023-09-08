@@ -5,18 +5,15 @@
 layout: default
 description: I am a PhD student in the Department of Near Eastern Languages and Civilizations (NELC) at UChicago where I study early modern Ottoman history.
 ---
+<div class="parent-selector">  
+  <div style="float: right" class="desktoponly" id="container">
+    <img alt="image of Theo Knights" src="{{ site.url }}/images/theoheadshot.jpg" 
+            width="250" id="imgClickAndChange"   />
+  </div>
+  <div style="text-align: center" class="mobileonly" id="container">
+    <img src="{{ site.url }}/images/theoheadshot.jpg"  style="max-width:100%;height:auto" />
+  </div>
 
-<div style="float: right" class="desktoponly" id="container">
-	<!--<img src={{ site.url }}/images/theoheadshot.jpg width="250" />-->
-<img alt="image of Theo Knights" src="{{ site.url }}/images/theoheadshot.jpg" 
-        width="250" id="imgClickAndChange"   />
-</div>
-<div style="text-align: center" class="mobileonly" id="container">
-	<img src="{{ site.url }}/images/theoheadshot.jpg"  style="max-width:100%;height:auto" />
-
-</div>
-
-<div class="parent-selector" style="padding-top: 20px">  
   <div id="container"> 
 	I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago where I study early modern Ottoman history. My research interests include examining Ottoman reading practices through multi-text miscellanies (<i>mecmûa</i>) and employing microhistorical approaches to explore Ottoman involvement in the global trade and scholarly networks of early modernity. Prior to joining NELC, I was a Nizami Ganjavi Centre Scholar at the University of Oxford where I received an MSt in Oriental Studies. I also hold an MA from the University of Chicago’s Center for Middle Eastern Studies. 
   <br><br>
