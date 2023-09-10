@@ -5,6 +5,9 @@
 layout: default
 description: I am a PhD student in the Department of Near Eastern Languages and Civilizations (NELC) at UChicago where I study early modern Ottoman history.
 ---
+<head>
+<link rel="canonical" href="https://theoknights.com" />
+</head>
 <div class="parent-selector">  
   <div style="float: right" class="desktoponly" id="container">
     <img alt="image of Theo Knights" src="{{ site.url }}/images/theoheadshot.jpg" 
