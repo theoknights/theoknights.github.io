@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/mehat/2023/07/20/mehat-schedule.html</loc>
+<loc>http://localhost:4000/MEHAT/2023/07/20/mehat-schedule.html</loc>
 <lastmod>2023-07-20T16:10:23-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/mehat/2023/08/24/mehat-call.html</loc>
+<loc>http://localhost:4000/MEHAT/2023/08/24/mehat-call.html</loc>
 <lastmod>2023-08-24T16:10:23-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/mehat/2023/09/20/the-moshavot-ottoman-palestine.html</loc>
+<loc>http://localhost:4000/MEHAT/2023/09/20/the-moshavot-ottoman-palestine.html</loc>
 <lastmod>2023-09-20T12:10:23-05:00</lastmod>
 </url>
 <url>
@@ -25,7 +25,7 @@
 <loc>http://localhost:4000/keyboard/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>http://localhost:4000/MEHAT/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
