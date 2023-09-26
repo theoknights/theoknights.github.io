@@ -7,7 +7,7 @@ categories: MEHAT
 We are pleased to announce the tentative schedule for the Fall 2023 meetings of the MEHAT Workshop!
 <br>
 <br>
-<b>Please note presentations will take place at 4PM on Thursdays throughout the term in LOCATION TBA.</b>  
+<b>Please note presentations will take place at 4PM on Thursdays throughout the term in SSRB 302.</b>  
   <div class="desktoponly" style="max-width: 100%;">
     <a href="{{ site.url }}/images/MEHAT Fall 2023.jpg" target="_blank">
       <img alt="schedule fall" src="{{ site.url }}/images/MEHAT Fall 2023.jpg" 
