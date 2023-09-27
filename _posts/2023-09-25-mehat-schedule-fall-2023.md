@@ -25,7 +25,7 @@ We are pleased to announce the tentative schedule for the Fall 2023 meetings of 
   <li>Sept 28 – <i>The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914</i> w/ Dr. Roy Maron (Postdoctoral Fellow, University of Tel Aviv)</li>
   <li>Oct 5 — <i>Pedagogy, Parenthood, and the Press</i> w/ Owen Green (UChicago NELC)</li>
   <li>Oct 12 — <i>Collecting Family Stories: Learning from the Case of the Nakba</i> w/ Marah Abdel Jaber & Laura Albast (Institute for Palestine Studies)</li>
-  <li>Oct 19 — <i>Dawānī’s</i> Sharḥ Hayākil al-Nūr <i>and the Spread of Suhrawardī’s Thought in Mughal India</i> w/ Dr. Nariman Avani (Postdoctoral Fellow, UChicago Divinity School)</li>
+  <li>Oct 19 — <i>Dawānī’s</i> Sharḥ Hayākil al-Nūr <i>and the Spread of Suhrawardī’s Thought in Mughal India</i> w/ Dr. Nariman Aavani (Postdoctoral Fellow, UChicago Divinity School)</li>
   <li>Oct 26 — <i>A “Universal Struggle for Life”? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers</i> w/ Sacha Allen (UChicago MAPH)</li>
   <li>Nov 9 — <i>Studying Cuneiform in Times of Conflict — Ethical Considerations from an Art Crime Perspective</i> w/ Luise Loges (University of Glasgow)</li>
   <li>Nov 30 — <i>Ottoman Purim: Jewish Memories of an Ottoman Past</i> w/ Prof. Orit Bashkin (UChicago NELC)</li>
