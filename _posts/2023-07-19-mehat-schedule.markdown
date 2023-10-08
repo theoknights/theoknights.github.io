@@ -2,7 +2,7 @@
 layout: post
 title:  "MEHAT Schedule — 2022-23"
 date:   2023-07-20 16:10:23 -0500
-categories: MEHAT
+categories: mehat
 ---
 Thank you to all participants and presenters for an excellent year of MEHAT gatherings. Here is a brief overview of our events during the past year: 
 

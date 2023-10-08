@@ -36,7 +36,7 @@ kramdown:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-permalink: /MEHAT/:year/:month/:day/:title:output_ext
+permalink: /mehat/:year/:month/:day/:title:output_ext
 
 
 # Exclude from processing.

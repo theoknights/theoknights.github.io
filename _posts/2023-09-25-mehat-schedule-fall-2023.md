@@ -2,7 +2,7 @@
 layout: post
 title:  "MEHAT Schedule — Fall Term 2023"
 date:   2023-09-25 16:10:23 -0500
-categories: MEHAT
+categories: mehat
 ---
 We are pleased to announce the tentative schedule for the Fall 2023 meetings of the MEHAT Workshop!
 <br>

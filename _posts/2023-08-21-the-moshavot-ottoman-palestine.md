@@ -2,7 +2,7 @@
 layout: post
 title:  "The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914"
 date:   2023-09-20 12:10:23 -0500
-categories: MEHAT
+categories: mehat
 ---
 
 <p class="last-paragraph">On <b>Thursday, September 28th, at 4PM</b> the Middle East History and Theory Workshop is excited to welcome <b>Dr. Roy Marom</b>, Postdoctoral Fellow at Tel Aviv University, who will present his research project, titled <b>"The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914."</b></p>
