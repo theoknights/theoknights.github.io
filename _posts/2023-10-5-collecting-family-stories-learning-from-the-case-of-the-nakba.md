@@ -4,8 +4,8 @@ title:  "Collecting Family Stories: Learning from the Case of the Nakba"
 date:   2023-10-05 12:10:23 -0500
 categories: mehat
 ---
+<p class="center-text-mehat"><b>Please note this event has been postponed until November 16th.</b></p>
 <p class="last-paragraph">MEHAT will continue <b>Thursday, October 12th, at 4PM in SSRB 302</b> when we are very pleased to welcome <b>Marah Abdel Jabar (CMES) and Laura Albast (Institute for Palestine Studies)</b>, who will co-present a workshop entitled, <b>"Collecting Family Stories: Learning from the Case of the Nakba"</b>.</p>
-
 <div class="center-text-mehat">
     <p><b>Marah Abdel Jabar and Laura Albast</b></p>
     <p>The Center for Middle Eastern Studies and the Institute for Palestine Studies</p> 
