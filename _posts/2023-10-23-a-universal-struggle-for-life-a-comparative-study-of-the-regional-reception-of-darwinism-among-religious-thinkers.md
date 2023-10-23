@@ -5,7 +5,7 @@ date:   2023-10-22 11:10:23 -0500
 categories: mehat
 ---
 
-<p class="last-paragraph">The Middle East History and Theory Workshop will continue this <b>Thursday (10/26) at 4PM in SSRB 302</b> when we will welcome <b>Sacha Aellen</b>, a MAPH student at UChicago, who will present his paper, <b>"A 'Universal Struggle for Life'? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers in the Second Half of the 19th Century."</b> A published version of the article is attached, reading is encouraged but not required for participation in the workshop.</p>
+<p class="last-paragraph">The Middle East History and Theory Workshop will continue this <b>Thursday (10/26) at 4PM in SSRB 302</b> when we will welcome <b>Sacha Aellen</b>, a MAPH student at UChicago, who will present his paper, <b>"A 'Universal Struggle for Life'? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers in the Second Half of the 19th Century."</b> A published version of the article can be found <a ref="{{ site.url }}/pdfs/Publication Socieėteės Politiques Compareėes.pdf">here</a>, reading is encouraged but not required for participation in the workshop.</p>
 
 <div class="center-text-mehat">
     <p><b>Sacha Aellen</b></p>
