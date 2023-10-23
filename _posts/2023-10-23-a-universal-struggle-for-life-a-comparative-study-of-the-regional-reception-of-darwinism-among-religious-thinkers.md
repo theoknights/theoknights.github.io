@@ -27,6 +27,11 @@ categories: mehat
         style="width: 350px;" />
     </a>
   </div>
+</div>
+<div class="center-text-mehat">
+    <p><b>Thursday, October 26th</b></p>
+    <p><b>4:00PM-5:30PM</b></p> 
+    <p><b>SSRB 302</b></p>
 </div> 
 
 <p class="last-paragraph"> Aellen's study aims at analyzing the reception of Darwinism among religious intellectuals from the Anglo-Saxon world and the Middle East in the second half of the 19th century. It adopts a comparative approach, understood in its double meaning of individualizing operator and commonality revealer, in order to formulate hypotheses regarding the contextual and the general implications of Darwin’s theory. The main finding is that behind the distinctive politicization of Darwinism that framed the debates towards secularization in one case and towards the relation to the imperial power on the other, the ideas and preoccupations voiced by Anglo-Saxon and Middle Eastern religious thinkers demonstrate striking similarities, with regard to the intensity of the debate, the individuality of the experience, the inscription of Darwinism in the question of modernity and the types of fundamental questions raised. The overarching idea governing Aellen's article is that the relation between religion and Darwinism should not be understood as necessarily being in opposition.</p>
