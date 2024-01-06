@@ -21,7 +21,7 @@
 title: Theo Knights
 email: knightst@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago, where I study the early modern Ottoman Empire. 
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://theoknights.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheoKnights
