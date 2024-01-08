@@ -8,18 +8,12 @@ description: I am a PhD student in the Department of Near Eastern Languages and 
 <head>
 <link rel="canonical" href="https://theoknights.com" />
 </head>
-<div class="parent-selector">  
-  <div style="float: right" class="desktoponly" id="container">
-    <img alt="image of Theo Knights" src="{{ site.url }}/images/theoheadshot.jpg" 
-            width="250" id="imgClickAndChange"   />
-  </div>
-  <div style="text-align: center" class="mobileonly" id="container">
-    <img src="{{ site.url }}/images/theoheadshot.jpg"  style="max-width:100%;height:auto" />
-  </div>
 
   <div id="container"> 
+	I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago where I study early modern history.
+  <br><br>
+	
   </div>
-</div>
 
 <script language="javascript">
 
