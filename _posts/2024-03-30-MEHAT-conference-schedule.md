@@ -14,13 +14,13 @@ hide_image_overlay: true
 
 <b>Friday May 3rd:</b>
 <p>
-<b>1:00-1:30PM — Check-In</b>
+<b>1:00-1:30PM — Stuart Hall — Check-In </b>
 <p>
-<b>1:30-2:00PM — Opening Remarks</b>
+<b>1:30-2:00PM — Stuart Hall 102 — Opening Remarks</b>
 <p>
 <b>2:00-3:40PM — Session 1</b>
 <p>
-<b>Room 1: Fresh Perspectives on the Classical Age</b>
+<b>Stuart Hall 104: Fresh Perspectives on the Classical Age</b>
 <br>
 Discussant:
 <div>
@@ -60,7 +60,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>Room 2: Late Medieval and Early Modern Ottoman Cultural History</b>
+<b>Saieh Hall 103: Late Medieval and Early Modern Ottoman Cultural History</b>
 <br>
 Discussant: Dr. Helga Anetshofer
 <div>
@@ -99,7 +99,7 @@ Discussant: Dr. Helga Anetshofer
 </div>
 </div>
 <p>
-<b>Room 3: Turkey Between Empire and Republic</b>
+<b>Stuart Hall 102: Turkey Between Empire and Republic</b>
 <br>
 Discussant: 
 <div>
@@ -138,7 +138,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>4:00-5:30PM — Keynote Address with Prof. Suraiya Faroqhi</b>
+<b>4:00-5:30PM — Saieh Hall 021 — Keynote Address with Prof. Suraiya Faroqhi</b>
 <br>
 <p>
 <b>5:30-6:30 — Reception</b>
@@ -147,12 +147,12 @@ Discussant:
 <b>Saturday May 4th:</b>
 <br>
 <p>
-<b>9:30-10:00 — Breakfast</b>
+<b>9:30-10:00 — Saieh Hall Graduate Common Room (201) — Breakfast</b>
 <br>
 <p>
 <b>10:00-11:30 — Session 2</b>
 <p>
-<b>Room 1: Cultural History of the Modern Maghreb</b>
+<b>Saieh Hall 203: Cultural History of the Modern Maghreb</b>
 <br>
 Discussant:
 <p>
@@ -204,7 +204,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>Room 2: New Lenses for Ottoman and Safavid Cultural History</b>
+<b>Saieh Hall 112: New Lenses for Ottoman and Safavid Cultural History</b>
 <br>
 Discussant: Prof. Hakan Karateke 
 <br>
@@ -257,7 +257,7 @@ Discussant: Prof. Hakan Karateke
 </div>
 </div>
 <p>
-<b>Room 3: New Approaches to the History of the Nahḍa</b>
+<b>Saieh Hall 146: New Approaches to the History of the Nahḍa</b>
 <br>
 Discussant: Prof. Ghenwa Hayek 
 <br>
@@ -312,13 +312,13 @@ Discussant: Prof. Ghenwa Hayek
 </div>
 </div>
 <p>
-<b>12:00-1:20 — Lunch</b> 
+<b>12:00-1:20 — Saieh Hall Graduate Common Room (201) — Lunch</b> 
 <br>
 <p>
 <b>1:30-3:00 — Session 3</b>
 <br>
 <p>
-<b>Room 1: Modern Egypt: Histories of Capitalism and Carcerality</b>
+<b>Saieh Hall 112: Modern Egypt: Histories of Capitalism and Carcerality</b>
 <br>
 Discussant:
 <div>
@@ -369,7 +369,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>Room 2: Armenian History in the Late Ottoman Empire</b>
+<b>Saieh Hall 146: Armenian History in the Late Ottoman Empire</b>
 <br>
 Discussant:
 <div>
@@ -420,7 +420,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>Room 3: Histories of Modern Resistance: Palestine, Iran, and Afghanistan</b>
+<b>Saieh Hall 203: Histories of Modern Resistance: Palestine, Iran, and Afghanistan</b>
 <br>
 Discussant:
 <div>
@@ -475,7 +475,7 @@ Discussant:
 <b>3:15-4:45PM — Session 4</b>
 <br>
 <p>
-<b>Room 1: Late Ottoman Regional Studies</b>
+<b>Saieh Hall 112: Late Ottoman Regional Studies</b>
 <br>
 Discussant:
 <div>
@@ -526,7 +526,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>Room 2: New Approaches to Modern Iranian History</b>
+<b>Saieh Hall 146: New Approaches to Modern Iranian History</b>
 <br>
 Discussant:
 <div>
@@ -565,7 +565,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>Room 3: Middle Eastern Jewish Self-Fashioning: Between Nationalism, Zionism, and Diaspora</b>
+<b>Saieh Hall 203: Middle Eastern Jewish Self-Fashioning: Between Nationalism, Zionism, and Diaspora</b>
 <br>
 Discussant:
 <div>
@@ -592,7 +592,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>5:00-7:00 — Dinner</b>
+<b>5:00-7:00 — Saieh Hall Graduate Common Room (201) — Dinner</b>
 <br>
 
 
