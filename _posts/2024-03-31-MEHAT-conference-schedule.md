@@ -48,7 +48,7 @@ Discussant:
 </div>
 <p>
 <div>
-  <p>Adam DeSchriver (UChicago, MA) — “Those Who Seek the Soothsayers: Ibn al-Ḥanifiyya’s Construction of Theological Boundaries in Kitāb al-Irjāʾ”
+  <p>Adam DeSchriver (UChicago, MA) — “Those Who Seek the Soothsayers: Ibn al-Ḥanifiyya’s Construction of Theological Boundaries in <i>Kitāb al-Irjāʾ</i>”
   </p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
