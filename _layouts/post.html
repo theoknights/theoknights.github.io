@@ -14,7 +14,9 @@ layout: default
 			<img src="{{ site.url }}/images/mehat logo.png"  style="max-width:100%;height:auto" />
 		</div>
 	</div>
+    {% if page.hide_title_date != true %}
     <h3>{{ page.title }}</h3>
     <time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
+    {% endif %}
 </body>
 {{ content }}

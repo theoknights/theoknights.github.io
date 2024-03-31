@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-31T09:56:22-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Theo Knights</title><subtitle></subtitle><entry><title type="html">38th Annual Middle East History and Theory Conference</title><link href="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html" rel="alternate" type="text/html" title="38th Annual Middle East History and Theory Conference" /><published>2024-03-30T16:10:23-05:00</published><updated>2024-03-30T16:10:23-05:00</updated><id>http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule</id><content type="html" xml:base="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html"><![CDATA[<body class="mehat" id="no-background-overlay">
+---
+layout: post
+title:  "38th Annual Middle East History and Theory Conference"
+date:   2024-03-30 16:10:23 -0500
+categories: mehat
+hide_title_date: true
+---
+<body class="mehat" id="no-background-overlay">
 
 <h3>38th Annual Middle East History and Theory Conference (May 3–4, 2024) | The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers</h3>
 
@@ -13,7 +20,7 @@
 <b>2:00-3:40PM — Session 1</b>
 <p>
 <b>Room 1: Fresh Perspectives on the Classical Age</b>
-<br />
+<br>
 Discussant:
 <div>
   <p>Erin Atwell (UChicago, PhD Candidate) — “Taqwā in the First Hijri Century from Biblical Inheritance to Embodied Articulation”</p>
@@ -53,7 +60,7 @@ Discussant:
 </div>
 <p>
 <b>Room 2: Late Medieval and Early Modern Ottoman Cultural History</b>
-<br />
+<br>
 Discussant: Dr. Helga Anetshofer
 <div>
   <p>Cyril Achcar (McGill, Visiting Student) — “Chios: Between a Lion and St. George / A Historiographical Conflict in the Context of the <i>Düstūrnāme”</i></p>
@@ -63,7 +70,7 @@ Discussant: Dr. Helga Anetshofer
   </svg>
 </button>
 <div class="content">
-  <p><i>Written by the fifteenth century poet Enveri for Mehmed II, the Destan of ‘Umur Pasha, part of the Düstûrnâme (Book of the Vizier), is a powerful epic, based on oral history, of the eponymous Turkic prince of Aydın (c. 1309-1348). This long-neglected text rediscovered in the twentieth century, shines a light on the fragmented fourteenth century Aegean. Split asunder by the revanchist Byzantine Empire, emerging Beyliks of Aydın, Menteşe and Osmanli, Genoese &amp; Venetian colonial holdings, Catalan mercenaries, and the surviving Frankokratia in Greece, the Aegean was nonetheless united in trans-Mediterranean trade networks, producing important goods for West European manufacturing – namely alum for colourful cloth. The only question being who would profit from its extraction and trade. Into this maelstrom the question over the sovereignty of the island of Chios (Saqiz) and Smyrna provides an interesting example of clashing universalist claims between the Byzantines (Andronicus II) and Turks (Aydınoğulları), and the mercantile interests of the Genoese (Zaccaria family). Out of this comes a contested and still unresolved historiographical debate in the twentieth century between Byzantinist Paul Lemerle and Ottomanist Halil İnalcık regarding who had sovereignty over Chios in 1327. This comes from differing interpretations of select passages from the Düstûrnâme, specifically the term illik oldu. This paper will explicate these different interpretations, but overcome them, by instead offering a meta explanation regarding the ignored fifteenth century context of the Düstûrnâme in the court of Mehmed II, and further will question what sovereignty meant in a world of interstate commerce.</i></p>
+  <p><i>Written by the fifteenth century poet Enveri for Mehmed II, the Destan of ‘Umur Pasha, part of the Düstûrnâme (Book of the Vizier), is a powerful epic, based on oral history, of the eponymous Turkic prince of Aydın (c. 1309-1348). This long-neglected text rediscovered in the twentieth century, shines a light on the fragmented fourteenth century Aegean. Split asunder by the revanchist Byzantine Empire, emerging Beyliks of Aydın, Menteşe and Osmanli, Genoese & Venetian colonial holdings, Catalan mercenaries, and the surviving Frankokratia in Greece, the Aegean was nonetheless united in trans-Mediterranean trade networks, producing important goods for West European manufacturing – namely alum for colourful cloth. The only question being who would profit from its extraction and trade. Into this maelstrom the question over the sovereignty of the island of Chios (Saqiz) and Smyrna provides an interesting example of clashing universalist claims between the Byzantines (Andronicus II) and Turks (Aydınoğulları), and the mercantile interests of the Genoese (Zaccaria family). Out of this comes a contested and still unresolved historiographical debate in the twentieth century between Byzantinist Paul Lemerle and Ottomanist Halil İnalcık regarding who had sovereignty over Chios in 1327. This comes from differing interpretations of select passages from the Düstûrnâme, specifically the term illik oldu. This paper will explicate these different interpretations, but overcome them, by instead offering a meta explanation regarding the ignored fifteenth century context of the Düstûrnâme in the court of Mehmed II, and further will question what sovereignty meant in a world of interstate commerce.</i></p>
 </div>
 </div>
 <p>
@@ -92,7 +99,7 @@ Discussant: Dr. Helga Anetshofer
 </div>
 <p>
 <b>Room 3: Turkey Between Empire and Republic</b>
-<br />
+<br>
 Discussant: 
 <div>
   <p>Cevat Dargın (Columbia, Visiting Assistant Professor) “‘The Most Respected Seyid’ and ‘a Terrific Bandit’: Seyid Rıza (1863-1937) Across Empire and Nation-State”</p>
@@ -131,21 +138,21 @@ Discussant:
 </div>
 <p>
 <b>4:00-5:30PM — Keynote Address with Prof. Suraiya Faroqhi</b>
-<br />
+<br>
 <p>
 <b>5:30-6:30 — Reception</b>
-<br />
+<br>
 <p>
 <b>Saturday May 4th:</b>
-<br />
+<br>
 <p>
 <b>9:30-10:00 — Breakfast</b>
-<br />
+<br>
 <p>
 <b>10:00-11:30 — Session 2</b>
 <p>
 <b>Room 1: Cultural History of the Modern Maghreb</b>
-<br />
+<br>
 Discussant:
 <p>
 <div>
@@ -197,9 +204,9 @@ Discussant:
 </div>
 <p>
 <b>Room 2: New Lenses for Ottoman and Safavid Cultural History</b>
-<br />
+<br>
 Discussant: Prof. Hakan Karateke 
-<br />
+<br>
 <p>
 <div>
   <p>Abdüssemi Aydın (Koç, MA) — “Simeon Kalfa The First Non-Muslim Architect of a Sultanic Mosque”</p>
@@ -250,9 +257,9 @@ Discussant: Prof. Hakan Karateke
 </div>
 <p>
 <b>Room 3: New Approaches to the History of the Nahḍa</b>
-<br />
+<br>
 Discussant: Prof. Ghenwa Hayek 
-<br />
+<br>
 <p>
 <div>
   <p>Amir Marshi (UMichigan Ann Arbor, PhD Student) — “Raphael Hawaweeny: Indigenous Sovereignty and the Orthodox Nahḍa”</p>
@@ -305,13 +312,13 @@ Discussant: Prof. Ghenwa Hayek
 </div>
 <p>
 <b>12:00-1:20 — Lunch</b> 
-<br />
+<br>
 <p>
 <b>1:30-3:00 — Session 3</b>
-<br />
+<br>
 <p>
 <b>Room 1: Modern Egypt: Histories of Capitalism and Carcerality</b>
-<br />
+<br>
 Discussant:
 <div>
   <p>Mehdi Hoseini (Boston College, PhD Student) — “The Ideology of Crime and Punishment in Egypt under British Rule (1882-1922)”</p>
@@ -362,7 +369,7 @@ Discussant:
 </div>
 <p>
 <b>Room 2: Armenian History in the Late Ottoman Empire</b>
-<br />
+<br>
 Discussant:
 <div>
   <p>Yağmur Karaca (USC, PhD Student) Armenians in the Imperial Governance of the Ottoman Empire: The Düzyan Case</p>
@@ -413,7 +420,7 @@ Discussant:
 </div>
 <p>
 <b>Room 3: Histories of Modern Resistance: Palestine, Iran, and Afghanistan</b>
-<br />
+<br>
 Discussant:
 <div>
   <p>Marah Abdel Jaber (UChicago, CMES MA) — “The Homeland Is Us: Reconceptualizing Liberation through the Palestinian Imaginal”</p>
@@ -465,10 +472,10 @@ Discussant:
 </div>
 <p>
 <b>3:15-4:45PM — Session 4</b>
-<br />
+<br>
 <p>
 <b>Room 1: Late Ottoman Regional Studies</b>
-<br />
+<br>
 Discussant:
 <div>
   <p>Nada Khalifa (UToronto Scarborough, Assistant Professor) — “Afterlives of Reform: Social Investigation and the Performativity of Political Trials (1908-1920)”</p>
@@ -519,7 +526,7 @@ Discussant:
 </div>
 <p>
 <b>Room 2: New Approaches to Modern Iranian History</b>
-<br />
+<br>
 Discussant:
 <div>
   <p>Saeed Saffar-Heidari (UIUC, PhD Candidate) — "Revolutionary Counter-Mobilization and the Racialization of Historical Memory (Iran before and after 1979)"</p>
@@ -558,7 +565,7 @@ Discussant:
 </div>
 <p>
 <b>Room 3: Middle Eastern Jewish Self-Fashioning: Between Nationalism, Zionism, and Diaspora</b>
-<br />
+<br>
 Discussant:
 <div>
   <p>Anna Shabi (UChicago, CMES MA) — "Understanding Twentieth-Century Iraqi Jewish Life through Creations of Family Memory"</p>
@@ -585,7 +592,7 @@ Discussant:
 </div>
 <p>
 <b>5:00-7:00 — Dinner</b>
-<br />
+<br>
 
 
   <script>
@@ -604,223 +611,3 @@ Discussant:
   }
 });
   </script>
-</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></body>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">MEHAT Schedule — Winter Term 2024</title><link href="http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule.html" rel="alternate" type="text/html" title="MEHAT Schedule — Winter Term 2024" /><published>2024-01-02T11:10:23-06:00</published><updated>2024-01-02T11:10:23-06:00</updated><id>http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule</id><content type="html" xml:base="http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule.html"><![CDATA[<p>We are pleased to announce the tentative schedule for the Winter 2024 meetings of the MEHAT Workshop!
-<br />
-<br />
-<b>Please note presentations will take place at 4PM on Thursdays throughout the term in SSRB 302 unless otherwise noted.</b></p>
-<div class="desktoponly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/mehatwinter2024.jpg" target="_blank">
-      <img alt="schedule fall" src="http://localhost:4000/images/mehatwinter2024.jpg" style="width: auto;" />
-    </a>
-  </div>
-<div class="mobileonly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/mehatwinter2024.jpg" target="_blank">
-      <img alt="schedule fall" src="http://localhost:4000/images/mehatwinter2024.jpg" style="width: auto;" />
-    </a>
-  </div>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[We are pleased to announce the tentative schedule for the Winter 2024 meetings of the MEHAT Workshop! Please note presentations will take place at 4PM on Thursdays throughout the term in SSRB 302 unless otherwise noted.]]></summary></entry><entry><title type="html">38th Annual Middle East History and Theory Conference Call for Papers</title><link href="http://localhost:4000/mehat/2023/12/13/annual-middle-east-history-and-theory-conference-call-for-papers.html" rel="alternate" type="text/html" title="38th Annual Middle East History and Theory Conference Call for Papers" /><published>2023-12-13T11:10:23-06:00</published><updated>2023-12-13T11:10:23-06:00</updated><id>http://localhost:4000/mehat/2023/12/13/annual-middle-east-history-and-theory-conference-call-for-papers</id><content type="html" xml:base="http://localhost:4000/mehat/2023/12/13/annual-middle-east-history-and-theory-conference-call-for-papers.html"><![CDATA[<h4>38th Annual Middle East History and Theory Conference | The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers</h4>
-
-<p><b>Call for Papers.</b> The Middle East History and Theory Conference (MEHAT) at The University of Chicago will return from its COVID hiatus—lamb roast and all—Friday, May 3, and Saturday, May 4, 2024. We are now accepting proposals for papers and pre-arranged panels from graduate students, postdocs, faculty, and independent scholars. We are eager to hear from historians, linguists, anthropologists, literary scholars, sociologists, musicologists, scholars of religion, and political scientists whose work engages with a broad geography, including but not limited to, the Mediterranean, North and West Africa, and South and Central Asia, from Late Antiquity and the advent of Islam to the present.</p>
-
-<p>We also particularly encourage submissions related to this year’s organizing theme: “The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers.” The range of topics we hope to examine with this theme include, but are not limited to:</p>
-<ul>
-    <li>Microhistories and ethnographies of unexpected or otherwise forgotten historical actors who traversed geographic, linguistic, racial, national, class, and gender boundaries in the pre-modern and modern Middle East.</li> 
-    <li>Investigations of the marginal or paratextual elements of texts that illuminate the way written works and the ideas they contained transcended the temporal boundaries of their production.</li>
-    <li>Examinations of minority histories or literatures and their relationship to the majority.</li>
-    <li>Social histories and other quantitative or qualitative social scientific studies of everyday life and social groups of any description.</li> 
-    <li>The thought and history of minor ideological currents and political movements.</li>
-    <li>Reflections on the use of historical method and theory in Middle Eastern studies. Particularly, discussions of how micro-scale studies can inform our analysis of macro-level structures and processes operational in the history of the Middle East.</li>
-</ul>
-
-<p><b>About the Conference.</b> Since its inception more than three decades ago, the annual Middle East History and Theory Conference at the University of Chicago has earned a reputation as one of the premier academic gatherings in the field. Capitalizing on its setting at a university with a strong tradition in Middle Eastern and Islamic Studies, MEHAT has established itself as a major forum for emerging scholars across disciplines to share their research with peers, receive constructive feedback, and establish fruitful academic relationships. Participants come from North America, Europe, and the Middle East, and they have traditionally included researchers at every stage of their careers.</p>
-
-<p><b>Keynote.</b> The keynote speaker of this year’s conference is <b>Professor Suraiya Faroqhi</b>, a pioneering social and cultural historian of the Ottoman Empire whose publications include Approaching Ottoman History: An Introduction to the Sources and Subjects of the Sultan: Culture and Daily Life in the Ottoman Empire.</p>
-
-<p><b>Applications.</b> Please send submissions electronically to <a href="mailto:mehat2023@gmail.com">mehat2023@gmail.com</a>, <b>no later than Friday, January 26, 2024.</b> Please include each presenter’s name, and a brief biographical note including institutional affiliation, program of study, or position and attach a 250-word abstract with a tentative title. For pre-arranged panels, please send a single email with an overall panel description plus individual paper abstracts. The best abstracts will summarize the paper’s topic, its relationship and contribution to existing scholarship and specific conclusions. Abstracts will be evaluated anonymously by the coordinators; therefore, please do not include names or any identifying information in the abstract. If you are unsure about the suitability of your topic, feel free to email us at the above address. Submissions will be assessed, and invitations extended by late February 2024.</p>
-
-<p>Selected papers will be grouped into panels of three or four. Participants should be prepared to deliver a maximum twenty-minute presentation and respond to questions from an assigned discussant as well as conference attendees. Written papers must be circulated to the respondent and fellow members of the panel at least two weeks before the conference.</p>
-
-<p>A small amount of travel support (~$250 per person) will be available for a number of presenters without access to institutional funding. Please indicate if you are interested in being considered in your email.</p>
-
-<p><b>Please circulate widely!</b> For questions and accessibility concerns, please write to <a href="mailto:mehat2023@gmail.com">mehat2023@gmail.com</a>.</p>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[38th Annual Middle East History and Theory Conference | The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers]]></summary></entry><entry><title type="html">Studying Cuneiform in Times of Conflict - Ethical Considerations from an Art Crime Perspective</title><link href="http://localhost:4000/mehat/2023/11/06/studying-cuneiform-in-times-of-conflict-ethical-considerations-from-an-art-crime-perspective.html" rel="alternate" type="text/html" title="Studying Cuneiform in Times of Conflict - Ethical Considerations from an Art Crime Perspective" /><published>2023-11-06T10:10:23-06:00</published><updated>2023-11-06T10:10:23-06:00</updated><id>http://localhost:4000/mehat/2023/11/06/studying-cuneiform-in-times-of-conflict-ethical-considerations-from-an-art-crime-perspective</id><content type="html" xml:base="http://localhost:4000/mehat/2023/11/06/studying-cuneiform-in-times-of-conflict-ethical-considerations-from-an-art-crime-perspective.html"><![CDATA[<p class="last-paragraph">This is just a quick reminder that the Middle East History and Theory Workshop will continue this <b>Thursday (11/9) at 4PM in SSRB 302</b> when we will welcome <b>Luise Loges</b>, a postgraduate researcher in Archaeology at the University of Glasgow. Loges will present her paper, <b>"Studying Cuneiform in Times of Conflict - Ethical Considerations from an Art Crime Perspective,"</b> in person at the workshop.</p>
-
-<div class="center-text-mehat">
-    <p><b>Luise Loges</b></p>
-    <p>School of Humanities</p> 
-    <p>University of Glasgow</p>
-    <p><b>"Studying Cuneiform in Times of Conflict -</b></p> 
-    <p><b>Ethical Considerations from an Art Crime Perspective"</b></p>
-</div>
-<div style="display: flex; justify-content: center; overflow-x: auto;">
-  <div class="desktoponly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/loges presentation.jpg" target="_blank">
-      <img alt="moshavot image" src="http://localhost:4000/images/loges presentation.jpg" style="width: 500px;" />
-    </a>
-  </div>
-  <div class="mobileonly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/loges presentation.jpg" target="_blank">
-      <img alt="moshavot image" src="http://localhost:4000/images/loges presentation.jpg" style="width: 350px;" />
-    </a>
-  </div>
-</div>
-<div class="center-text-mehat">
-    <p><b>Thursday, November 9th</b></p>
-    <p><b>4:00PM-5:30PM</b></p> 
-    <p><b>SSRB 302</b></p>
-</div>
-
-<p class="last-paragraph"> Few ancient artefacts are as sought-after by antiquities collectors as text documents written in cuneiform, one of the oldest writing systems known to humankind. The script was invented in Southern Iraq, some 5000 years ago. The area was densely populated before and during the first literate periods, with the first cities and territorial states. In fact, there are so many archaeological sites in the region, that a large part of them has never been scientifically excavated, despite being widely visible in the landscape. This same area has been subjected to intense archaeological looting, first, under the international sanctions against Iraq following the 1991 Gulf War, then, during and after the American-led invasion of 2003. Often, the looters were after cuneiform texts, inscribed on clay tablets. Many such documents have since surfaced in private collections without provenance, an ownership history tying them to a legal origin. They have most likely been looted in the aftermath of recent wars. One example of collectors who bought loot is the American Green family, owners of Hobby Lobby and the Museum of the Bible. Unlike other archaeological finds, which are generally seen as having little historical and scientific value without provenance, text finds have often been argued to still hold scholarly value and grant historical insight even when they were stripped of their archaeological context. Some scholars argue for the study and publication of cuneiform tablets found on the antiquities market even if, or especially when, they are likely to come from conflict zones. The rationale of this argument is that the history of a site otherwise destroyed by conflict and looting, can be partly recovered through the study and publication of its written history. However, studies of the global trade in illicit antiquities show that the demand of the market fuels looting in source countries, and that the publication of illicit texts held in private collections leads to a scholarly endorsement of these practices. Additionally, the publication of texts from Iraq by non-Iraqi scholars at Western institutions can be seen as a form of modern-day academic colonialism. Loges will weigh these arguments, and highlight the ethical dilemma of cuneiform researchers faced with the decision to "publish or perish". Loges will also discuss potential ways forward, and lessons from this debate for the study of written documents from other eras and areas.</p>
-
-<p class="last-paragraph">Luise Loges is a postgraduate researcher in Archaeology at the University of Glasgow, Scotland, UK, and a science journalist with seven years of experience in archaeological science communication.</p>
-
-<p class="last-paragraph">Best wishes,
-<br />Theo Knights &amp; Darragh Winkelman</p>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[This is just a quick reminder that the Middle East History and Theory Workshop will continue this Thursday (11/9) at 4PM in SSRB 302 when we will welcome Luise Loges, a postgraduate researcher in Archaeology at the University of Glasgow. Loges will present her paper, "Studying Cuneiform in Times of Conflict - Ethical Considerations from an Art Crime Perspective," in person at the workshop.]]></summary></entry><entry><title type="html">A ‘Universal Struggle for Life’? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers</title><link href="http://localhost:4000/mehat/2023/10/22/a-universal-struggle-for-life-a-comparative-study-of-the-regional-reception-of-darwinism-among-religious-thinkers.html" rel="alternate" type="text/html" title="A ‘Universal Struggle for Life’? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers" /><published>2023-10-22T11:10:23-05:00</published><updated>2023-10-22T11:10:23-05:00</updated><id>http://localhost:4000/mehat/2023/10/22/a-universal-struggle-for-life-a-comparative-study-of-the-regional-reception-of-darwinism-among-religious-thinkers</id><content type="html" xml:base="http://localhost:4000/mehat/2023/10/22/a-universal-struggle-for-life-a-comparative-study-of-the-regional-reception-of-darwinism-among-religious-thinkers.html"><![CDATA[<p class="last-paragraph">The Middle East History and Theory Workshop will continue this <b>Thursday (10/26) at 4PM in SSRB 302</b> when we will welcome <b>Sacha Aellen</b>, a MAPH student at UChicago, who will present his paper, <b>"A 'Universal Struggle for Life'? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers in the Second Half of the 19th Century."</b> A published version of the article can be found <a href="http://localhost:4000/pdfs/Publication Socieėteės Politiques Compareėes.pdf">here</a>, reading is encouraged but not required for participation in the workshop.</p>
-
-<div class="center-text-mehat">
-    <p><b>Sacha Aellen</b></p>
-    <p>Master of Arts Program in the Humanities</p> 
-    <p>The University of Chicago</p>
-    <p><b>"A “Universal Struggle for Life”? A Comparative Study of the Regional Reception</b></p> 
-    <p><b>of Darwinism Among Religious Thinkers in the Second Half of the 19th Century"</b></p>
-</div>
-<div style="display: flex; justify-content: center; overflow-x: auto;">
-  <div class="desktoponly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/alafghanivedarwin.png" target="_blank">
-      <img alt="moshavot image" src="http://localhost:4000/images/alafghanivedarwin.png" style="width: 500px;" />
-    </a>
-  </div>
-  <div class="mobileonly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/alafghanivedarwin.png" target="_blank">
-      <img alt="moshavot image" src="http://localhost:4000/images/alafghanivedarwin.png" style="width: 350px;" />
-    </a>
-  </div>
-</div>
-<div class="center-text-mehat">
-    <p><b>Thursday, October 26th</b></p>
-    <p><b>4:00PM-5:30PM</b></p> 
-    <p><b>SSRB 302</b></p>
-</div>
-
-<p class="last-paragraph"> Aellen's study aims at analyzing the reception of Darwinism among religious intellectuals from the Anglo-Saxon world and the Middle East in the second half of the 19th century. It adopts a comparative approach, understood in its double meaning of individualizing operator and commonality revealer, in order to formulate hypotheses regarding the contextual and the general implications of Darwin’s theory. The main finding is that behind the distinctive politicization of Darwinism that framed the debates towards secularization in one case and towards the relation to the imperial power on the other, the ideas and preoccupations voiced by Anglo-Saxon and Middle Eastern religious thinkers demonstrate striking similarities, with regard to the intensity of the debate, the individuality of the experience, the inscription of Darwinism in the question of modernity and the types of fundamental questions raised. The overarching idea governing Aellen's article is that the relation between religion and Darwinism should not be understood as necessarily being in opposition.</p>
-
-<p class="last-paragraph">Sacha Aellen received an MA in International History from the Graduate Institute of Geneva and served in various roles for the Agency for Technical Cooperation and Development (ACTED), including as Emergency Coordinator in Türkiye following the 2023 earthquake. He is currently a MAPH student at the University of Chicago.</p>
-
-<p class="last-paragraph">Best wishes,
-<br />Theo Knights &amp; Darragh Winkelman</p>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[The Middle East History and Theory Workshop will continue this Thursday (10/26) at 4PM in SSRB 302 when we will welcome Sacha Aellen, a MAPH student at UChicago, who will present his paper, "A 'Universal Struggle for Life'? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers in the Second Half of the 19th Century." A published version of the article can be found here, reading is encouraged but not required for participation in the workshop.]]></summary></entry><entry><title type="html">Dawānī’s Sharḥ Hayākil al-Nūr and the Spread of Suhrawardī’s Thought in Mughal India</title><link href="http://localhost:4000/mehat/2023/10/16/dawanis-sharh-hayakil-al-nur-and-the-spread-of-suhrawardis-thought-in-mughal-india.html" rel="alternate" type="text/html" title="Dawānī’s Sharḥ Hayākil al-Nūr and the Spread of Suhrawardī’s Thought in Mughal India" /><published>2023-10-16T12:10:23-05:00</published><updated>2023-10-16T12:10:23-05:00</updated><id>http://localhost:4000/mehat/2023/10/16/dawanis-sharh-hayakil-al-nur-and-the-spread-of-suhrawardis-thought-in-mughal-india</id><content type="html" xml:base="http://localhost:4000/mehat/2023/10/16/dawanis-sharh-hayakil-al-nur-and-the-spread-of-suhrawardis-thought-in-mughal-india.html"><![CDATA[<p class="last-paragraph">This is just a quick reminder that MEHAT will continue this <b>Thursday (10/19) at 4PM in SSRB 302</b> when we are very pleased to welcome <b>Dr. Nariman Aavani</b>, a postdoctoral fellow at the University of Chicago Divinity School, who will present his paper titled, "<b>Dawānī’s Sharḥ Hayākil al-Nūr and the Spread of Suhrawardī’s Thought in Mughal India</b>."</p>
-<div class="center-text-mehat">
-    <p><b>Dr. Nariman Aavani</b></p>
-    <p>Postdoctoral Fellow, The University of Chicago Divinity School</p> 
-    <p><b>"Dawānī’s Sharḥ Hayākil al-Nūr and</b></p>
-    <p><b> the Spread of Suhrawardī’s Thought in Mughal India"</b></p>
-</div>
-<div style="display: flex; justify-content: center; overflow-x: auto;">
-  <div class="desktoponly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/sharh dawani.jpg" target="_blank">
-      <img alt="event image" src="http://localhost:4000/images/sharh dawani.jpg" style="width: 500px;" />
-    </a>
-  </div>
-  <div class="mobileonly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/sharh dawani.jpg" target="_blank">
-      <img alt="event image" src="http://localhost:4000/images/sharh dawani.jpg" style="width: 350px;" />
-    </a>
-  </div>
-</div>
-<div class="center-text-mehat">
-    <p><b>Thursday, October 19th</b></p>
-    <p><b>4:00PM-5:30PM</b></p> 
-    <p><b>SSRB 302</b></p>
-</div>
-<p class="last-paragraph">Recent scholarship on Islamic intellectual history during the Mughal period has significantly enhanced our understanding of the prominent intellectual networks and the landscape of intellectual pursuits in South Asia, particularly in the areas of logic, kalām (theology), and theoretical Sufism. However, the dissemination of the works of Shihāb al-Dīn Suhrawardī (d. 1191) and the influence of “Ishrāqī” thought during this period have received comparatively limited attention. This paper aims to address this gap by examining how the Mughal intellectual, Mīr Zāhid Harawī (d. 1689), engaged with Suhrawardī’s Hayākil al-nūr.</p>
-
-<p class="last-paragraph">First, this paper will delve into the transmission of Suhrawardī's philosophical ideas to Mughal India, focusing on the students of Jalāl al-Dīn Dawānī and their engagement with his commentary on Hayākil al-nūr. Dawānī composed his commentary on Hayākil al-nūr at the request of the Bahmanī vizier Maḥmūd Gāvān (d. 1481), who himself is said to have penned a ḥāshiyah on Dawānī’s commentary. Furthermore, Jamāl al-Dīn Maḥmūd Shīrāzī (d. 1555), a direct disciple of Dawānī, played a significant role in the transmission of Suhrawardī’s thought by training two notable students who were actively engaged in philosophical pursuits in India. These students are Fatḥ Allāh Shīrāzī (d.1589) and Mīrzā Jān Bāghnawī (d. 1587). Notably, Yūsuf Qarabāghī (d. 1625), a student of Bāghnawī, composed a ḥāshiyah on Dawānī's Sharḥ hayākil al-nūr. Additionally, Mullā Muḥammad Afżal Badakhshī (d. 1640), a disciple of Yūsuf Qarabāghī, served as one of Mīr Zāhid Harawī's instructors in intellectual sciences.</p>
-
-<p class="last-paragraph">It is within this context that Dr. Aavani will turn to key passages from Mīr Zāhid's ḥāshiyah on Dawānī's Sharḥ hayākil al-nūr, which deal with human voluntary actions. Situating this debate in relation to commentarial traditions on seminal texts such as Ishārāt and Tajrīd al-i‘tiqād, I finally investigate what Mīr Zāhid’s treatment of this topic reveals about the presence or an absence of an identifiable “Ishrāqī” tradition in Mughal India.</p>
-
-<p class="last-paragraph"> Dr. Nariman Aavani received his PhD in the Comparative Study of Religion at Harvard University. He is currently a Postdoctoral Scholar in Islamic Studies at the University of Chicago Divinity School where his research focuses on Islamic philosophy and Sufism in Iran and the Indian subcontinent from the 13th century to the early 1800s.</p>
-
-<p class="last-paragraph">Best wishes,
-<br />Theo Knights &amp; Darragh Winkelman</p>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[This is just a quick reminder that MEHAT will continue this Thursday (10/19) at 4PM in SSRB 302 when we are very pleased to welcome Dr. Nariman Aavani, a postdoctoral fellow at the University of Chicago Divinity School, who will present his paper titled, "Dawānī’s Sharḥ Hayākil al-Nūr and the Spread of Suhrawardī’s Thought in Mughal India." Dr. Nariman Aavani Postdoctoral Fellow, The University of Chicago Divinity School "Dawānī’s Sharḥ Hayākil al-Nūr and the Spread of Suhrawardī’s Thought in Mughal India" Thursday, October 19th 4:00PM-5:30PM SSRB 302 Recent scholarship on Islamic intellectual history during the Mughal period has significantly enhanced our understanding of the prominent intellectual networks and the landscape of intellectual pursuits in South Asia, particularly in the areas of logic, kalām (theology), and theoretical Sufism. However, the dissemination of the works of Shihāb al-Dīn Suhrawardī (d. 1191) and the influence of “Ishrāqī” thought during this period have received comparatively limited attention. This paper aims to address this gap by examining how the Mughal intellectual, Mīr Zāhid Harawī (d. 1689), engaged with Suhrawardī’s Hayākil al-nūr.]]></summary></entry><entry><title type="html">Collecting Family Stories: Learning from the Case of the Nakba</title><link href="http://localhost:4000/mehat/2023/10/05/collecting-family-stories-learning-from-the-case-of-the-nakba.html" rel="alternate" type="text/html" title="Collecting Family Stories: Learning from the Case of the Nakba" /><published>2023-10-05T12:10:23-05:00</published><updated>2023-10-05T12:10:23-05:00</updated><id>http://localhost:4000/mehat/2023/10/05/collecting-family-stories-learning-from-the-case-of-the-nakba</id><content type="html" xml:base="http://localhost:4000/mehat/2023/10/05/collecting-family-stories-learning-from-the-case-of-the-nakba.html"><![CDATA[<p class="center-text-mehat"><b>Please note this event has been postponed until November 16th.</b></p>
-<p class="last-paragraph">MEHAT will continue <b>Thursday, October 12th, at 4PM in SSRB 302</b> when we are very pleased to welcome <b>Marah Abdel Jabar (CMES) and Laura Albast (Institute for Palestine Studies)</b>, who will co-present a workshop entitled, <b>"Collecting Family Stories: Learning from the Case of the Nakba"</b>.</p>
-<div class="center-text-mehat">
-    <p><b>Marah Abdel Jabar and Laura Albast</b></p>
-    <p>The Center for Middle Eastern Studies and the Institute for Palestine Studies</p> 
-    <p><b>"Collecting Family Stories: Learning from the Case of the Nakba"</b></p>
-</div>
-<div style="display: flex; justify-content: center; overflow-x: auto;">
-  <div class="desktoponly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/UChicago event.jpg" target="_blank">
-      <img alt="event image" src="http://localhost:4000/images/UChicago event.jpg" style="width: 500px;" />
-    </a>
-  </div>
-  <div class="mobileonly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/UChicago event.jpg" target="_blank">
-      <img alt="event image" src="http://localhost:4000/images/UChicago event.jpg" style="width: 350px;" />
-    </a>
-  </div>
-</div>
-<div class="center-text-mehat">
-    <p><b>Thursday, October 10th</b></p>
-    <p>4:00PM-5:30PM</p> 
-    <p>SSRB 302</p>
-</div>
-<p class="last-paragraph"> Reflecting on her experience as a writer in the Institute for Palestine Studies' ‘How to write your Nakba story?’ workshop, Marah Abdel Jaber will co-lead this lecture and discussion with the writing workshop’s organizer Laura Albast, to share a practical guide on documenting family narratives, oral history collection tools, and journalism's role in generating access to personal histories. Focusing on the experience of the Nakba as a canon of violent fragmentation of Palestinian society, the presenters will also discuss the impact of narrative as a producer of the Palestinian collective conscience.</p>
-
-<p class="last-paragraph"> Please note, this is a hybrid event—Marah will join us in person while Laura will speak on zoom. Those beyond the University of Chicago campus are welcome to register for the webinar <a href="https://us06web.zoom.us/webinar/register/WN_spwcj4R0TceIRl444bx2Hg">here</a>.</p>
-
-<p class="last-paragraph">Best wishes,
-<br />Theo Knights &amp; Darragh Winkelman</p>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[Please note this event has been postponed until November 16th. MEHAT will continue Thursday, October 12th, at 4PM in SSRB 302 when we are very pleased to welcome Marah Abdel Jabar (CMES) and Laura Albast (Institute for Palestine Studies), who will co-present a workshop entitled, "Collecting Family Stories: Learning from the Case of the Nakba". Marah Abdel Jabar and Laura Albast The Center for Middle Eastern Studies and the Institute for Palestine Studies "Collecting Family Stories: Learning from the Case of the Nakba" Thursday, October 10th 4:00PM-5:30PM SSRB 302 Reflecting on her experience as a writer in the Institute for Palestine Studies' ‘How to write your Nakba story?’ workshop, Marah Abdel Jaber will co-lead this lecture and discussion with the writing workshop’s organizer Laura Albast, to share a practical guide on documenting family narratives, oral history collection tools, and journalism's role in generating access to personal histories. Focusing on the experience of the Nakba as a canon of violent fragmentation of Palestinian society, the presenters will also discuss the impact of narrative as a producer of the Palestinian collective conscience.]]></summary></entry><entry><title type="html">MEHAT Schedule — Fall Term 2023</title><link href="http://localhost:4000/mehat/2023/09/25/mehat-schedule-fall-2023.html" rel="alternate" type="text/html" title="MEHAT Schedule — Fall Term 2023" /><published>2023-09-25T16:10:23-05:00</published><updated>2023-09-25T16:10:23-05:00</updated><id>http://localhost:4000/mehat/2023/09/25/mehat-schedule-fall-2023</id><content type="html" xml:base="http://localhost:4000/mehat/2023/09/25/mehat-schedule-fall-2023.html"><![CDATA[<p>We are pleased to announce the tentative schedule for the Fall 2023 meetings of the MEHAT Workshop!
-<br />
-<br />
-<b>Please note presentations will take place at 4PM on Thursdays throughout the term in SSRB 302.</b></p>
-<div class="desktoponly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/MEHAT Fall 2023.jpg" target="_blank">
-      <img alt="schedule fall" src="http://localhost:4000/images/MEHAT Fall 2023.jpg" style="width: auto;" />
-    </a>
-  </div>
-<div class="mobileonly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/MEHAT Fall 2023.jpg" target="_blank">
-      <img alt="schedule fall" src="http://localhost:4000/images/MEHAT Fall 2023.jpg" style="width: auto;" />
-    </a>
-  </div>
-<h4>Fall 2023:</h4>
-<ul>
-  <li>Sept 28 – <i>The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914</i> w/ Dr. Roy Maron (Postdoctoral Fellow, University of Tel Aviv)</li>
-  <li>Oct 5 — <i>Pedagogy, Parenthood, and the Press</i> w/ Owen Green (UChicago NELC)</li>
-  <li>Oct 12 — <i>Collecting Family Stories: Learning from the Case of the Nakba</i> w/ Marah Abdel Jaber &amp; Laura Albast (Institute for Palestine Studies)</li>
-  <li>Oct 19 — <i>Dawānī’s</i> Sharḥ Hayākil al-Nūr <i>and the Spread of Suhrawardī’s Thought in Mughal India</i> w/ Dr. Nariman Aavani (Postdoctoral Fellow, UChicago Divinity School)</li>
-  <li>Oct 26 — <i>A “Universal Struggle for Life”? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers</i> w/ Sacha Allen (UChicago MAPH)</li>
-  <li>Nov 9 — <i>Studying Cuneiform in Times of Conflict — Ethical Considerations from an Art Crime Perspective</i> w/ Luise Loges (University of Glasgow)</li>
-  <li>Nov 30 — <i>Ottoman Purim: Jewish Memories of an Ottoman Past</i> w/ Prof. Orit Bashkin (UChicago NELC)</li>
-</ul>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[We are pleased to announce the tentative schedule for the Fall 2023 meetings of the MEHAT Workshop! Please note presentations will take place at 4PM on Thursdays throughout the term in SSRB 302. Fall 2023: Sept 28 – The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914 w/ Dr. Roy Maron (Postdoctoral Fellow, University of Tel Aviv) Oct 5 — Pedagogy, Parenthood, and the Press w/ Owen Green (UChicago NELC) Oct 12 — Collecting Family Stories: Learning from the Case of the Nakba w/ Marah Abdel Jaber &amp; Laura Albast (Institute for Palestine Studies) Oct 19 — Dawānī’s Sharḥ Hayākil al-Nūr and the Spread of Suhrawardī’s Thought in Mughal India w/ Dr. Nariman Aavani (Postdoctoral Fellow, UChicago Divinity School) Oct 26 — A “Universal Struggle for Life”? A Comparative Study of the Regional Reception of Darwinism Among Religious Thinkers w/ Sacha Allen (UChicago MAPH) Nov 9 — Studying Cuneiform in Times of Conflict — Ethical Considerations from an Art Crime Perspective w/ Luise Loges (University of Glasgow) Nov 30 — Ottoman Purim: Jewish Memories of an Ottoman Past w/ Prof. Orit Bashkin (UChicago NELC)]]></summary></entry><entry><title type="html">The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914</title><link href="http://localhost:4000/mehat/2023/09/20/the-moshavot-ottoman-palestine.html" rel="alternate" type="text/html" title="The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914" /><published>2023-09-20T12:10:23-05:00</published><updated>2023-09-20T12:10:23-05:00</updated><id>http://localhost:4000/mehat/2023/09/20/the-moshavot-ottoman-palestine</id><content type="html" xml:base="http://localhost:4000/mehat/2023/09/20/the-moshavot-ottoman-palestine.html"><![CDATA[<p class="last-paragraph">On <b>Thursday, September 28th, at 4PM</b> the Middle East History and Theory Workshop is excited to welcome <b>Dr. Roy Marom</b>, Postdoctoral Fellow at Tel Aviv University, who will present his research project, titled <b>"The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914."</b></p>
-
-<div class="center-text-mehat">
-    <p><b>Dr. Roy Marom</b></p>
-    <p>Postdoctoral Fellow, Dan David Society of Fellows</p> 
-    <p>Tel Aviv University</p>
-    <p><b>"The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914"</b></p>
-</div>
-<div style="display: flex; justify-content: center; overflow-x: auto;">
-  <div class="desktoponly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/Gedera2_(before_1899).jpg" target="_blank">
-      <img alt="moshavot image" src="http://localhost:4000/images/Gedera2_(before_1899).jpg" style="width: 500px;" />
-    </a>
-  </div>
-  <div class="mobileonly" style="max-width: 100%;">
-    <a href="http://localhost:4000/images/Gedera2_(before_1899).jpg" target="_blank">
-      <img alt="moshavot image" src="http://localhost:4000/images/Gedera2_(before_1899).jpg" style="width: 350px;" />
-    </a>
-  </div>
-</div>
-
-<p class="last-paragraph"> Dr. Marom was previously Fulbright Postdoctoral Fellow in the Department of History at UC Berkeley and completed his PhD in 2022 at the University of Haifa with a dissertation entitled <i>Dispelling Desolation: The Expansion of Arab Settlement in the Sharon Plain and the Western Part of Jabal Nablus, 1700-1948</i>.</p>
-
-<p class="last-paragraph">Best wishes,
-<br />Theo Knights &amp; Darragh Winkelman</p>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[On Thursday, September 28th, at 4PM the Middle East History and Theory Workshop is excited to welcome Dr. Roy Marom, Postdoctoral Fellow at Tel Aviv University, who will present his research project, titled "The Moshavot: Inter-communal Encounters in Ottoman Palestine, 1878-1914."]]></summary></entry><entry><title type="html">MEHAT Call for Papers — 2023-24</title><link href="http://localhost:4000/mehat/2023/08/24/mehat-call.html" rel="alternate" type="text/html" title="MEHAT Call for Papers — 2023-24" /><published>2023-08-24T16:10:23-05:00</published><updated>2023-08-24T16:10:23-05:00</updated><id>http://localhost:4000/mehat/2023/08/24/mehat-call</id><content type="html" xml:base="http://localhost:4000/mehat/2023/08/24/mehat-call.html"><![CDATA[<p>The Middle East History and Theory Workshop (MEHAT) is now accepting submissions for Fall quarter 2023 and beyond. We invite submissions from graduate students, postdocs, and faculty to present their research (in progress or completed) on the Islamicate world, or to lead directed readings of recently published academic literature offering new approaches to the study of the Islamicate world.</p>
-
-<p>We are eager to hear from historians, linguists, anthropologists, literary scholars, sociologists, musicologists, scholars of religion, and political scientists whose work engages with a broad geography, including but not limited to, the Mediterranean, North and West Africa, and South and Central Asia, from Late Antiquity and the advent of Islam to the present. Within this context, MEHAT is also particularly eager to promote wide-ranging discussions on general points of historical inquiry, theory, and method. NELC faculty members Hakan Karateke and Ghenwa Hayek advise the workshop.</p>
-
-<p>MEHAT typically meets weekly on Thursdays during the term. More details on meeting time and location, as well as a provisional schedule, will be released at the start of the Fall quarter.</p>
-
-<p>We encourage proposals from both regular attendees and from those new to the workshop. If you would like to present your work or a guided reading for discussion and feedback this fall, please submit a brief proposal and provisional title to Theo (knightst[at]uchicago[dot]edu) by September 23rd.</p>
-
-<p>Best wishes,
-<br />Theo Knights &amp; Darragh Winkelman</p>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[The Middle East History and Theory Workshop (MEHAT) is now accepting submissions for Fall quarter 2023 and beyond. We invite submissions from graduate students, postdocs, and faculty to present their research (in progress or completed) on the Islamicate world, or to lead directed readings of recently published academic literature offering new approaches to the study of the Islamicate world.]]></summary></entry></feed>

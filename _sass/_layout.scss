@@ -8,6 +8,10 @@ body {
 	-webkit-font-smoothing: auto;
 	background-color: #FFFFFF
 }
+#no-background-overlay .white-overlay,
+#no-background-overlay .image-overlay {
+    display: none; /* or any other styles to remove the background overlay */
+}
 h1,
 h2,
 h3 {
