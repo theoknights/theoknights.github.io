@@ -8,7 +8,7 @@ hide_image_overlay: true
 ---
 <body class="mehat" id="no-background-overlay">
 
-<h3>38th Annual Middle East History and Theory Conference (May 3–4, 2024) | The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers</h3>
+<h3>38th Annual Middle East History and Theory Conference (May 3–4, 2024) <br> <i>The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers</i></h3>
 
 <h3>Conference Program</h3>
 
