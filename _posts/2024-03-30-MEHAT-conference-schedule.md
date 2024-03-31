@@ -150,7 +150,7 @@ Discussant:
 <b>9:30-10:00 — Saieh Hall Graduate Common Room (201) — Breakfast</b>
 <br>
 <p>
-<b>10:00-11:30 — Session 2</b>
+<b>10:00-11:40 — Session 2</b>
 <p>
 <b>Saieh Hall 203: Cultural History of the Modern Maghreb</b>
 <br>
@@ -315,7 +315,7 @@ Discussant: Prof. Ghenwa Hayek
 <b>12:00-1:20 — Saieh Hall Graduate Common Room (201) — Lunch</b> 
 <br>
 <p>
-<b>1:30-3:00 — Session 3</b>
+<b>1:30-3:10 — Session 3</b>
 <br>
 <p>
 <b>Saieh Hall 112: Modern Egypt: Histories of Capitalism and Carcerality</b>
@@ -472,7 +472,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>3:15-4:45PM — Session 4</b>
+<b>3:20-5:00PM — Session 4</b>
 <br>
 <p>
 <b>Saieh Hall 112: Late Ottoman Regional Studies</b>
@@ -592,7 +592,7 @@ Discussant:
 </div>
 </div>
 <p>
-<b>5:00-7:00 — Saieh Hall Graduate Common Room (201) — Dinner</b>
+<b>5:10-7:00 — Saieh Hall Graduate Common Room (201) — Dinner</b>
 <br>
 
 
