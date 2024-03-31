@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "38th Annual Middle East History and Theory Conference"
-date:   2024-03-30 16:10:23 -0500
+date:   2024-03-31 01:10:23 -0500
 categories: mehat
 hide_title_date: true
+hide_image_overlay: true
 ---
 <body class="mehat" id="no-background-overlay">
 
