@@ -148,7 +148,7 @@ Discussant:</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>4:00-5:30PM — Keynote Address with Prof. Suraiya Faroqhi: "Carrying Silver Coins Through Rivers in Spate and Bypassing Customs Officials: Eastern European Traders in the Late 1500s — Saieh Hall 021</b></span>
+<span class="styled-bold"><b>4:00-5:30PM — Keynote Address with Prof. Suraiya Faroqhi: "Carrying Silver Coins Through Rivers in Spate and Bypassing Customs Officials: Eastern European Traders in the Late 1500s" — Saieh Hall 021</b></span>
 <p>
 <span class="styled-bold"><b>5:30-6:30 — Reception</b></span>
 <p><br>
