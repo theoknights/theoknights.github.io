@@ -58,7 +58,7 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Adam DeSchriver (UChicago, MA) — “Those Who Seek the Soothsayers: Ibn al-Ḥanifiyya’s Construction of Theological Boundaries in <i>Kitāb al-Irjāʾ</i>”
+  <p>Adam DeSchriver (UChicago, MA) — “Those Who Seek the Soothsayers: Portrayals of al-Jāhiliyya in Ibn al-Ḥanafiyya’s (d. 718) <i>Kitāb al-Irjāʾ</i>”
   </p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
@@ -86,14 +86,15 @@ Discussant: Dr. Helga Anetshofer</span>
 </div>
 <p>
 <div>
-  <p>Hüseyin Göcen (UCDavis, PhD Student) — “Plagues, Witches, and Vampires: Vampire-Related Questions in Provincial Jurisconsults’ Fatwa Collections in Early Modern Ottoman Odessa (Early Seventeenth-Century)”</p>
+  <p>Hüseyin Göcen (UC Davis, PhD Student) — “Plagues, Witches, and Vampires: Vampire-Related Questions in A Provincial Jurisconsult’s Fatwa Collections in Early Modern Ottoman Odessa (Early Seventeenth-Century)”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>This paper is about vampirism and vampire-related practices in the Ottoman Empire in the early seventeenth-century and aims to show how legal opinions (fatwas) stand as primary sources for the perception of the vampirism through the analysis of vampire cases from Akkerman (today’s Bilhorod-Dnistrovsky in Odessa, Ukraine). My main fatwa collection is Ali b. Abdullah el-Akkirmânî’s (d. 1618) Fetâvâ-yı Akkirmânî (1630-31 and 1642). In the provincial jurisconsult’s legal opinion collection, there are questions on dead people’s bodies and burning “primary cases” of plagues, who were called “vampires.” In the literature on vampires, people who died of diseases and became vampires are called “nachzehrer.” I argue that these cases are examples of nachzehrer in the Ottoman Empire, and through these questions in the fatwas, we can look at and enter the mental world of the early modern Ottoman peasant communities. The fatwas enlighten the relationship between beliefs about vampires and how people reacted against these supernatural beings. The fatwas on vampires and different practices villagers performed to prevent the spread of the disease uncover the relationship between beliefs about witches, phallic amulets, and diseases in villagers’ minds. These cases demonstrate that the underused provincial fatwa sources can be used as the means for discovering the embodiment of fears and provide us with ways to comprehend the vampirism beliefs and corpses and help us build connections in the Eurasian sociocultural arena thanks to the place of Akkerman in the juncture of Eastern Europe, the Balkans, and the Black Sea.</i></p>
+  <p><i>This paper is about vampirism and vampire-related practices in the Ottoman Empire in the early seventeenth century and aims to show how legal opinions (fatwas) stand as primary sources for the perception of vampirism through the analysis of vampire cases from Akkerman (today’s Bilhorod-Dnistrovsky in Odessa, Ukraine). My main fatwa collection is ʿAli b. ʿAbdullāh el-Aḳkirmānī’s (d. 1618) Fetāvā-yı Aḳkirmānī (1630-31 and 1642). In the provincial jurisconsult’s legal opinion collection, there are questions on dead people’s bodies and burning “primary cases” of plagues, who were called “vampires.” In the literature on vampires, people who died of diseases and became vampires are called “nachzehrer.” I argue that these cases are examples of nachzehrer in the Ottoman Empire, and through these questions in the fatwas, we can look at and enter the mental world of the early modern Ottoman peasant communities. The fatwas enlighten the relationship between beliefs about vampires and how people reacted against these supernatural beings. The fatwas on vampires and different practices villagers performed to prevent the spread of the disease uncover the relationship between beliefs about witches, phallic amulets, and diseases in villagers’ minds. These cases demonstrate that the underused provincial fatwa sources can be used as the means for discovering the embodiment of fears and provide us with ways to comprehend the vampirism beliefs and corpses and help us build connections in the Eurasian sociocultural arena thanks to the place of Akkerman in the juncture of Eastern Europe and the Balkans.
+</i></p>
 </div>
 </div>
 <p>
@@ -387,7 +388,7 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Ümit Kürt (Newcastle, Assistant Professor) — “Defending ‘Honor’: Restraining Violence and the Microdynamics of Intercommunal Relations in Late Ottoman Empire”</p>
+  <p>Ümit Kurt (University of Newcastle, Assistant Professor) — “Defending ‘Honor’: Restraining Violence and the Microdynamics of Intercommunal Relations in Late Ottoman Empire”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -577,7 +578,7 @@ Discussant:</span>
   </svg>
 </button>
 <div class="content">
-  <p><i>My paper focuses on the way that memories of homeland and journeys of exile are constructed by those in the modern-day Iraqi Jewish diaspora. Nostalgia, performativity, and the fallibility of memory all contribute to creating narratives that differ from both each other and factual history. I will examine these issues through self-published memoirs, oral history, and structured informal memory books created by my own relatives. By doing this, I will add to the body of critical literature surrounding memoir and family narratives by using original family texts that have not been studied before. I will compare these texts with each other to analyze the reasons behind any differences in the recollections of their experiences, and will also situate them within the wider body of twentieth-century Iraqi-Jewish exile and emigrant discourse. The contextualization that this paper provides for the primary sources of family narratives also involves the analysis of how such narratives are formed and maintained, situating the paper in anthropological debates around the construction of memory and autobiography. There is no “typical” Iraqi-Jewish narrative, and this paper does not aim to try and capture the totality of Iraqi-Jewish experiences; instead, by focusing on one family and the two narratives of life and emigration that have been recorded, this paper provides a framework for analysis of family narratives within an historical context. In doing so, I aim to demonstrate the paradox of the fallibility of memory, and the usefulness of accounts of life stories in supplementing the historical record.</i></p>
+  <p><i>This paper focuses on the way that memories of homeland and journeys of exile are constructed by those in the modern-day Iraqi Jewish diaspora, and how these narratives work to both enrich and obscure the historical record. Nostalgia, performativity, and the fallibility of memory all contribute to creating narratives that differ from both each other and factual history. I examine these issues through self-published memoirs, oral history, and structured informal memory books created by my own relatives. By doing this, I add to the body of critical literature surrounding memoir and family narratives by using original family texts that have not been studied before. These texts are compared with each other to analyze the reasons behind any differences in the recollections of their experiences, and are also situated within the wider body of twentieth-century Iraqi-Jewish exile and emigrant discourse. The contextualization that this paper provides for the primary sources of family narratives also involves the analysis of how such narratives are formed and maintained, situating the paper in anthropological debates around the construction of memory and autobiography. There is no “typical” Iraqi-Jewish narrative, and this paper does not aim to try and capture the totality of Iraqi-Jewish experiences; instead, by focusing on one family and the two narratives of life and emigration that have been recorded, this paper provides a framework for analysis of family narratives within an historical context. In doing so, I aim to demonstrate the paradox of the fallibility of memory, and the usefulness of accounts of life stories in supplementing the historical record.</i></p>
 </div>
 </div>
 <p>
