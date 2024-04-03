@@ -111,7 +111,7 @@ Discussant: Dr. Helga Anetshofer</span>
 <p>
 <span class="styled-bold"><b>Turkey Between Empire and Republic — Stuart Hall 102</b>
 <br>
-Discussant:</span>
+Discussant: Prof. Holly Shissler</span>
 <div>
   <p>Cevat Dargın (Columbia, Visiting Assistant Professor) “‘The Most Respected Seyid’ and ‘a Terrific Bandit’: Seyid Rıza (1863-1937) Across Empire and Nation-State”</p>
 <button class="collapsible">Abstract
