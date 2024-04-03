@@ -30,7 +30,7 @@ hide_image_overlay: true
 <p>
 <b>2:00-3:40PM — Session 1</b>
 <p>
-<span class="styled-bold"><b>Fresh Perspectives on the Classical Age — Stuart Hall 104</b>
+<span class="styled-bold"><b>Fresh Perspectives on the Classical Age — Saieh Hall 103</b>
 <br>
 Discussant:</span>
 <div>
@@ -70,7 +70,7 @@ Discussant:</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>Late Medieval and Early Modern Ottoman Cultural History — Saieh Hall 103</b>
+<span class="styled-bold"><b>Late Medieval and Early Modern Ottoman Cultural History — Stuart Hall 104</b>
 <br>
 Discussant: Dr. Helga Anetshofer</span>
 <div>
