@@ -30,7 +30,7 @@ hide_image_overlay: true
 <p>
 <b>2:00-3:40PM — Session 1</b>
 <p>
-<span class="styled-bold"><b>Fresh Perspectives on the Classical Age — Saieh Hall 103</b>
+<span class="styled-bold"><b>Fresh Perspectives on the Classical Age — SSRB 401</b>
 <br>
 Discussant:</span>
 <div>
@@ -149,9 +149,9 @@ Discussant: Prof. Holly Shissler</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>4:00-5:30PM — Keynote Address with Prof. Suraiya Faroqhi: "Carrying Silver Coins Through Rivers in Spate and Bypassing Customs Officials: Eastern European Traders in the Late 1500s" — Saieh Hall 021</b></span>
+<span class="styled-bold"><b>4:00-5:30PM — Keynote Address with Prof. Suraiya Faroqhi: "Carrying Silver Coins Through Rivers in Spate and Bypassing Customs Officials: Eastern European Traders in the Late 1500s" — SSRB 122</b></span>
 <p>
-<span class="styled-bold"><b>5:30-6:30 — Reception</b></span>
+<span class="styled-bold"><b>5:30-6:30 — Reception — SSRB Tea Room (201)</b></span>
 <p><br>
 <b>Saturday May 4th:</b>
 <p><br>
@@ -530,7 +530,7 @@ Discussant:<span>
 <p>
 <span class="styled-bold"><b>New Approaches to Modern Iranian History — Saieh Hall 146</b>
 <br>
-Discussant:<span>
+Discussant: Dr. Elham Mireshghi<span>
 <div>
   <p>Saeed Saffar-Heidari (UIUC, PhD Candidate) — "Revolutionary Counter-Mobilization and the Racialization of Historical Memory (Iran before and after 1979)"</p>
 <button class="collapsible">Abstract
