@@ -144,7 +144,7 @@ Discussant: Holly Shissler (UChicago, NELC)</span>
 <p><br>
 <b>Saturday May 4th:</b>
 <p><br>
-<span class="styled-bold"><b>9:30-10:00 — Breakfast — Saieh Hall Graduate Common Room (201)</b></span>
+<span class="styled-bold"><b>9:30-10:00 — Breakfast — Saieh Hall 112</b></span>
 <p>
 <b>10:00-11:40 — Session 2</b>
 <p>
@@ -304,7 +304,7 @@ Discussant: Ghenwa Hayek (UChicago, NELC)</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>12:00-1:20 — Lunch — Saieh Hall Graduate Common Room (201)</b></span> 
+<span class="styled-bold"><b>12:00-1:20 — Lunch — Saieh Hall 112</b></span> 
 <p>
 <b>1:30-3:10 — Session 3</b>
 <p>
@@ -580,7 +580,7 @@ Discussant:</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>5:10-7:00 — Dinner — Saieh Hall Graduate Common Room (201)</b></span>
+<span class="styled-bold"><b>5:10-7:00 — Dinner — Saieh Hall 112</b></span>
 
 
   <script>
