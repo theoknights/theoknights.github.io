@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-04T09:25:14-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Theo Knights</title><subtitle></subtitle><entry><title type="html">38th Annual Middle East History and Theory Conference</title><link href="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html" rel="alternate" type="text/html" title="38th Annual Middle East History and Theory Conference" /><published>2024-03-30T01:10:23-05:00</published><updated>2024-03-30T01:10:23-05:00</updated><id>http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule</id><content type="html" xml:base="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-10T21:53:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Theo Knights</title><subtitle></subtitle><entry><title type="html">38th Annual Middle East History and Theory Conference</title><link href="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html" rel="alternate" type="text/html" title="38th Annual Middle East History and Theory Conference" /><published>2024-03-30T01:10:23-05:00</published><updated>2024-03-30T01:10:23-05:00</updated><id>http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule</id><content type="html" xml:base="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html"><![CDATA[<style>
   /* CSS to add a 1px black line after each item */
   body.mehat .styled-bold {
     border-bottom: 1px solid #ccc;
@@ -26,19 +26,8 @@
 <br />
 Discussant:</span>
 <div>
-  <p>Erin Atwell (UChicago, PhD Candidate) — “Taqwā in the First Hijri Century from Biblical Inheritance to Embodied Articulation”</p>
-<button class="collapsible">Abstract
-  <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
-  </svg>
-</button>
-<div class="content">
-  <p><i>This paper traces what I term a “spirit of godfearingness” present in Late Antique Christianity and Judaism, a spirit I argue we must consider as the backdrop into which Islam emerged in the 7th century AD. I examine calls during the Prophet Muhammad’s prophetic career for the Jews of Medina to “have taqwā of God and submit to Islam,” situating these in conversation with the prominent Syriac Christian term deḥltā and biblical Hebrew term yirah, both of which signify a complex admixture of fear of God and piety. Against this conceptual backdrop, I trace the linguistic meaning of taqwā, drawing on a wide range of sources from the pre-Islamic Arabian to Umayyad periods. Through this analysis, we are able to draw distinctions between the alternatively material/physical and abstract moral senses of taqwā in the pre-Islamic period and its ubiquitously religious usages very early in Muhammad’s prophetic career. The presentation highlights the possibility of thinking about understandings of being godfearing in the Late Antique moment that at once point to distinct genealogies, practices, and commitments and shared prioritization of a pious sense of fear before God. Rarely considered together, the very presence of a spirit of godfearingness across Christianity, Judaism, and Islam at the advent of the latter illuminates a dynamic form of interaction where the boundaries of concepts were far from fixed.</i></p>
-</div>
-</div>
-<p> 
 <div>
-  <p>Rebecca Makas (Villanova University, Assistant Professor) — “Reading Sufi Women from the Margins: Reconstructing Lives of Domestic Piety from Disparaging Remarks”</p>
+  <p>Rebecca Makas (Villanova University) — “Reading Sufi Women from the Margins: Reconstructing Lives of Domestic Piety from Disparaging Remarks”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -50,7 +39,7 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Adam DeSchriver (UChicago, MA) — “Those Who Seek the Soothsayers: Portrayals of al-Jāhiliyya in Ibn al-Ḥanafiyya’s (d. 718) <i>Kitāb al-Irjāʾ</i>”
+  <p>Adam DeSchriver (UChicago) — “Those Who Seek the Soothsayers: Portrayals of al-Jāhiliyya in Ibn al-Ḥanafiyya’s (d. 718) <i>Kitāb al-Irjāʾ</i>”
   </p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
@@ -58,7 +47,7 @@ Discussant:</span>
   </svg>
 </button>
 <div class="content">
-  <p><i>In the early Islamic period, scholars took an active role in constructing the boundaries of belief (imān). The earliest theological (kalām) writings show the ways in which scholars of emerging and competing sects demarcated the limits of imān prior to the consolidation of Sunnī orthodoxy. My paper will look at the ways in which one such scholar, al-Ḥasan b. Muḥammad b. al- Ḥanifiyya (d. 718), erected boundaries for his theological sect, the Murjiʾites, in his Kitāb al- Irjāʾ. I will specifically examine the devices that Ibn al-Ḥanifiyya uses to accuse his theological opponents of transgressing the boundaries of imān. I will focus on his use of jāhiliyya imagery and explore the ways in which Ibn al-Ḥanifiyya invokes the soothsayers (kuhhān) and divination arrows (azlām) of al-Jāhiliyya in his argument in order to claim that his opponents were deviating from the path of Islam. By demonstrating that al-Ḥasan invokes al-Jāhiliyya in order to discredit his opponent’s theological position, I will show that such a theological move indicates an already robust negative conceptualization of religious practices from the pre-Islamic period. This contradicts Peter Webb’s typology of conceptualizations of al-Jāhiliyya in the earliest centuries of Islamic polity, which characterizes portrayals of the pre-Islamic period as overwhelmingly positive prior to the 10th century CE. Given this, my paper will situate Kitāb al- Irjāʾ within the larger discussion of boundary construction through the Jāhiliyya trope in early Islamic writings.</i></p>
+  <p><i>This paper examines al-Ḥasan b. Muhammad b. al-Ḥanafiyya’s (d. 718) portrayals and uses of the pre-Islamic Arabian time period, known as al-Jāhiliyya, in his Kitāb al-irjāʾ. Taking this conference’s theme of marginality and borders as my starting point, I am primarily concerned here with the discursive construction of theological borders and boundaries in Kitāb al-irjāʾ through Jāhiliyya imagery and description of religious practices attributed to the pre-Islamic period in Arabia. Drawing largely on the work of Daniel Boyarin in his monograph Border Lines: The Partition of Judaeo-Christianity, I offer a reading of Kitāb al-irjāʾ that observes the construction of theological boundaries through the rebuking of what postcolonial scholars such as Homi K. Bhabha have termed “hybridity.” I thus argue that by asserting that his theological opponents—the Sabaʾiyya—engage in Jāhiliyya practices, such as consulting soothsayers and casting divination arrows, Ibn al-Ḥanafiyya portrays the Sabaʾiyya as hybrid, i.e., impure. Having engaged in the heresiographical discourse of naming and describing a proximate theological other, Ibn al-Ḥanafiyya carves out a discursive space of purity and non-hybridity that his own sect, the Murjiʾites, can inhabit.</i></p>
 </div>
 </div>
 <p>
@@ -66,39 +55,39 @@ Discussant:</span>
 <br />
 Discussant: Dr. Helga Anetshofer</span>
 <div>
-  <p>Cyril Achcar (McGill, Visiting Student) — “Chios: Between a Lion and St. George / A Historiographical Conflict in the Context of the <i>Düstūrnāme”</i></p>
+  <p>Cyril Achcar (McGill University) — "Crafting Universal Sovereignty from a Multipolar Sea: Dilemmas of the Fourteenth Century Aegean in the Fifteenth Century <i>Düstūrnāme</i>"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>Written by the fifteenth century poet Enveri for Mehmed II, the Destan of ‘Umur Pasha, part of the Düstūrnāme (Book of the Vizier), is a powerful epic, based on oral history, of the eponymous Turkic prince of Aydın (c. 1309-1348). This long-neglected text rediscovered in the twentieth century, shines a light on the fragmented fourteenth century Aegean. Split asunder by the revanchist Byzantine Empire, emerging Beyliks of Aydın, Menteşe and Osmanli, Genoese &amp; Venetian colonial holdings, Catalan mercenaries, and the surviving Frankokratia in Greece, the Aegean was nonetheless united in trans-Mediterranean trade networks, producing important goods for West European manufacturing – namely alum for colourful cloth. The only question being who would profit from its extraction and trade. Into this maelstrom the question over the sovereignty of the island of Chios (Saqiz) and Smyrna provides an interesting example of clashing universalist claims between the Byzantines (Andronicus II) and Turks (Aydınoğulları), and the mercantile interests of the Genoese (Zaccaria family). Out of this comes a contested and still unresolved historiographical debate in the twentieth century between Byzantinist Paul Lemerle and Ottomanist Halil İnalcık regarding who had sovereignty over Chios in 1327. This comes from differing interpretations of select passages from the Düstūrnāme, specifically the term illik oldu. This paper will explicate these different interpretations, but overcome them, by instead offering a meta explanation regarding the ignored fifteenth century context of the Düstūrnāme in the court of Mehmed II, and further will question what sovereignty meant in a world of interstate commerce.</i></p>
+  <p><i>Written by the fifteenth century poet Enveri, the Destan of ‘Umur Pasha, part of the Düstūrnāme (Book of the Vizier), is a powerful epic, of the eponymous Turkic prince of Aydın (c. 1309-1348). This long-neglected text shines a light on the fragmented fourteenth century Aegean, no longer the Roman lake it had once been. Split asunder by a revanchist Byzantine Empire, emerging Beyliks of Aydın, Menteşe and Osmanli, Genoese &amp; Venetian colonial holdings, Catalan mercenaries, and the surviving Frankokratia in Greece, the Aegean was nonetheless united in trans-Mediterranean trade networks, producing important goods for European markets – namely alum for colourful cloth, and surplus grain. The only question being: who would profit from this extraction and trade. Into this maelstrom the question over the sovereignty of the island of Chios (Saqiz) provides an interesting example of clashing universalist claims between the Byzantines (Andronicus II), Turkic Beys (‘Umur Pasha), and the mercantile interests of the Genoese (Zaccaria family). Out of this comes a contested and still unresolved historiographical debate in the twentieth century between Byzantinist Paul Lemerle and Ottomanist Halil İnalcık over who had sovereignty over Chios in 1327. This comes from differing interpretations of select passages from the Düstūrnāme, specifically the term: illik oldu. This paper will explicate these different interpretations, but overcome them, by instead offering a meta-explanation regarding the ignored fifteenth century context of the Düstūrnāme in the court of Mehmed II, and further will question what sovereignty meant in a fragmented regional system of interstate commerce.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Hüseyin Göcen (UC Davis, PhD Student) — “Plagues, Witches, and Vampires: Vampire-Related Questions in A Provincial Jurisconsult’s Fatwa Collections in Early Modern Ottoman Odessa (Early Seventeenth-Century)”</p>
+  <p>Hüseyin Göcen (UC Davis) — "Plagues, Witches, and Vampires: Vampire-Related Questions in A Provincial Jurisconsult’s Fatwa Collections in Early Modern Ottoman Odessa (Early Seventeenth-Century)”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>This paper is about vampirism and vampire-related practices in the Ottoman Empire in the early seventeenth century and aims to show how legal opinions (fatwas) stand as primary sources for the perception of vampirism through the analysis of vampire cases from Akkerman (today’s Bilhorod-Dnistrovsky in Odessa, Ukraine). My main fatwa collection is ʿAli b. ʿAbdullāh el-Aḳkirmānī’s (d. 1618) Fetāvā-yı Aḳkirmānī (1630-31 and 1642). In the provincial jurisconsult’s legal opinion collection, there are questions on dead people’s bodies and burning “primary cases” of plagues, who were called “vampires.” In the literature on vampires, people who died of diseases and became vampires are called “nachzehrer.” I argue that these cases are examples of nachzehrer in the Ottoman Empire, and through these questions in the fatwas, we can look at and enter the mental world of the early modern Ottoman peasant communities. The fatwas enlighten the relationship between beliefs about vampires and how people reacted against these supernatural beings. The fatwas on vampires and different practices villagers performed to prevent the spread of the disease uncover the relationship between beliefs about witches, phallic amulets, and diseases in villagers’ minds. These cases demonstrate that the underused provincial fatwa sources can be used as the means for discovering the embodiment of fears and provide us with ways to comprehend the vampirism beliefs and corpses and help us build connections in the Eurasian sociocultural arena thanks to the place of Akkerman in the juncture of Eastern Europe and the Balkans.
+  <p><i>This paper is about vampirism and vampire-related practices in the Ottoman Empire in the early seventeenth century and aims to show how legal opinions (fatwas) stand as primary sources for the perception of vampirism through the analysis of vampire cases from Akkerman (today’s Bilhorod-Dnistrovsky in Odessa, Ukraine). My main fatwa collection is ʿAli b. ʿAbdullāh el-Aḳkirmānī’s (d. 1618) Fetāvā-yı Aḳkirmānī (1630-31 and 1642). In the provincial jurisconsult’s legal opinion collection, there are questions on dead people’s bodies and burning “primary cases” of plagues, who were called “vampires.” In the literature on vampires, people who died of diseases and became vampires are called “nachzehrer.” I argue that these cases are examples of nachzehrer in the Ottoman Empire, and through these questions in the fatwas, we can look at and enter the mental world of the early modern Ottoman peasant communities. The fatwas enlighten the relationship between beliefs about vampires and how people reacted against these supernatural beings. The fatwas on vampires and different practices villagers performed to prevent the spread of the disease uncover the relationship between beliefs about witches, phallic amulets, and diseases in villagers’ minds. These cases demonstrate that the underused provincial fatwa sources can be used as the means for discovering the embodiment of fears and provide us with ways to comprehend the vampirism beliefs and corpses and help us build connections in the Eurasian sociocultural arena thanks to the place of Akkerman in the juncture of Eastern Europe and the Balkans.</i></p>
+</div>
+</div>
+<p>
+<div>
+  <p>Ece Derindere (Central European University) — <i>“Sā‘atnāme</i>: A Medieval Source of <i>Baraka</i>”</p>
+<button class="collapsible">Abstract
+  <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
+  </svg>
+</button>
+<div class="content">
+  <p><i>This paper analyzes a widely circulated yet little-studied medieval Anatolian text, Sā‘atnāme, written in plain Turkish in the late 14th century, by an obscure Sufi şeyh Hibetullah bin İbrahim or one of his disciples. The analysis focuses on the text’s claim that by engaging with the Sā‘atnāme  —whether reading, listening, copying or commissioning its copying and endowing it— and taking it as the ultimate guidance for their religious practices anyone can secure a place in paradise, and explores how this claim resonated within the Turkish-speaking Muslim interpretive communities. Defining the newly emerging Turkish religious literature in medieval Anatolia as a discursive tradition and the Sā‘atnāme being a part of it, the paper thus employs a method that combines a close reading of the text and the historical context of its production. Borrowing Markus Dressler’s terminology, it argues that the Sā‘atnāme displays an interplay between scripture- and charisma-loyal religiosity. Through an examination of the paratextual elements in the various copies of the text, the paper proposes that this aspect of the text underlies its promise of salvation and sustained popularity persisted until the 20th century. While being an alternative to the Quran and hadith, the Sā‘atnāme functions as a relic that embodies Hibetullah’s baraka. It transforms an abstract idea into a tangible, accessible, and reproducible asset, transcending temporal and spatial boundaries. 
 </i></p>
-</div>
-</div>
-<p>
-<div>
-  <p>Ece Derindere (CEU, MA) — <i>“Sā‘atnāme</i>: A Medieval Source of Baraka”</p>
-<button class="collapsible">Abstract
-  <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
-  </svg>
-</button>
-<div class="content">
-  <p><i>This paper analyzes a widely circulated yet little studied medieval Anatolian eschatological text, Sā‘atnāme, written in straightforward Turkish during the late 14th century, likely by a disciple of an obscure Sufi şeyh Hibetullah bin İbrahim. The analysis focuses on the text’s unique claim that anyone can secure a place in paradise by copying, endowing, reading, or listening to the Sā‘atnāme and taking it as the ultimate guidance for their religious practices, and explores how this claim resonated in the Turkish-speaking Muslim communities. Defining the newly emerged Turkish religious literature in medieval Anatolia as a discursive tradition and the Sā‘atnāme being a part of it, the paper thus employs a method that combines a close reading of the text and the historical context of its production. It argues that the Sā‘atnāme embodies a charisma-royal discourse stems from a major process of sanctifying God’s friends in the medieval Islamic Near East. By examining the paratextual elements in the various copies of the text, the paper proposes that charisma-royal discourse underlies the text’s distinctive claim and sustained popularity persisted until the 20th century. Sā‘atnāme functions as a relic that possesses Hibeytullah’s baraka in people’s eyes, it transforms an abstract idea to a tangible and accessible asset, transcending temporal and spatial boundaries. In contextualizing and historicizing a text that has significantly impacted the Turkish- speaking Muslim communities in Anatolia, this paper not only aims to contribute a better understanding of their acculturation to Islam but also to illuminate the enduring influence of charismatic local figures in shaping their religiosity in the longue durée.</i></p>
 </div>
 </div>
 <p>
@@ -106,7 +95,7 @@ Discussant: Dr. Helga Anetshofer</span>
 <br />
 Discussant: Prof. Holly Shissler</span>
 <div>
-  <p>Cevat Dargın (Columbia, Visiting Assistant Professor) “‘The Most Respected Seyid’ and ‘a Terrific Bandit’: Seyid Rıza (1863-1937) Across Empire and Nation-State”</p>
+  <p>Cevat Dargın (Columbia) “‘The Most Respected Seyid’ and ‘a Terrific Bandit’: Seyid Rıza (1863-1937) Across Empire and Nation-State”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -118,7 +107,7 @@ Discussant: Prof. Holly Shissler</span>
 </div>
 <p>
 <div>
-  <p>Gizem Sivri (Stanford, Postdoctoral Fellow) — “The Unusual Protagonists: Criminal Women in Late Ottoman and Early Republican Turkish Literature (1860-1930)”</p>
+  <p>Gizem Sivri (Stanford) — “The Unusual Protagonists: Criminal Women in Late Ottoman and Early Republican Turkish Literature (1860-1930)”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -130,7 +119,7 @@ Discussant: Prof. Holly Shissler</span>
 </div>
 <p>
 <div>
-  <p>Elif Isık (UIUC, PhD Student) — “Turkish Romance Fiction and World Literature Through the Case of Nihal Yeginobali”</p>
+  <p>Elif Isık (UIUC) — “Turkish Romance Fiction and World Literature Through the Case of Nihal Yeginobali”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -156,19 +145,19 @@ Discussant: Prof. Holly Shissler</span>
 Discussant:</span>
 <p>
 <div>
-  <p>Eva Koronios (UChicago, CMES MA) — “Between the Silence and the Scream: The Complex Trauma of the Colonial Condition in Moufida Tlatli’s <i>The Silences of the Palace”</i></p>
+  <p>Eva Koronios (UChicago) — "Between the Silence and the Scream: The Complex Trauma of the Colonial Condition in Moufida Tlatli’s <i>Ṣamt al-Quṣūr (The Silences of the Palace)”</i></p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>Released in 1994, Moufida Tlatli’s The Silences of the Palace uses the frame narrative mode of storytelling to depict a particularly painful day in the life of its 25-year-old protagonist, Alia, as she journeys back – literally and figuratively – to the kitchens and servants’ quarters of the silent and secretive palace in which she was raised, and which she fled on the eve of Tunisian independence. As a result, throughout Silences, the audience bears collective witness to multiple layers of overlapping and interconnecting representations of sexual and gender-based trauma. In Alia, the clinical manifestation of complex trauma is exceedingly apparent on the physical and the emotional levels; at the same time, Alia’s “doubly-colonized” positionality within the social hierarchy of the beys’ palace, when read against the concurrent movement for Tunisian national liberation occurring outside the palace walls, effectively highlights the intergenerational transmission of trauma and the perpetuation of gender-based violence within the context provided by the colonial condition. This paper is an interdisciplinary enumeration of and elaboration upon these aspects of the film in conversation with the fields of clinical, postcolonial, and literary trauma theory, and concludes with the assertion that the film’s final shift away from the masculine as a site of oppression and toward an acknowledgement of shared legacies of familial pain makes possible the formation of new subjectivities integral to the healing of trauma. In so doing, this work specifically seeks to foreground the role of and potential for film as a site of continued anticolonial resistance.</i></p>
+  <p><i>Released in 1994, Moufida Tlatli’s Ṣamt al-Quṣūr (French: Les Silences du Palais; English: The Silences of the Palace) uses the frame narrative mode of storytelling to depict a particularly painful day in the life of its 25-year-old protagonist, Alia, as she journeys back – literally and figuratively – to the kitchens and servants’ quarters of the silent and secretive palace in which she was raised, and which she fled on the eve of Tunisian independence. As a result, throughout Silences, the audience bears collective witness to multiple layers of overlapping and interconnecting representations of sexual and gender-based trauma. In Alia, the clinical manifestation of complex trauma is exceedingly apparent on the physical and the emotional levels; at the same time, Alia’s “doubly-colonized” positionality within the social hierarchy of the beys’ palace, when read against the concurrent movement for Tunisian national liberation occurring outside the palace walls, effectively highlights the intergenerational transmission of trauma and the perpetuation of gender-based violence within the context provided by the colonial condition. This paper is an interdisciplinary enumeration of and elaboration upon these aspects of the film in conversation with the fields of clinical, postcolonial, and literary trauma theory, and concludes with the assertion that the film’s final shift away from the masculine as a site of oppression and toward an acknowledgement of shared legacies of familial pain makes possible the formation of new subjectivities integral to the healing of trauma. In so doing, this work specifically seeks to foreground the role of and potential for film as a site of continued anticolonial resistance.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Brittany Landorf (Emory, PhD Candidate) — “Maddening Saints: The Majdhūb and State Power”</p>
+  <p>Brittany Landorf (Emory) — "Maddening Saints: The Majdhūb and State Power"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -180,7 +169,7 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Ben Jones (Georgetown, PhD Student) — “Recording Lightning: Popular Music and the Amazigh Cultural Movement of the 1970s”</p>
+  <p>Ben Jones (Georgetown) — “Recording Lightning: Popular Music and the Amazigh Cultural Movement of the 1970s”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -192,14 +181,14 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Sharidan Russell (UChicago, PhD Student) — “Tentative Title: Moroccan Darija as a Written Language: Language Ideology, New Literary Practices, and Modernity in Morocco”</p>
+  <p>Sharidan Russell (UChicago) — "Moroccan Dārija as a Written Language: Language Ideology, New Literary Practices, and Modernity in Morocco"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>In recent decades, Moroccan language policy and, by extension, its literary tradition, have been shaped by sociolinguistic tensions between the various languages and dialects spoken throughout Morocco. While Modern Standard Arabic was codified as Morocco’s national language after independence in 1956 (a decision in line with the Moroccan nationalist party’s identification with regional Arab-Islamic movements), French maintains post-colonial supremacy in the fields of business and education, while Tamazight, the language of Morocco’s indigenous Amazigh population, was finally elevated as an official national language in the 2011 constitution. Against this backdrop of fraught linguistic use and identification, some public intellectuals have begun advocating for the use of Moroccan Vernacular Arabic (Darija) as an official language in educational, economic and intellectual settings. This contention has been the center of fierce debate as, on the one hand, it represents a gateway to a unified national linguistic future while, on the other, it transgresses ideologies which date to the Arabic literary renaissance (Nahḍa) regarding the diglossic nature of the Arabic language and the unsuitability of vernacular for productive intellectual work. Situated within this debate, my presentation will explore the contemporary work of three Moroccan authors who have produced novels entirely in Darija, and interrogate the implications of their work in the Moroccan literary tradition. While these authors do not present a unified political ideology, I argue that their work demonstrates the potential of Darija in written cultural production and provides an artistic lens through which to understand the wider context of Moroccan sociolinguistics and conceptions of modernity.</i></p>
+  <p><i>In recent decades, Moroccan language policy and, by extension, its literary tradition, have been shaped by sociolinguistic tensions between the various languages and dialects spoken throughout Morocco. While Modern Standard Arabic was codified as Morocco’s national language after independence in 1956 (a decision in line with the Moroccan nationalist party’s identification with regional Arab-Islamic movements), French maintains post-colonial supremacy in the fields of business and education, while Tamazight, the language of Morocco’s indigenous Amazigh population, was finally elevated as an official national language in the 2011 constitution. Against this backdrop of fraught linguistic use and identification, some public intellectuals have begun advocating for the use of Moroccan Vernacular Arabic (Dārija) as an official language in educational, economic and intellectual settings. This contention has been the center of fierce debate as, on the one hand, it represents a gateway to a unified national linguistic future while, on the other, it transgresses ideologies which date to the Arabic literary renaissance (Nahḍa) regarding the diglossic nature of the Arabic language and the unsuitability of vernacular for productive intellectual work. Situated within this debate, my presentation will explore the contemporary work of three Moroccan authors who have produced novels entirely in Dārija, and interrogate the implications of their work in the Moroccan literary tradition. While these authors do not present a unified political ideology, I argue that their work demonstrates the potential of Dārija in written cultural production and provides an artistic lens through which to understand the wider context of Moroccan sociolinguistics and conceptions of modernity.</i></p>
 </div>
 </div>
 <p>
@@ -208,19 +197,19 @@ Discussant:</span>
 Discussant: Prof. Hakan Karateke</span> 
 <p>
 <div>
-  <p>Abdüssemi Aydın (Koç, MA) — “Simeon Kalfa The First Non-Muslim Architect of a Sultanic Mosque”</p>
+  <p>Abdüssemi Aydın (Koç University) — "Simeon Kalfa: The First Non-Muslim Architect of a Sultanic Mosque"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>In the early 1750s, when the Nuruosmaniye Mosque was rising on the Istanbul skyline, Ottoman architecture was at a turning point in many respects. This building with its annexes, the first monumental edifice of the Ottoman Baroque, was designed by a Greek (Rūm) named Simeon Kalfa, the first known non-Muslim architect to build a sultanic mosque (cāmiʿ-i selāṭīn). Building secretary Ahmed Efendi’s exceptional monograph on the Nuruosmaniye1 acknowledges the role of the mosque’s architect in a context of formal and technical details. However, the work rarely mentions the distinctiveness of the architect’s design and the sources from which he took inspiration. Although the information we can obtain from various Turkish, Armenian, Greek, and even French contemporary sources mentioning him is limited, Simeon Kalfa was the first important representative of a new style that would leave its mark on Istanbul for about a hundred years. In this paper, I examine contemporary sources about Simeon Kalfa, written in the aforementioned languages and from different perspectives, and attempt to draw a picture of the Ottoman architect who gained respect beyond his own community. I also address how his non-Muslim status was treated in different sources. Secondly, I explore probable European artistic references the architect used while designing the mosque. Finally, I discuss Simeon Kalfa’s architectural legacy and starting with him, the tradition of appointing non-Muslim architects to design imperial mosques through early examples such as the rebuilt Fatih, the Selimiye of Üsküdar, and the Nusretiye. Eventually, this paper proposes a better profile for the prominent master and an idea about his artistic references.</i></p>
+  <p><i>In the early 1750s, when the Nuruosmaniye Mosque was rising on the Istanbul skyline, Ottoman architecture was at a turning point in many respects. This building with its annexes, the first monumental edifice of the Ottoman Baroque, was designed by a Greek (Rūm) named Simeon Kalfa, the first known non-Muslim architect to build a sultanic mosque (cāmiʿ-i selāṭīn). Building secretary Ahmed Efendi’s exceptional monograph on the Nuruosmaniye acknowledges the role of the mosque’s architect in a context of formal and technical details. However, the work rarely mentions the distinctiveness of the architect’s design and the sources from which he took inspiration. Although the information we can obtain from various Turkish, Armenian, Greek, and even French contemporary sources mentioning him is limited, Simeon Kalfa was the first important representative of a new style that would leave its mark on Istanbul for about a hundred years. In this paper, I examine contemporary sources about Simeon Kalfa, written in the aforementioned languages and from different perspectives, and attempt to draw a picture of the Ottoman architect who gained respect beyond his own community. I also address how his non-Muslim status was treated in different sources. Secondly, I explore probable European artistic references the architect used while designing the mosque. Finally, I discuss Simeon Kalfa’s architectural legacy and starting with him, the tradition of appointing non-Muslim architects to design imperial mosques through early examples such as the rebuilt Fatih, the Selimiye of Üsküdar, and the Nusretiye. Eventually, this paper proposes a better profile for the prominent master and an idea about his artistic references.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Merve Tekgürler (Stanford, PhD Candidate) — “Doing History Digitally: A Methodological Reflection on Computational Text Analysis with 18th Century Ottoman Turkish Sources”</p>
+  <p>Merve Tekgürler (Stanford) — “Doing History Digitally: A Methodological Reflection on Computational Text Analysis with 18th Century Ottoman Turkish Sources”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -232,7 +221,7 @@ Discussant: Prof. Hakan Karateke</span>
 </div>
 <p>
 <div>
-  <p>Sam Winikow (UMichigan Ann Arbor, PhD Student) — “Cooking, Conviviality, and Connoisseurship in Safavid Iran”</p>
+  <p>Sam Winikow (UMichigan Ann Arbor) — “Cooking, Conviviality, and Connoisseurship in Safavid Iran”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -244,14 +233,14 @@ Discussant: Prof. Hakan Karateke</span>
 </div>
 <p>
 <div>
-  <p>Darragh Winkelman (UChicago, PhD Student) — “Toward Defining Ottoman Turkish”</p>
+  <p>Darragh Winkelman (UChicago) — “Toward Defining Ottoman Turkish”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>The term ‘Ottoman Turkish’ encompasses Turkic speech varieties of considerable diversity. Though it has received ample periodization (e.g., Kerslake (1998)), much of the classificatory complexities remain unaddressed. These issues become especially apparent from the late 15th century, where the development of a court register led to the substantial enrichment of the Turkic sociolinguistic repertoire. I argue that these difficulties stem in part from an understanding of language diversity linked to geographies and time periods across individuals, at the cost of a commensurate focus on diversity within individuals that emerge over a single lifetime. The established philological framework analyses languages across time and space. It is predicated on the assumption that an analysis of a given speech variety (or a set thereof) consists in identifying the constituent parts of its grammar and understanding them as historical reflexes of Proto-Turkic. Within this framework, speech varieties are tied to specific intervals of time and space, such that individuals and groups are treated as monoliths. The diachronic bent foregrounds a taxonomy based on history and geography at the expense of examining language diversity conditioned by social context. However, invaluable to an understanding of Ottoman Turkish is variation within these speech varieties and individuals. This provides the flexibility necessary to place varieties like ‘Court Ottoman Turkish’ which coexisted alongside vernaculars. By allowing for a sociolinguistic approach, contrastive elements of the linguistic repertoires of individuals can be categorized in the same way as would linguistic features prevailing across specific regions and time periods.</i></p>
+  <p><i>The term ‘Ottoman Turkish’ encompasses Turkic speech varieties of considerable diversity. Though it has received ample periodization (e.g., Kerslake (1998)), much of the classificatory complexities remain unaddressed. These issues become especially apparent from the late 15th century onwards, where the development of a court register led to the substantial enrichment of the Turkic sociolinguistic repertoire. I argue that these difficulties stem in part from an understanding of language diversity linked to geographies and chronologies across communities and individuals, at the expense of a commensurate focus on diversity within them that emerges over a single lifetime. This understanding is predicated on the assumption that an analysis of a given speech variety (or a set thereof) consists in identifying the constituent parts of its grammar and understanding them as historical reflexes of Proto-Turkic or foreign borrowings. Within this framework, speech varieties are tied to specific intervals of time and space, such that the language of individuals and the speech communities they reside in is treated as a monolith. The diachronic bent foregrounds a taxonomy based on history and geography at the expense of examining language diversity conditioned by social context. However, invaluable to an understanding of Ottoman Turkish is variation within these speech communities and individuals. This paper develops a framework to place varieties like ‘Court Ottoman Turkish’ alongside chronologically and geographically distinguished speech varieties in a single classificatory scheme. By allowing for a sociolinguistic approach, contrastive elements of the linguistic repertoires of individuals can be categorized in the same way as would linguistic features prevailing across specific regions and time periods.</i></p>
 </div>
 </div>
 <p>
@@ -260,52 +249,50 @@ Discussant: Prof. Hakan Karateke</span>
 Discussant: Prof. Ghenwa Hayek</span> 
 <p>
 <div>
-  <p>Amir Marshi (UMichigan Ann Arbor, PhD Student) — “Raphael Hawaweeny: Indigenous Sovereignty and the Orthodox Nahḍa”</p>
+  <p>Amir Marshi (UMichigan Ann Arbor) — “Raphael Hawaweeny: Indigenous Sovereignty and the Orthodox Nahḍa”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>In the late 19th century, amidst the Arab Nahḍa – an era of cultural and intellectual awakening in the Levant – the Antiochian and Jerusalem Orthodox Churches faced a pivotal struggle over ecclesiastical sovereignty between the Arab laity and clergy and the Greek hierarchy. (Grams, 2021 Goodgame, 2022 Robson, 2011 Vovchenko, 2013) Secular and religious leaders in Palestine-Syria championed the cause of Arabizing the Orthodox Church, giving rise to what Khalil al-Sakakini would later in 1912 call “the Orthodox Nahda”. (Dierauf, 2021) This paper examines a manuscript by Syrian-Arab Bishop Raphael Hawaweeny, written under the pseudonym Abdul Ahad al-Shafi in 1893. Entitled “The Brotherhood of the Holy Sepulchre: A Historical Account,” Hawaweeny’s work challenges the Greek dominance in the Orthodox Church in Jerusalem and advocates for its Localization/Arabization. Through a textual and para-textual analysis I will explicate how Hawaweeny lays his claims for indigenous spiritual authority and custodianship. I view this text as a ‘counter-history’ in that it recounts the ecclesiastical history of the reign of the Greek clergy precisely in order to deconstruct the authority of its’ ‘Universalist’ claims to sovereignty and vindicate rival claims. In analyzing these intersecting narratives, I will focus both on continuity (both apostolic and ethnic) as an organizing principle of narrativization and on territoriality as a canonical and geopolitically informed theological and national discourse on sovereignty. Locating this text within the larger literature on late ottoman reformation, and Arab revivalism allows us to further see formations of the Nahda as an ecumenical movement (Hansen and Weise, 2016 94 Makdisi, 2019: 21)</i></p>
+  <p><i>In the late 19th century, amidst the Arab Nahḍa – an era of cultural and intellectual awakening in the Levant – the Antiochian and Jerusalem Orthodox Churches faced a pivotal struggle over ecclesiastical sovereignty between the Arab laity and clergy and the Greek hierarchy. (Grams, 2021 Goodgame, 2022 Robson, 2011 Vovchenko, 2013) Secular and religious leaders in Palestine-Syria championed the cause of Arabizing the Orthodox Church, giving rise to what Khalil al-Sakakini would later in 1912 call “the Orthodox Nahḍa”. (Dierauf, 2021) This paper examines a manuscript by Syrian-Arab Bishop Raphael Hawaweeny, written under the pseudonym Abdul Ahad al-Shafi in 1893. Entitled “The Brotherhood of the Holy Sepulchre: A Historical Account,” Hawaweeny’s work challenges the Greek dominance in the Orthodox Church in Jerusalem and advocates for its Localization/Arabization. Through a textual and para- textual analysis I will explicate how Hawaweeny lays his claims for indigenous spiritual authority and custodianship. I view this text as a ‘counter-history’ in that it recounts the ecclesiastical history of the reign of the Greek clergy precisely in order to deconstruct the authority of its’ ‘Universalist’ claims to sovereignty and vindicate rival claims. In analyzing these intersecting narratives, I will focus both on continuity (both apostolic and ethnic) as an organizing principle of narrativization and on territoriality as a canonical and geopolitically informed theological and national discourse on sovereignty. Locating this text within the larger literature on late ottoman reformation, and Arab revivalism allows us to further see formations of the Nahḍa as an ecumenical movement (Hansen and Weise, 2016 94 Makdisi, 2019: 21).</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Alaa Murad (Brandeis, PhD Candidate) — “‘To Risk Stirring the Hearts:’ Challenging Islamic Epistemology through Popular History”</p>
+  <p>Alaa Murad (Brandeis) — “‘To Risk Stirring the Hearts:’ Challenging Islamic Epistemology Through Popular History”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>Towards the end of the nineteenth century, the Cairo-based Ottoman historian and man of letters Jurji Zaydan (1861–1914) was flooded with letters from scholars and laypeople across the Muslim world. They warned the prominent founder of al-Hilal against writing Islamic history within the narrative form of the modern Arabic novel. Zaydan, being of a Syrian Orthodox working-class background and committed to the equality of Ottoman religious and ethnic communities, argued that it was impossible for him to abandon the writing Islamic history in the form of a novel. Instead, he continued to write a total of 22 novels that were widely read and translated, and which he promoted as works of history under the title “The History of Islam Series.” Public debates around Zaydan’s work formed an integral part of Arabic intellectual discourses on who could write and make claims over the historical record. Contemporary engagement with Zaydan’s unique project highlights the uniqueness of his intervention in harnessing the Islamic past to affect socio-political change in his Ottoman present. Zaydan’s rich and contentious historical novels, and the public debates surrounding their production, provide a glimpse into the intellectual, social, and political struggle for reform that shaped his generation. His novels shed new light on the nahḍa, whose popular productions have often been ignored in favor of “high” literature and scholarship. This paper examines how Zaydan’s project of rendering Islamic history within a fictionalized narrative form challenged axiomatic Islamic epistemologies of history as part of the Islamic sciences and negotiated a non-sectarian reformist vision grounded in Ottomanism.
-</i></p>
+  <p><i>Towards the end of the nineteenth century, the Cairo-based Ottoman historian and man of letters Jurji Zaydan (1861–1914) was flooded with letters from scholars and laypeople across the Muslim world. They warned the prominent founder of al-Hilal against writing Islamic history within the narrative form of the modern Arabic novel. Zaydan, being of a Syrian Orthodox working-class background and committed to the equality of Ottoman religious and ethnic communities, argued that it was impossible for him to abandon the writing Islamic history in the form of a novel. Instead, he continued to write a total of 22 novels that were widely read and translated, and which he promoted as works of history under the title “The History of Islam Series.” Public debates around Zaydan’s work formed an integral part of Arabic intellectual discourses on who could write and make claims over the historical record. Contemporary engagement with Zaydan’s unique project highlights the uniqueness of his intervention in harnessing the Islamic past to affect socio-political change in his Ottoman present. Zaydan’s rich and contentious historical novels, and the public debates surrounding their production, provide a glimpse into the intellectual, social, and political struggle for reform that shaped his generation. His novels shed new light on the Nahḍa, whose popular productions have often been ignored in favor of “high” literature and scholarship. This paper examines how Zaydan’s project of rendering Islamic history within a fictionalized narrative form challenged axiomatic Islamic epistemologies of history as part of the Islamic sciences and negotiated a non-sectarian reformist vision grounded in Ottomanism.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Olga Verlato (NYU, PhD Candidate) — “Bridging Languages: Scripts and Experimentation in the Arab Nahḍa”</p>
+  <p>Olga Verlato (NYU) — “Bridging Languages: Scripts and Experimentation in the Arab Nahḍa”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>My paper explores a series of attempts to romanize the Arabic language in late nineteenth and early twentieth-century Egypt and situates them within a global history of script reforms and nation building efforts in the modern period. In the first part of the paper, I discuss the virtually unexplored models to write Arabic in the Latin script developed by the Cairo-based magazine al-Muqtataf between 1889 and 1897, relating them to the responses they elicited from the magazine's readers and some of the romanization practices found in advertising, commercial displays in the streets, and governance at the time. I demonstrate that, in this period, romanized Arabic was envisioned as an original way to pursue financial profit and technological efficiency, confront European knowledge production, and redefine the standing of Arabic within transregional publishing networks that encompassed different languages and alphabets. I thus offer an alternative geography of script reform that supersedes the national framework. In the second part of the paper, I follow the history of romanization in Egypt in the 1930s and 1940s. I focus on a series of short-lived proposals, in particular the one advanced by ʿAbd al-ʿAziz Fahmi (1870-1951) to the Egyptian Language Academy (established in 1936), to write the Arabic language using the Latin script. I argue that differently from the case of al-Muqtataf, these later instances of romanization were part of nationalist and state building efforts that focused on the national space of Egypt, rather than on the transregional dimension of publishing networks and cross-linguistic knowledge production.
-</i></p>
+  <p><i>My paper explores a series of attempts to romanize the Arabic language in late nineteenth and early twentieth-century Egypt and situates them within a global history of script reforms and nation building efforts in the modern period. In the first part of the paper, I discuss the virtually unexplored models to write Arabic in the Latin script developed by the Cairo-based magazine al-Muqtataf between 1889 and 1897, relating them to the responses they elicited from the magazine's readers and some of the romanization practices found in advertising, commercial displays in the streets, and governance at the time. I demonstrate that, in this period, romanized Arabic was envisioned as an original way to pursue financial profit and technological efficiency, confront European knowledge production, and redefine the standing of Arabic within transregional publishing networks that encompassed different languages and alphabets. I thus offer an alternative geography of script reform that supersedes the national framework. In the second part of the paper, I follow the history of romanization in Egypt in the 1930s and 1940s. I focus on a series of short-lived proposals, in particular the one advanced by ʿAbd al-ʿAziz Fahmi (1870-1951) to the Egyptian Language Academy (established in 1936), to write the Arabic language using the Latin script. I argue that differently from the case of al-Muqtataf, these later instances of romanization were part of nationalist and state building efforts that focused on the national space of Egypt, rather than on the transregional dimension of publishing networks and cross-linguistic knowledge production.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Rama Alhabian (Hamilton, Assistant Professor) — “al-Yāzijī’s <i>Majmaʿ al-baḥrayn</i>: The Sonic, the Aural, and Arabic’s Heteroglossia”</p>
+  <p>Rama Alhabian (Hamilton College) — “The Poetic Functions of  ʿAjamī Impostors in Nāṣīf al-Yāzijī’s Majmaʿ al-baḥrayn”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>This paper will focus on the most famous work by nineteenth-century Nahḍa figure Nāṣīf al-Yāzijī (b.1800, d.1871), his 1855 maqāmāt collection The Meeting of the Two Seas (Majmaʿ al-baḥrayn). In Majmaʿ, al-Yāzijī closely emulated—but adapted—the classical maqāma collection by al-Ḥarīrī of Basra (d.1122). Though credited as a major figure in Arabic’s revival in the nineteenth century, al-Yāzijī has been neglected by many scholars of the Nahḍa, who tended to define the period mainly through Arab intellectuals’ contact with the West and their adoption of European literary models. My approach to the literary culture of the period seeks a different route: rather than view al-Yāzijī’s work as a close emulation of al-Ḥarīrī’s classical model, I locate al-Yāzijī’s project at a cultural moment premised on return to, or (re)encounter with, indigenous forms of Arabic literary art. My study of al-Yāzijī’s Majmaʿ traces the ways in which the maqāmāt stories reflect critically on the return to classics that the rise of printing technologies during the period enabled, which in effect prioritized visuality and seeing as sources of truth and modes of knowledge-seeking. In my reading of Majmaʿ, I examine how the work engages side by side the sonic and the visual, the oral/aural and the written to show that the standard(ized) forms printed texts alone provide leaves off multitudes of meaning, which the aural experience of the language may recover. Ultimately, the study seeks to explore al-Yāzijī’s take on Arabic’s heteroglossic condition, in which varieties of the spoken registers and a standard written form exist distinctly within the language.</i></p>
+  <p><i>Not much has been written about the significance of the Syro-Lebanese Nāṣīf al-Yāzijī (d.1871) for the Arab Nahḍa. Though al-Yāzijī was described by some scholars as the greatest Arab intellectual of his age, his own role in the rise of Arab literary modernity has not yet been fully explored. This talk looks at al-Yāzijī’s 1855/56 maqāmāt collection Majmaʿ al-baḥrayn (The meeting of the two seas), where al-Yāzijī closely emulated—but adapted—the classical maqāma collection by al-Ḥarīrī of Basra (d.1122). It explores Majmaʿ’s relationship with the classical maqāmāt model on the one hand, and with works by other major Nahḍa literary figures as they (re)defined the role of Levantine Christian Arabs in Arabic literary modernity on the other. Specifically, the talk focuses on the poetic and productive functions of two interconnected categories that figure in al-Yāzijī’s “maqāma of Tihāma.” The first is ʿajamī: a contrastive ethno-linguistic form of group identification that was historically used by early Arabo-Muslim scholars of language as a boundary-setting tool between Arabs and their linguistic others. Second is ʿajamī’s immediate progeny: khaṭaʾ, meaning error or errancy, as well as takhṭiʾa, meaning errorology or the study or diagnosis of error, which also make their appearances into the maqāma’s dramatic scene. As ʿujma (the source noun of ʿajamī ) in al-Yāzijī’s work, is not only seen, but also heard, it indexes how Majmaʿ engages side by side the sonic and the visual, the oral/aural and the written, in ways revealing of how the standard(ized) forms printed texts alone provide leave off multitudes of meaning, which the aural experience of the language may recover. The study concludes with questions about al-Yāzijī’s perception of the vernacularization of Arabic—specifically through Arabic’s heteroglossic condition, in which varieties of the spoken registers and a standard written form exist distinctly, but integrally, within the language.</i></p>
 </div>
 </div>
 <p>
@@ -317,19 +304,19 @@ Discussant: Prof. Ghenwa Hayek</span>
 <br />
 Discussant:</span>
 <div>
-  <p>Mehdi Hoseini (Boston College, PhD Student) — “The Ideology of Crime and Punishment in Egypt under British Rule (1882-1922)”</p>
+  <p>Mehdi Hoseini (Boston College) — “The Ideology of Crime and Punishment in Egypt Under British Rule (1882-1922)”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>This article discusses the transformations of controlling crime and deviance in Egypt under British rule from 1882 to 1922. It aims to place the occupation of Egypt in the context of criminology to reveal as much as invading Egypt was on a broader capitalist project; it was also implicated in a criminology project. It relies on two main strands of scholarship: It refers to the histories of emerging capitalism in the Global South, which initiated integration into the global market through unequal trade deals and military force, leading to an “informal empire.” Then, it attends to the studies on the appropriation of law under the guise of “civilizing mission,” which convoluted occupying Egypt with lines of race and empire. Drawing on sociological theories of crime, it asks how the punitive practices of controlling populations related to the context of developing global markets under colonial conditions in Egypt. It adds how the system of policing and prisoning related to the control of finances and agriculture production in Egypt. How did the idea of order and control of crime form a part of British rule? Against this theoretical backdrop, it is argued that the integration into the global market and the “coloniality of law” went hand in hand with a patch of disciplinary practices to guarantee the management of labor and the extraction of resources. Informed by what Biko Agozino (2003) terms Counter Colonial Criminology, it shows that the interplay of colonial bureaucracy and the processes of exploitation of resources were facilitated by the practices of control and punishment that formed in three main areas: agricultural production infrastructure, policing, and bureaucracy.</i></p>
+  <p><i>This article discusses how the discourse of controlling crime and order formed a major part of the British colonial policy during the occupation of Egypt in 1882-1922. It aims to study the occupation of Egypt in the context of criminology. It argues that the British colonial policy towards the occupation of Egypt was implicated in a criminology project in addition to being a broader capitalist project. The article relies on two main strands of scholarship: It refers to the histories of emerging capitalism in the Global South, which accelerated the integration of Egypt into the global market through unequal trade deals and military force, leading to an “informal empire.” Then, it attends to the studies on the appropriation of law under the guise of “civilizing mission,” which convoluted occupying Egypt with lines of race and empire. Drawing on sociological theories of crime, it asks how British colonialism absorbed punitive ideas of controlling populations and framed a discourse of order to the advantage of developing global markets in Egypt. Against this theoretical backdrop and informed by what Biko Agozino (2003) terms Counter Colonial Criminology, it shows that the interplay of colonial bureaucracy and the processes of exploitation of resources were facilitated by a discourse of control and order that formed in these main areas: a) agriculture and commerce, b) judiciary and policing, and c) bureaucracy.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Israa Khalifa (UMichigan Ann Arbor, PhD Student) — “Beekeeping the Nation: Entomology, Apiculture, and the Shaping of Modern Egypt in the Early 20th Century”</p>
+  <p>Israa Khalifa (UMichigan Ann Arbor) — “Beekeeping the Nation: Entomology, Apiculture, and the Shaping of Modern Egypt in the Early 20th Century”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -341,7 +328,7 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Jamil Sbitan (Columbia, PhD Candidate) — “Queer Excesses: Historicizing Sex Panics in Egypt”</p>
+  <p>Jamil Sbitan (Columbia) — “Queer Excesses: Historicizing Sex Panics in Egypt”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -353,14 +340,14 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Xiaoyue Li (Tulane, Assistant Professor) — “Wearing Out: Infrastructural Exhaustion and Political Economy in Colonial Egypt”</p>
+  <p>Xiaoyue Li (Tulane) — “Wearing Out: Infrastructural Exhaustion and Political Economy in Colonial Egypt”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>In this paper, I study the aging, breakdown, impairment, and dysfunction of the Egyptian State Railway during an austere period of Egyptian history (1876-1904). It seeks to connect the local microhistories of anxiety, agitation, and fear with the broader loom of imperial structure and expanding capitalism. This paper hones in on the metamorphosis of speculative capital, from the shackles of public debt to the liquidity of cash profits, facilitated by the imperial machinery of the Caise de la Dette Publique. I contend that the Caisse, in this period, was an agent of meticulously crafted austerity measures, aiming to reroute the financial lifelines from Egypt’s rail arteries directly into the coffers of European claimants. By paying special attention to impactful and profound engineering scars left by the Caisse’s relentless extraction of profit, this paper uncovers a stark nexus between imperial mandates and infrastructural exhaustion. Moreover, I posit that acts of pilfering and skullduggery, though perhaps unpremeditated, emerged as a deliberate transgression, or at times rebellion, against the global tide of predatory capitalism. This narrative not only chronicles a tale of local decline, but also illuminates the silent, yet potent, undercurrents of local resistance that refused to succumb to wear and tear.</i></p>
+  <p><i>In this paper, I study the aging, breakdown, impairment, and dysfunction of the Egyptian State Railway during an austere period of Egyptian history (1876-1904). It seeks to connect the local microhistories of anxiety, agitation, and fear with the broader loom of imperial structure and expanding capitalism. This paper hones in on the metamorphosis of speculative capital, from the shackles of public debt to the liquidity of cash profits, facilitated by the imperial machinery of the Caisse de la Dette Publique. I contend that the Caisse, in this period, was an agent of meticulously crafted austerity measures, aiming to reroute the financial lifelines from Egypt’s rail arteries directly into the coffers of European claimants. By paying special attention to impactful and profound engineering scars left by the Caisse’s relentless extraction of profit, this paper uncovers a stark nexus between imperial mandates and infrastructural exhaustion. Moreover, I posit that acts of pilfering and skullduggery, though perhaps unpremeditated, emerged as a deliberate transgression, or at times rebellion, against the global tide of predatory capitalism. This narrative not only chronicles a tale of local decline, but also illuminates the silent, yet potent, undercurrents of local resistance that refused to succumb to wear and tear.</i></p>
 </div>
 </div>
 <p>
@@ -368,19 +355,19 @@ Discussant:</span>
 <br />
 Discussant:</span>
 <div>
-  <p>Yağmur Karaca (USC, PhD Student) Armenians in the Imperial Governance of the Ottoman Empire: The Düzyan Case</p>
+  <p>Yağmur Karaca (USC) Armenians in the Imperial Governance of the Ottoman Empire: The Düzyan Case</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>This paper explores the crucial yet often overlooked role of the Amiras, a group of Armenian bankers based in Istanbul, within the Ottoman state from the late eighteenth to the mid- nineteenth century. Despite being barred from wielding formal political power, the Amiras were pivotal in the functioning and exercise of state power, particularly evident until the onset of the Tanzimat era. Through their involvement in strengthening the economy and financing state policies, the Amiras emerged as indispensable actors in the Ottoman state apparatus. Through the case of the Düzyans, an Amira family that controlled the Imperial Mint, Darbhâne-i  mire, this paper analyzes how their influence extended beyond the mint to encompass broader imperial society, governance, and economy, particularly in managing the Sultan’s finances. The control of the Imperial Mint, a symbol of economic prestige in the Ottoman Empire, underscores the significant position held by the Düzyan family and, by extension, the Amiras within the Ottoman hierarchical structure. This paper employs the narrative surrounding the Amiras and the specific example of the Düzyan family to challenge the conventional narrative of imperial governance. It argues for a re-evaluation of the influence of Armenian elites within the fabric of imperial governance. Through the Düzyan case, the paper contributes to a deeper understanding of the complex dynamics of power, economy, and governance in the nineteenth-century Ottoman Empire, highlighting the role played by ethno-religious minorities in the shaping of imperial policies and practices.</i></p>
+  <p><i>This paper explores the crucial yet often overlooked role of the Amiras, a group of Armenian bankers based in Istanbul, within the Ottoman state from the late eighteenth to the mid- nineteenth century. Despite being barred from wielding formal political power, the Amiras were pivotal in the functioning and exercise of state power, particularly evident until the onset of the Ṭanẓīmāt era. Through their involvement in strengthening the economy and financing state policies, the Amiras emerged as indispensable actors in the Ottoman state apparatus. Through the case of the Düzyans, an Amira family that controlled the Imperial Mint, Ḍarbḫāne-i ʿĀmire, this paper analyzes how their influence extended beyond the mint to encompass broader imperial society, governance, and economy, particularly in managing the Sultan’s finances. The control of the Imperial Mint, a symbol of economic prestige in the Ottoman Empire, underscores the significant position held by the Düzyan family and, by extension, the Amiras within the Ottoman hierarchical structure. This paper employs the narrative surrounding the Amiras and the specific example of the Düzyan family to challenge the conventional narrative of imperial governance. It argues for a re-evaluation of the influence of Armenian elites within the fabric of imperial governance. Through the Düzyan case, the paper contributes to a deeper understanding of the complex dynamics of power, economy, and governance in the nineteenth-century Ottoman Empire, highlighting the role played by ethno-religious minorities in the shaping of imperial policies and practices.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Ümit Kurt (University of Newcastle, Assistant Professor) — “Defending ‘Honor’: Restraining Violence and the Microdynamics of Intercommunal Relations in Late Ottoman Empire”</p>
+  <p>Ümit Kurt (University of Newcastle) — “Defending ‘Honor’: Restraining Violence and the Microdynamics of Intercommunal Relations in the Late Ottoman Empire”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -392,19 +379,19 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Çağdaş Acar (UChicago, PhD Student) — “Situating Hovsep Vartanyan Among His Contemporaries”</p>
+  <p>Çağdaş Acar (UChicago) — “Situating Hovsep Vartanyan Among His Contemporaries”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>The writing of intellectual biographies of Ottoman reformers is an area that runs almost parallel to the writing of ulema families’ careers, and the writing of politico-economical networks Ottoman pashas establish locally and internationally. These histories nevertheless open windows into larger pre-modern and modern histories as they explain milieus, offer nuanced views or to challenge the existing scholarship. An intellectual biography of Hovsep Vartanyan (1815-1879) is liminal as it stands between histories of Ottoman reformers of the Tanzimat who are litterateur-bureaucrats, and histories of non-Muslim Ottoman pashas who are multilingual deal-brokers. Vartanyan earns the title of a pasha after 20 years of employment at the Ottoman navy as a first translator at a moment when the title first becomes available to those from non-military backgrounds. His literary production as an author and as a translator is not only instructive (as in writing about Napoleon or telegraph) but also reconciling (as in trying to bridge the Catholic and Apostolic Armenian millets through romance as a literary genre). His writing on constitutionalism, his membership in the Ottoman scientific society (Encümen- i Daniş), and his publication of periodicals for over two decades force us to analyze his intellectual output in Armeno-Turkish and Armenian, situate him among his contemporaries (such as Şinasi, Ahmed Vefik, Ahmed Cevdet, Ahundzade, Malkum Khan and Bogos Nubar) and revisit categories as such litterateur-bureaucrat, reformer-pasha, and Ottoman-Armenian.</i></p>
+  <p><i>The writing of intellectual biographies of Ottoman reformers is an area that runs almost parallel to the writing of ulema families’ careers, and the writing of politico-economical networks Ottoman pashas establish locally and internationally. These histories nevertheless open windows into larger pre-modern and modern histories as they explain milieus, offer nuanced views or to challenge the existing scholarship. An intellectual biography of Hovsep Vartanyan (1815-1879) is liminal as it stands between histories of Ottoman reformers of the Ṭanẓīmāt who are litterateur-bureaucrats, and histories of non-Muslim Ottoman pashas who are multilingual deal-brokers. Vartanyan earns the title of a pasha after 20 years of employment at the Ottoman navy as a first translator at a moment when the title first becomes available to those from non-military backgrounds. His literary production as an author and as a translator is not only instructive (as in writing about Napoleon or telegraph) but also reconciling (as in trying to bridge the Catholic and Apostolic Armenian millets through romance as a literary genre). His writing on constitutionalism, his membership in the Ottoman scientific society (Encümen- i Daniş), and his publication of periodicals for over two decades force us to analyze his intellectual output in Armeno-Turkish and Armenian, situate him among his contemporaries (such as Şinasi, Ahmed Vefik, Ahmed Cevdet, Ahundzade, Malkum Khan and Bogos Nubar) and revisit categories as such litterateur-bureaucrat, reformer-pasha, and Ottoman-Armenian.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Hazal Özdemir (Northwestern, PhD Candidate) — “Unmaking Ottoman Subjecthood: Ottoman Armenian Mobility and Nationality at the End of Empire”</p>
+  <p>Hazal Özdemir (Northwestern) — “Unmaking Ottoman Subjecthood: Ottoman Armenian Mobility and Nationality at the End of Empire”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -419,20 +406,19 @@ Discussant:</span>
 <br />
 Discussant: Dr. Carl Shook</span>
 <div>
-  <p>Marah Abdel Jaber (UChicago, CMES MA) — “The Homeland Is Us: Reconceptualizing Liberation through the Palestinian Imaginal”</p>
+  <p>Marah Abdel Jaber (UChicago) — “The Homeland Is Us: Reconceptualizing Liberation through the Palestinian Imaginal”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>The structural disintegration of Palestinian existence by the Zionist project since 1948 perpetually ruptures the collective Palestinian consciousness, generating fragmented conditions of Palestinian reality which rapidly evolve across generational and geographic contexts. The Israeli Nakba canon operates to dismantle the Palestinian collective by manufacturing violence which penetrates and disrupts every extension of Palestinian being. In pursuit of liberation, the Palestinian people require a globally accessible landscape which transcends the nation-state to consider the various contexts of occupation and their respective demands for freedom. The Homeland is Us argues that this space, one frequently alluded to by various scholars of the Palestinian question, can be identified as the Palestinian imaginal. The imaginal realm, or Mundus Imaginalis, in this case is adopted from Islamic theosophy and reconceived as a mode of Palestinian landscape which generates access to a unified homeland concealed by violent occupation. The imaginal is evaluated through its relationship with the Palestinian novel as a critical informant on the diverse Palestinian condition, reconceptualizing the tangibility of liberation within and beyond the boundaries of occupied land via expanded knowledge on the heterogenous Palestinian reality.
-</i></p>
+  <p><i>The structural disintegration of Palestinian existence by the Zionist project since 1948 perpetually ruptures the collective Palestinian consciousness, generating fragmented conditions of Palestinian reality which rapidly evolve across generational and geographic contexts. The Israeli Nakba canon operates to dismantle the Palestinian collective by manufacturing violence which penetrates and disrupts every extension of Palestinian being. In pursuit of liberation, the Palestinian people require a globally accessible landscape which transcends the nation-state to consider the various contexts of occupation and their respective demands for freedom. The Homeland is Us argues that this space, one frequently alluded to by various scholars of the Palestinian question, can be identified as the Palestinian imaginal. The imaginal realm, or Mundus Imaginalis, in this case is adopted from Islamic theosophy and reconceived as a mode of Palestinian landscape which generates access to a unified homeland concealed by violent occupation. The imaginal is evaluated through its relationship with the Palestinian novel as a critical informant on the diverse Palestinian condition, reconceptualizing the tangibility of liberation within and beyond the boundaries of occupied land via expanded knowledge on the heterogenous Palestinian reality.</i></p>
 </div>
 </div>
 <p>
 <div>
-  <p>Omar Kamal (UChicago, CMES MA) — “Late Ottoman Responses and Communication from Palestinian Bedu and Fellahin regarding the New Yishuv”</p>
+  <p>Omar Kamal (UChicago) — “Late Ottoman Responses and Communication from Palestinian Bedu and Fellahin regarding the New Yishuv”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -444,7 +430,7 @@ Discussant: Dr. Carl Shook</span>
 </div>
 <p>
 <div>
-  <p>Connor Christensen (UChicago, CMES MA) — “Echoes of Empires: Foreign Ambitions and the Odyssey of the Afghan People”</p>
+  <p>Connor Christensen (UChicago) — “Echoes of Empires: Foreign Ambitions and the Odyssey of the Afghan People”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -456,14 +442,14 @@ Discussant: Dr. Carl Shook</span>
 </div>
 <p>
 <div>
-  <p>Fateme Tavakoli (UChicago, CMES MA) — “Joy and Bans: Social Movements in Modern Iran”</p>
+  <p>Fateme Tavakoli (UChicago) — “Sentimental Resistance: Emotions, Politics, and the Woman, Life, Freedom Movement”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>Throughout history, the success of social movements has hinged upon the ability to garner widespread support through a shared sentiment that can be effectively communicated both internally and externally. This paper explores the intersection of joy, resistance, and human rights in the context of contemporary Iranian society. While prior research has inquired into various art forms as conduits for protest and social change in both pre and post-revolutionary Iran, this study focuses on joy itself as a collective act of resistance against an autocratic regime. Through a nuanced analysis of video footage, slogans, dances, poems, and speeches from recent protests, specifically the Woman Life Freedom movement, this study seeks to understand joy as the dynamic force behind the "life" in the movement's slogan. Through theories of social interaction and social construction, this paper contends that joy, when denied through bans, denigration, or economic means, acts as a method of dehumanization. In such cases, the courage to reclaim joy emerges as a tool for pushing back against dehumanization and affirming the humanity and agency of the oppressed population. This paper provides a unique perspective on the complexities of joy and positions it not only as a form of resistance but also as a powerful connector that fosters a sense of national intimacy among Iranians and inspires connections that transcend boundaries and contribute to the collective resilience of a people.</i></p>
+  <p><i>Throughout history, the success of social movements has hinged upon the ability to garner widespread support through a shared sentiment that can be effectively communicated both internally and externally. This paper examines the intersection of emotions and social resistance within the context of contemporary Iran. While prior research has explored various art forms as conduits for protest and social change in both pre and post-revolutionary Iran, this study shifts the focus onto the role of emotions themselves as a collective act of resistance against an autocratic regime. Examining video footage, slogans, dances, poems, and speeches from recent protests, specifically within the Woman Life Freedom movement, this study aims to understand how emotions, such as joy and hope, serve as the dynamic force behind the "life" in the movement's slogan. Drawing from theories of social interaction and social construction, this paper interrogates the role of emotional expressions in defining the boundaries of the public sphere and forming political communities. This analysis contends that emotional expressions such as joy, when denied through bans, denigration, or economic means, act as a method of dehumanization. In such cases, the courage to reclaim joy emerges as a tool for pushing back against dehumanization and affirming the humanity and agency of the oppressed population. This paper provides a unique perspective on the complexities of emotions and positions them not only as a form of resistance but also as a powerful connector that fosters a sense of national intimacy among Iranians and inspires connections that transcend boundaries and contribute to the collective resilience of a people.</i></p>
 </div>
 </div>
 <p>
@@ -473,7 +459,7 @@ Discussant: Dr. Carl Shook</span>
 <br />
 Discussant:<span>
 <div>
-  <p>Nada Khalifa (UToronto Scarborough, Assistant Professor) — “Afterlives of Reform: Social Investigation and the Performativity of Political Trials (1908-1920)”</p>
+  <p>Nada Khalifa (UToronto Scarborough) — “Afterlives of Reform: Social Investigation and the Performativity of Political Trials (1908-1920)”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -485,7 +471,7 @@ Discussant:<span>
 </div>
 <p>
 <div>
-  <p>CHEN Gong (Princeton, PhD Candidate) — “Land Conflicts between Muslims and Armenians in the “Six Provinces”, 1908-1914”</p>
+  <p>CHEN Gong (Princeton) — “Land Conflicts between Muslims and Armenians in the “Six Provinces”, 1908-1914”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -497,7 +483,7 @@ Discussant:<span>
 </div>
 <p>
 <div>
-  <p>Camille Cole (Illinois State University, Assistant Professor) “What was Ottoman about the Ottoman Gulf? Interpreting the empire in Basra and Kuwait, c. 1900”</p>
+  <p>Camille Cole (Illinois State University) “What was Ottoman About the Ottoman Gulf? Interpreting the Empire in Basra and Kuwait, c. 1900”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -509,14 +495,14 @@ Discussant:<span>
 </div>
 <p>
 <div>
-  <p>Irmak Şensöz (Princeton, PhD Student) — “Settling the Countryside: Pastoralists, Migrants, and the Tanzimat in Central Anatolia”</p>
+  <p>Irmak Şensöz (Princeton) — “Settling the Countryside: Pastoralists, Migrants, and the Ṭanẓīmāt in Central Anatolia”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
   </svg>
 </button>
 <div class="content">
-  <p><i>A growing body of scholarship has reconsidered the Tanzimat (1838-76) by detailing how those on the Ottoman Empire’s margins experienced the era’s reforms. This paper builds on such work by centering nomadic pastoralists in the central Anatolian countryside. Using bureaucratic documents from the Ottoman archives, it details the 1860s transformation of the Uzunyayla region in Sivas. Uzunyayla is a highland plateau that the Avşars, a pastoralist Turkmen tribe, traditionally migrated to each summer. Nineteenth-century Ottoman reformers aimed to make rural spaces like Uzunyayla more ‘orderly’ and ‘productive’ through the sedentarization of mobile communities. Simultaneously, after the 1854-6 Crimean War, Istanbul instrumentalized the resettlement of Muslim refugees (muhacir) for state-formation. Under the terms of the 1857 Immigration Regulation and 1858 Ottoman Land Code, muhacir were given “empty land (arazi-i haliye)”—in other words, space that officials deemed to be unoccupied or agriculturally unproductive. Uzunyayla was one of the first of such purportedly empty places. Its settlement by muhacir sparked a violent conflict between the incomers and the Avşars, who had used the land for generations. This paper explores how officials suppressed the pastoralists’ resistance to state policy and coerced the community into sedentary life in the 1860s. The settlement of Uzunyayla is a fruitful case study that can strengthen our understanding of how Tanzimat-era shifts in rural governance and land administration impacted the lives of ordinary Ottoman subjects. I ultimately argue that the Ottoman state used migrant resettlement to render the Anatolian countryside legible and forcibly sedentarize the empire’s nomadic communities.</i></p>
+  <p><i>A growing body of scholarship has reconsidered the Ṭanẓīmāt (1838-76) by detailing how those on the Ottoman Empire’s margins experienced the era’s reforms. This paper builds on such work by centering nomadic pastoralists in the central Anatolian countryside. Using bureaucratic documents from the Ottoman archives, it details the 1860s transformation of the Uzunyayla region in Sivas. Uzunyayla is a highland plateau that the Avşars, a pastoralist Turkmen tribe, traditionally migrated to each summer. Nineteenth-century Ottoman reformers aimed to make rural spaces like Uzunyayla more ‘orderly’ and ‘productive’ through the sedentarization of mobile communities. Simultaneously, after the 1854-6 Crimean War, Istanbul instrumentalized the resettlement of Muslim refugees (muhacir) for state-formation. Under the terms of the 1857 Immigration Regulation and 1858 Ottoman Land Code, muhacir were given “empty land (arazi-i haliye)”—in other words, space that officials deemed to be unoccupied or agriculturally unproductive. Uzunyayla was one of the first of such purportedly empty places. Its settlement by muhacir sparked a violent conflict between the incomers and the Avşars, who had used the land for generations. This paper explores how officials suppressed the pastoralists’ resistance to state policy and coerced the community into sedentary life in the 1860s. The settlement of Uzunyayla is a fruitful case study that can strengthen our understanding of how Ṭanẓīmāt-era shifts in rural governance and land administration impacted the lives of ordinary Ottoman subjects. I ultimately argue that the Ottoman state used migrant resettlement to render the Anatolian countryside legible and forcibly sedentarize the empire’s nomadic communities.</i></p>
 </div>
 </div>
 <p>
@@ -524,7 +510,7 @@ Discussant:<span>
 <br />
 Discussant: Dr. Elham Mireshghi<span>
 <div>
-  <p>Saeed Saffar-Heidari (UIUC, PhD Candidate) — "Revolutionary Counter-Mobilization and the Racialization of Historical Memory (Iran before and after 1979)"</p>
+  <p>Saeed Saffar-Heidari (University of Illinois Urbana-Champaign) — "Revolutionary Counter-Mobilization and the Racialization of Historical Memory (Iran Before and After 1979)"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -536,7 +522,7 @@ Discussant: Dr. Elham Mireshghi<span>
 </div>
 <p>
 <div>
-  <p>Navid Zarrinnal (University of Tehran, Postdoctoral Fellow) — "Theory and Historical Difference: Secularization in Modern Iran"</p>
+  <p>Navid Zarrinnal (University of Tehran) — "Theory and Historical Difference: Secularization in Modern Iran"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -548,7 +534,7 @@ Discussant: Dr. Elham Mireshghi<span>
 </div>
 <p>
 <div>
-  <p>Pouya Nekouei (UT Austin, PhD Student) — "Gender and singing in Pahlavi Iran: Modern Feminine Culture and Masculine Politics in the Age of Pop Culture"</p>
+  <p>Pouya Nekouei (UT Austin) — "Gender and Singing in Pahlavi Iran: Modern Feminine Culture and Masculine Politics in the Age of Pop Culture"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -563,7 +549,7 @@ Discussant: Dr. Elham Mireshghi<span>
 <br />
 Discussant:</span>
 <div>
-  <p>Anna Shabi (UChicago, CMES MA) — "Understanding Twentieth-Century Iraqi Jewish Life through Creations of Family Memory"</p>
+  <p>Anna Shabi (UChicago) — "Understanding Twentieth-Century Iraqi Jewish Life Through Creations of Family Memory"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -575,7 +561,7 @@ Discussant:</span>
 </div>
 <p>
 <div>
-  <p>Abigail Merritt (UChicago, CMES MA) — "The Transformative Journey of Jewish Identity: Zionism and Nationalism in 20th Century Tunisia"</p>
+  <p>Abigail Merritt (UChicago) — "The Transformative Journey of Jewish Identity: Zionism and Nationalism in 20th Century Tunisia"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -605,7 +591,7 @@ Discussant:</span>
   }
 });
   </script>
-</p></p></p></p></p></span></span></p></p></p></p></span></span></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></body>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">MEHAT Schedule — Winter Term 2024</title><link href="http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule.html" rel="alternate" type="text/html" title="MEHAT Schedule — Winter Term 2024" /><published>2024-01-02T11:10:23-06:00</published><updated>2024-01-02T11:10:23-06:00</updated><id>http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule</id><content type="html" xml:base="http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule.html"><![CDATA[<p>We are pleased to announce the tentative schedule for the Winter 2024 meetings of the MEHAT Workshop!
+</p></p></p></p></p></span></span></p></p></p></p></span></span></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></div></p></p></p></p></p></body>]]></content><author><name></name></author><category term="mehat" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">MEHAT Schedule — Winter Term 2024</title><link href="http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule.html" rel="alternate" type="text/html" title="MEHAT Schedule — Winter Term 2024" /><published>2024-01-02T11:10:23-06:00</published><updated>2024-01-02T11:10:23-06:00</updated><id>http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule</id><content type="html" xml:base="http://localhost:4000/mehat/2024/01/02/mehat-winter-2024-schedule.html"><![CDATA[<p>We are pleased to announce the tentative schedule for the Winter 2024 meetings of the MEHAT Workshop!
 <br />
 <br />
 <b>Please note presentations will take place at 4PM on Thursdays throughout the term in SSRB 302 unless otherwise noted.</b></p>
