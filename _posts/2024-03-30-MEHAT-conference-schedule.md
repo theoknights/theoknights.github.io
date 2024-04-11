@@ -19,7 +19,9 @@ hide_image_overlay: true
 <body class="mehat" id="no-background-overlay">
 
 <h3>38th Annual Middle East History and Theory Conference (May 3–4, 2024) <br> <i>The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers</i></h3>
-
+<h3>About the Conference</h3>
+Since its inception more than three decades ago, the annual Middle East History and Theory Conference at the University of Chicago has earned a reputation as one of the premier academic gatherings in the field. Capitalizing on its setting at a university with a strong tradition in Middle Eastern and Islamic Studies, MEHAT has established itself as a major forum for emerging scholars across disciplines to share their research with peers, receive constructive feedback, and establish fruitful academic relationships. Participants come from North America, Europe, and the Middle East, and they have traditionally included researchers at every stage of their careers. This year's organizing theme is <i>The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers</i>. The conference is free and open to the public. You will find a map of conference locations <a href="#map">here</a>. 
+<p>
 <h3>Conference Program</h3>
 <p>
 <b>Friday May 3rd:</b>
@@ -582,6 +584,8 @@ Discussant:</span>
 <p>
 <span class="styled-bold"><b>5:10-7:00 — Dinner — Saieh Hall 112</b></span>
 
+<h3 id="map">Conference Map</h3>
+<iframe src="https://www.google.com/maps/d/embed?mid=1WIcorL4QxW2PC_TF4xXbAM4QCXFpN-Y&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
   <script>
     document.addEventListener("DOMContentLoaded", function () {
