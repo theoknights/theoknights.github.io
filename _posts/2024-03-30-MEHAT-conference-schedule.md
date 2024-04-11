@@ -155,7 +155,7 @@ Discussant: Holly Shissler (UChicago, NELC)</span>
 Discussant: Hoda El Shakry (UChicago, Comparative Literature)</span>
 <p>
 <div>
-  <p>Evangelia Koronios (UChicago) — "Between the Silence and the Scream: The Complex Trauma of the Colonial Condition in Moufida Tlatli’s <i>Ṣamt al-Quṣūr (The Silences of the Palace)”</i></p>
+  <p>Evangelia Koronios (UChicago) — "Between the Silence and the Scream: The Complex Trauma of the Colonial Condition in Moufida Tlatli’s <i>Ṣamt al-Quṣūr (The Silences of the Palace)</i>"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
@@ -254,7 +254,7 @@ Discussant: Hakan Karateke (UChicago, NELC)</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>Saieh Hall 021: New Approaches to the History of the Nahḍa</b>
+<span class="styled-bold"><b>New Approaches to the History of the Nahḍa — Saieh Hall 021</b>
 <br>
 Discussant: Ghenwa Hayek (UChicago, NELC)</span> 
 <p>
@@ -585,7 +585,7 @@ Discussant:</span>
 <span class="styled-bold"><b>5:10-7:00 — Dinner — Saieh Hall 112</b></span>
 
 <h3 id="map">Conference Map</h3>
-<iframe src="https://www.google.com/maps/d/embed?mid=1WIcorL4QxW2PC_TF4xXbAM4QCXFpN-Y&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1WIcorL4QxW2PC_TF4xXbAM4QCXFpN-Y&hl=en&ehbc=2E312F" width="730" height="480"></iframe>
 
   <script>
     document.addEventListener("DOMContentLoaded", function () {
