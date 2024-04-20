@@ -150,7 +150,7 @@ Discussant: Holly Shissler (UChicago, NELC)</span>
 <p>
 <b>10:00-11:40 — Session 2</b>
 <p>
-<span class="styled-bold"><b>Cultural History of the Modern Maghreb — Saieh Hall 203</b>
+<span class="styled-bold"><b>Cultural History of the Modern Maghreb — Saieh Hall 021</b>
 <br>
 Discussant: Hoda El Shakry (UChicago, Comparative Literature)</span>
 <p>
@@ -254,7 +254,7 @@ Discussant: Hakan Karateke (UChicago, NELC)</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>New Approaches to the History of the Nahḍa — Saieh Hall 021</b>
+<span class="styled-bold"><b>New Approaches to the History of the Nahḍa — Saieh Hall 203</b>
 <br>
 Discussant: Ghenwa Hayek (UChicago, NELC)</span> 
 <p>
@@ -361,7 +361,7 @@ Discussant:</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>Armenian History in the Late Ottoman Empire — Saieh Hall 021</b>
+<span class="styled-bold"><b>Armenian History in the Late Ottoman Empire — Saieh Hall 203</b>
 <br>
 Discussant: Isaac Hand (UChicago, Division of the Social Sciences)</span>
 <div>
@@ -412,7 +412,7 @@ Discussant: Isaac Hand (UChicago, Division of the Social Sciences)</span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>Histories of Modern Resistance: Palestine, Iran, and Afghanistan — Saieh Hall 203</b>
+<span class="styled-bold"><b>Histories of Modern Resistance: Palestine, Iran, and Afghanistan — Saieh Hall 021</b>
 <br>
 Discussant: Carl Shook (UChicago, NELC)</span>
 <div>
@@ -516,7 +516,7 @@ Discussant: Murat Bozluolcay (UChicago, IFK) <span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>New Approaches to Modern Iranian History — Saieh Hall 021</b>
+<span class="styled-bold"><b>New Approaches to Modern Iranian History — Saieh Hall 203</b>
 <br>
 Discussant: Elham Mireshghi (UChicago, Divinity School)<span>
 <div>
@@ -555,7 +555,7 @@ Discussant: Elham Mireshghi (UChicago, Divinity School)<span>
 </div>
 </div>
 <p>
-<span class="styled-bold"><b>Middle Eastern Jewish Self-Fashioning: Between Nationalism, Zionism, and Diaspora — Saieh Hall 203</b>
+<span class="styled-bold"><b>Middle Eastern Jewish Self-Fashioning: Between Nationalism, Zionism, and Diaspora — Saieh Hall 021</b>
 <br>
 Discussant:</span>
 <div>
