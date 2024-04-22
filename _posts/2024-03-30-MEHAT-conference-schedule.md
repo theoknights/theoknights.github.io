@@ -34,7 +34,7 @@ Since its inception more than three decades ago, the annual Middle East History 
 <p>
 <span class="styled-bold"><b>Fresh Perspectives on the Classical Age — SSRB 401</b>
 <br>
-Discussant:</span>
+Discussant: Mehmetcan Akpınar (UChicago, Divinity School)</span>
 <div>
 <div>
   <p>Rebecca Makas (Villanova University) — “Reading Sufi Women from the Margins: Reconstructing Lives of Domestic Piety from Disparaging Remarks”</p>
@@ -557,7 +557,7 @@ Discussant: Elham Mireshghi (UChicago, Divinity School)<span>
 <p>
 <span class="styled-bold"><b>Middle Eastern Jewish Self-Fashioning: Between Nationalism, Zionism, and Diaspora — Saieh Hall 021</b>
 <br>
-Discussant:</span>
+Discussant: Coleman Durkin (UChicago, NELC)</span>
 <div>
   <p>Anna Shabi (UChicago) — "Understanding Twentieth-Century Iraqi Jewish Life Through Creations of Family Memory"</p>
 <button class="collapsible">Abstract
