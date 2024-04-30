@@ -335,18 +335,6 @@ Discussant: Aaron Jakes (UChicago, History)</span>
 </div>
 <p>
 <div>
-  <p>Jamil Sbitan (Columbia) — “Queer Excesses: Historicizing Sex Panics in Egypt”</p>
-<button class="collapsible">Abstract
-  <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-    <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
-  </svg>
-</button>
-<div class="content">
-  <p><i>The history of modern Egypt is rife with recurrent and unrelenting sex panics. These recursive historical events, which have a rhythm and structure to them, involve forms of incitement and state violence against sexual subalterns. They comprise discourses and practices of demonization targeting queer populations, “licentious women,” and sex workers, whom are invariably painted as invaders tearing apart at the fabric of the nation, defacing its moral principles, offending religion, and even colluding with imperialist powers. Employing novel approaches within the history of sexuality and materialist queer analysis, this paper explores the structural underpinnings of these panics from a lens which situates them within the longue durée historical transformations involving sexuality, the family, and the state. Based on archival research and ethnographic study of queer politics in Egypt, this paper presents an alternative to dominant approaches to the study of sexuality in the Arab world. In mounting a trenchant critique of culturalist frameworks, it lays bare the nominalism through which the sexual question has been generally understood. As such, it particularly takes its analytical cue from the ways in which sexual subalternity–from the early years of Egyptian independence from colonial rule– has been legally criminalized under the rubric of “prostitution,” and not “homosexuality” as such. As a remnant of the nationalist movement against licensed sex work during the interwar period, the question of “prostitution” haunts the social and political domains in contemporary Egypt. Thus, it undergirds phenomena from raids on bathhouses in Cairo to gendered reproaches of women’s participation in the public sphere. This paper theorizes the uses of this floating signifier of “prostitution” by observing the ways in which it has come to frame sexual subalterns as personifications of the moral excesses of capitalism. It aims to interrogate this fetishistic conception of sexuality, and the attendant panics it generates, by analyzing its conditions of possibility.</i></p>
-</div>
-</div>
-<p>
-<div>
   <p>Xiaoyue Li (Tulane) — “Wearing Out: Infrastructural Exhaustion and Political Economy in Colonial Egypt”</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
