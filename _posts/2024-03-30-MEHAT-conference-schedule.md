@@ -309,7 +309,7 @@ Discussant: Ghenwa Hayek (UChicago, NELC)</span>
 <p>
 <span class="styled-bold"><b>Modern Egypt: Histories of Capitalism and Carcerality — Saieh Hall 112</b>
 <br>
-Discussant:</span>
+Discussant: Aaron Jakes (UChicago, History)</span>
 <div>
   <p>Mehdi Hoseini (Boston College) — “The Ideology of Crime and Punishment in Egypt Under British Rule (1882-1922)”</p>
 <button class="collapsible">Abstract
