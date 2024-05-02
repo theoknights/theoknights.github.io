@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-30T14:46:22-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Theo Knights</title><subtitle></subtitle><entry><title type="html">38th Annual Middle East History and Theory Conference</title><link href="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html" rel="alternate" type="text/html" title="38th Annual Middle East History and Theory Conference" /><published>2024-03-30T01:10:23-05:00</published><updated>2024-03-30T01:10:23-05:00</updated><id>http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule</id><content type="html" xml:base="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html"><![CDATA[<style>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-02T14:48:26-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Theo Knights</title><subtitle></subtitle><entry><title type="html">38th Annual Middle East History and Theory Conference</title><link href="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html" rel="alternate" type="text/html" title="38th Annual Middle East History and Theory Conference" /><published>2024-03-30T01:10:23-05:00</published><updated>2024-03-30T01:10:23-05:00</updated><id>http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule</id><content type="html" xml:base="http://localhost:4000/mehat/2024/03/30/MEHAT-conference-schedule.html"><![CDATA[<style>
   /* CSS to add a 1px black line after each item */
   body.mehat .styled-bold {
     border-bottom: 1px solid #ccc;
@@ -496,7 +496,7 @@ Discussant: Murat Bozluolcay (UChicago, IFK) <span>
 <br />
 Discussant: Elham Mireshghi (UChicago, Divinity School)<span>
 <div>
-  <p>Saeed Saffar-Heidari (University of Illinois Urbana-Champaign) — "Revolutionary Counter-Mobilization and the Racialization of Historical Memory (Iran Before and After 1979)"</p>
+  <p>Saeed Saffar-Heidari (University of Illinois Chicago) — "Revolutionary Counter-Mobilization and the Racialization of Historical Memory (Iran Before and After 1979)"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />

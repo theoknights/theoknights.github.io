@@ -505,7 +505,7 @@ Discussant: Murat Bozluolcay (UChicago, IFK) <span>
 <br>
 Discussant: Elham Mireshghi (UChicago, Divinity School)<span>
 <div>
-  <p>Saeed Saffar-Heidari (University of Illinois Urbana-Champaign) — "Revolutionary Counter-Mobilization and the Racialization of Historical Memory (Iran Before and After 1979)"</p>
+  <p>Saeed Saffar-Heidari (University of Illinois Chicago) — "Revolutionary Counter-Mobilization and the Racialization of Historical Memory (Iran Before and After 1979)"</p>
 <button class="collapsible">Abstract
   <svg class="svg-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
     <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
