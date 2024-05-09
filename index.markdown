@@ -8,13 +8,20 @@ description: I am a PhD student in the Department of Near Eastern Languages and 
 <head>
 <link rel="canonical" href="https://theoknights.com" />
 </head>
-
-  <div id="container"> 
-	I am a PhD student in the Department of Near Eastern Languages and Civilizations at the University of Chicago where I study early modern history.
-  <br><br>
-	
-  </div>
-
+<article>
+      <div class="desktoponly" style="float: right;" id="container">
+        <img alt="moshavot image" src="{{ site.url }}/images/D_01341_0001_00_023 copy.jpg" 
+            style="width: 250px;" />
+      </div>
+      <div class="mobileonly" id="container">
+        <img alt="moshavot image" src="{{ site.url }}/images/D_01341_0001_00_023 copy.jpg"
+            style="width: 100%;" />
+      </div>
+      <div id="container" style="padding-top: 20px"> 
+      I am a PhD student in NELC at the University of Chicago where I study early modern Ottoman history, with a particular interest in the changing economic structure of the Empire during the 17th century.
+      <br><br>
+    </div>
+</article>
 <script language="javascript">
 
         var images = ["{{ site.url }}/images/theoheadshot.jpg"]
