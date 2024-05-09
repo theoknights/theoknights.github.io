@@ -13,7 +13,7 @@ description: I am a PhD student in the Department of Near Eastern Languages and 
         <img alt="moshavot image" src="{{ site.url }}/images/D_01341_0001_00_023 copy.jpg" 
             style="width: 250px;" />
       </div>
-      <div class="mobileonly" id="container">
+      <div class="mobileonly" style="max-width: 400px; margin: 0 auto;" id="container">
         <img alt="moshavot image" src="{{ site.url }}/images/D_01341_0001_00_023 copy.jpg"
             style="width: 100%;" />
       </div>
