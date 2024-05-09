@@ -18,7 +18,7 @@ description: I am a PhD student in the Department of Near Eastern Languages and 
             style="width: 100%;" />
       </div>
       <div id="container" style="padding-top: 20px"> 
-      I am a PhD student in NELC at the University of Chicago where I study early modern Ottoman history, with a particular interest in the changing economic structure of the Empire during the 17th century.
+      I am a PhD student in NELC at the University of Chicago where I study early modern Ottoman history, with a particular interest in the Empire's changing economic structure during the 17th century.
       <br><br>
     </div>
 </article>
