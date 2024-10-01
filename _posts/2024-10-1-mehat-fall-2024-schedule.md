@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "MEHAT Schedule — Fall Term 2024"
+title:  "MEHAT Schedule — Fall Term 2024" 
 date:   2024-10-01 12:10:23 -0500
 categories: mehat
 ---
 
-We are excited to announce the Fall 2024 schedule for the Middle East History and Theory Workshop at The University of Chicago. 
-<br>
-<b>The workshop will meet in person on Thursdays from 4:00–5:30 PM in Pick Hall 218, unless otherwise noted.</b>   
+We are excited to announce the Fall 2024 schedule for the Middle East History and Theory Workshop at The University of Chicago. <b>The workshop will meet in person on Thursdays from 4:00–5:30 PM in Pick Hall 218, unless otherwise noted.</b> 
   <div class="desktoponly" style="max-width: 100%;">
     <a href="{{ site.url }}/images/MEHAT Fall  2024 Poster.jpg" target="_blank">
       <img alt="schedule fall" src="{{ site.url }}/images/MEHAT Fall  2024 Poster.jpg" 
