@@ -3,10 +3,9 @@ layout: page
 title: Scattered Observations from the Papers of Marshall Hodgson et al 
 permalink: /HodgsonPapersandThoughts/
 description: This is an Ottoman transcription keyboard layout package I designed in Ukelele specifically for transcribing Ottoman Turkish.
+search: exclude
+sitemap: false
 ---
-<head>
-    <meta name="robots" content="noindex">
-</head>
 <body>
 <h3>Scattered Observations from the Papers of Marshall Hodgson et al</h3>
 
