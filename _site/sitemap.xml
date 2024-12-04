@@ -61,6 +61,9 @@
 <loc>http://localhost:4000/keyboard/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/afewthoughts/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/mehat/</loc>
 </url>
 <url>
@@ -73,6 +76,10 @@
 <url>
 <loc>http://localhost:4000/pdfs/CV%20July%202023%20%E2%80%94%20Knights.pdf</loc>
 <lastmod>2023-08-05T01:28:09-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pdfs/Dervi%C5%9F%20Mehmed%20Pa%C5%9Fa,%20Vezir%20and%20Entrepreneur:%20A%20Study%20in%20Ottoman%20Political%20Economic%20Theory%20and%20Practice%20copy.pdf</loc>
+<lastmod>2024-12-04T15:13:33-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pdfs/Publication%20Socie%C4%97te%C4%97s%20Politiques%20Compare%C4%97es.pdf</loc>
