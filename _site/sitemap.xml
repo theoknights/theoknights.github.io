@@ -61,15 +61,7 @@
 <loc>http://localhost:4000/keyboard/</loc>
 </url>
 <url>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<loc>http://localhost:4000/_pages/08_afewthoughts.html</loc>
-=======
-<loc>http://localhost:4000/_pages/08_A%20few%20thoughts.html</loc>
->>>>>>> cf6c6c320f7b09e23215e3ff115dd7a09de1855a
-=======
-<loc>http://localhost:4000/_pages/08_A%20few%20thoughts.html</loc>
->>>>>>> cf6c6c320f7b09e23215e3ff115dd7a09de1855a
+<loc>http://localhost:4000/afewthoughts/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/mehat/</loc>
