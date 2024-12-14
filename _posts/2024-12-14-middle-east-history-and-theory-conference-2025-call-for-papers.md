@@ -11,6 +11,7 @@ categories: mehat
   <meta property="og:title" content="39th Annual Middle East History and Theory Conference — Call for Papers"/>
   <meta property="og:description" content="We are excited to announce that the 39th Annual Middle East History and Theory Conference (MEHAT) will take place at The University of Chicago on May 2-3, 2025" />
 </head>
+<div class="frosted-pane">
 <h4>39th Annual Middle East History and Theory Conference | Conceiving Time and Navigating Space: Spatiotemporal Engagements in the Middle East and North Africa</h4> 
 
 <p>We are excited to announce that the <b>39th Annual Middle East History and Theory Conference (MEHAT)</b> will take place at The University of Chicago on <b>May 2-3, 2025</b>.</p>
@@ -41,3 +42,4 @@ categories: mehat
 <p>A small amount of travel support may be available for a number of presenters without access to institutional funding. Please indicate if you are interested in being considered in your email.</p>
 
 <p><b>Please circulate widely!</b> For questions and accessibility concerns, please write to <a href="mailto:mehat2025@gmail.com">mehat2025@gmail.com</a>. You can find additional information, including last year’s conference program for reference, on our <a href="https://theoknights.com/mehat/2024/03/30/MEHAT-conference-schedule.html">website</a>.</p> 
+</div>
