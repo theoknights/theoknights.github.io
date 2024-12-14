@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "40th Annual Middle East History and Theory Conference, Call for Papers"
+title:  "40th Annual Middle East History and Theory Conference — Call for Papers"
 date:   2024-12-14 12:10:23 -0500
 categories: mehat
 ---
