@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "40th Annual Middle East History and Theory Conference — Call for Papers"
+title:  "39th Annual Middle East History and Theory Conference — Call for Papers"
 date:   2024-12-14 12:10:23 -0500
 categories: mehat
 ---
@@ -9,11 +9,11 @@ categories: mehat
   <meta property="og:url" content="https://theoknights.com//mehat/2024/12/14/middle-east-history-and-theory-conference-2025-call-for-papers.html" />
   <meta property="og:type" content="post" />
   <meta property="og:title" content="40th Annual Middle East History and Theory Conference — Call for Papers"/>
-  <meta property="og:description" content="We are excited to announce that the 40th Annual Middle East History and Theory Conference (MEHAT) will take place at The University of Chicago on May 2-3, 2025" />
+  <meta property="og:description" content="We are excited to announce that the 39th Annual Middle East History and Theory Conference (MEHAT) will take place at The University of Chicago on May 2-3, 2025" />
 </head>
-<h4>40th Annual Middle East History and Theory Conference | Conceiving Time and Navigating Space: Spatiotemporal Engagements in the Middle East and North Africa</h4> 
+<h4>39th Annual Middle East History and Theory Conference | Conceiving Time and Navigating Space: Spatiotemporal Engagements in the Middle East and North Africa</h4> 
 
-<p>We are excited to announce that the <b>40th Annual Middle East History and Theory Conference (MEHAT)</b> will take place at The University of Chicago on <b>May 2-3, 2025</b>.</p>
+<p>We are excited to announce that the <b>39th Annual Middle East History and Theory Conference (MEHAT)</b> will take place at The University of Chicago on <b>May 2-3, 2025</b>.</p>
 
 <p><b>Call for Papers.</b> We are now accepting proposals for papers and pre-arranged panels from graduate students, postdocs, faculty, and independent scholars. We invite historians, linguists, anthropologists, literary scholars, sociologists, musicologists, scholars of religion, and political scientists whose work engages with a broad geography, including but not limited to, the Mediterranean, North and West Africa, and South and Central Asia, from Late Antiquity and the advent of Islam to the present. Travel support may be available, please indicate.</p> 
 
