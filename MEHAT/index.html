@@ -31,7 +31,7 @@ description: Middle East History and Theory Workshop and Graduate Student Confer
 			<!-- Loop through and display posts -->
 			{% for post in site.posts %}
 				{% if post.visible != 0 %}
-					<div class="boxed">
+					<div class="boxed2">
 						<time>{{ post.date | date: "%b %-d, %Y" }}</time>
 						<h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
 					</div>
