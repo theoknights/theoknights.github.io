@@ -27,10 +27,11 @@ hide_image_overlay: true
     <img src="{{ site.url }}/images/Copy of MEHAT Poster (3).jpg" style="max-width:100%;height:auto" />
 </div>  
 <h3>About the Conference</h3>
-Since its inception more than three decades ago, the annual Middle East History and Theory Conference at the University of Chicago has earned a reputation as one of the premier academic gatherings in the field. Capitalizing on its setting at a university with a strong tradition in Middle Eastern and Islamic Studies, MEHAT has established itself as a major forum for emerging scholars across disciplines to share their research with peers, receive constructive feedback, and establish fruitful academic relationships. Participants come from North America, Europe, and the Middle East, and they have traditionally included researchers at every stage of their careers. This year's conference theme is <i>The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers</i>. This event is free and open to the public. You will find a map of conference locations <a href="#map">here</a>. 
+Since its inception more than three decades ago, the annual Middle East History and Theory Conference at the University of Chicago has earned a reputation as one of the premier academic gatherings in the field. Capitalizing on its setting at a university with a strong tradition in Middle Eastern and Islamic Studies, MEHAT has established itself as a major forum for emerging scholars across disciplines to share their research with peers, receive constructive feedback, and establish fruitful academic relationships. Participants come from North America, Europe, and the Middle East, and they have traditionally included researchers at every stage of their careers. This year's conference theme is <i>The Middle East from the Margins: Geographic, Temporal, Linguistic, and Cultural Boundary Crossers</i>.  This event is free and open to the public. You will find a map of conference locations <a href="#map">here</a>. 
 <p>
 <b>Please register for the conference <a href="https://docs.google.com/forms/d/e/1FAIpQLSdh0O689R26jrWCU834u7G7my-GWVLaCyLQ9gQkTT5M0rZ5QA/viewform?usp=sf_link/">here</a>.</b>
 <p>
+<p>This year's conference was organized by MES PhD Student Theo Knights and Prof. Hakan Karateke, with support from The University of Chicago's Center for Middle Eastern Studies and the Franke Institute for the Humanities.</p>
 <h3>Conference Program</h3>
 <p>
 <b>Friday May 3rd:</b>
